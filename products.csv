@@ -1,0 +1,57 @@
+product_id,product_name,category,unit_price,cost_price
+1,Tomato 1kg,Fruits & Vegetables,172,148.57
+2,Onion 1kg,Fruits & Vegetables,116,95.68
+3,Banana 6pc,Fruits & Vegetables,66,59.13
+4,Apple 1kg,Fruits & Vegetables,25,22.11
+5,Potato 1kg,Fruits & Vegetables,44,36.67
+6,Spinach 250g,Fruits & Vegetables,119,103.33
+7,Mango 1kg,Fruits & Vegetables,49,41.01
+8,Capsicum 500g,Fruits & Vegetables,119,107.97
+9,Amul Milk 1L,Dairy & Eggs,198,175.66
+10,Eggs 12pc,Dairy & Eggs,66,60.18
+11,Paneer 200g,Dairy & Eggs,33,28.08
+12,Curd 400g,Dairy & Eggs,134,120.17
+13,Butter 100g,Dairy & Eggs,112,101.79
+14,Cheese Slices,Dairy & Eggs,131,109.91
+15,Lassi 200ml,Dairy & Eggs,174,143.97
+16,Ghee 500ml,Dairy & Eggs,54,47.41
+17,Lays Chips,Snacks & Beverages,168,138.21
+18,Coca Cola 750ml,Snacks & Beverages,79,65.46
+19,Maggi 4pk,Snacks & Beverages,274,230.64
+20,Oreo Biscuits,Snacks & Beverages,112,101.02
+21,Real Juice 1L,Snacks & Beverages,54,46.05
+22,Cold Coffee,Snacks & Beverages,247,213.02
+23,Kurkure,Snacks & Beverages,229,210.4
+24,Bournvita 500g,Snacks & Beverages,224,203.03
+25,Aashirvaad Atta 5kg,Staples,401,331.39
+26,Basmati Rice 5kg,Staples,129,107.62
+27,Toor Dal 1kg,Staples,260,219.37
+28,Sugar 1kg,Staples,498,456.01
+29,Fortune Oil 1L,Staples,214,192.94
+30,Salt 1kg,Staples,479,431.5
+31,Besan 500g,Staples,472,421.89
+32,Poha 500g,Staples,322,268.0
+33,Colgate 200g,Personal Care,182,158.32
+34,Dove Soap 3pk,Personal Care,335,291.86
+35,Head&Shoulders 340ml,Personal Care,349,303.46
+36,Dettol Handwash,Personal Care,401,352.42
+37,Face Wash,Personal Care,146,125.83
+38,Hair Oil,Personal Care,253,227.14
+39,Deodorant,Personal Care,52,43.18
+40,Sanitary Pads,Personal Care,375,338.8
+41,Surf Excel 1kg,Household,270,245.9
+42,Vim Gel 500ml,Household,223,185.3
+43,Harpic 500ml,Household,312,262.5
+44,Garbage Bags,Household,265,241.51
+45,Tissue Roll,Household,152,128.85
+46,Lizol 1L,Household,144,129.17
+47,Scotch Brite,Household,329,293.8
+48,Odonil,Household,53,43.88
+49,USB-C Cable,Electronics & Gadgets,439,318.88
+50,Earphones,Electronics & Gadgets,382,273.36
+51,Power Bank 10000mAh,Electronics & Gadgets,1139,857.0
+52,LED Bulb 9W,Electronics & Gadgets,1878,1476.64
+53,Phone Stand,Electronics & Gadgets,1680,1304.85
+54,AA Batteries 4pk,Electronics & Gadgets,1367,978.86
+55,Bluetooth Speaker,Electronics & Gadgets,569,402.1
+56,Smart Plug,Electronics & Gadgets,1296,939.36

@@ -1,0 +1,2001 @@
+customer_id,customer_name,gender,age,city,state,signup_date,acquisition_channel,is_prime_member
+1,Customer_0001,M,42,Mumbai,Maharashtra,2026-05-30,Google Ads,0
+2,Customer_0002,F,18,Bengaluru,Karnataka,2026-05-18,Organic,0
+3,Customer_0003,F,27,Mumbai,Maharashtra,2025-04-11,Organic,1
+4,Customer_0004,M,25,Ahmedabad,Gujarat,2026-01-21,Google Ads,0
+5,Customer_0005,F,42,Bengaluru,Karnataka,2025-10-22,Instagram Ads,0
+6,Customer_0006,M,31,Delhi,Delhi,2026-08-23,Instagram Ads,1
+7,Customer_0007,F,35,Ahmedabad,Gujarat,2026-05-18,Influencer,0
+8,Customer_0008,M,21,Kolkata,West Bengal,2026-08-13,Referral,1
+9,Customer_0009,F,20,Bengaluru,Karnataka,2025-04-16,Organic,1
+10,Customer_0010,F,31,Hyderabad,Telangana,2026-04-13,Google Ads,0
+11,Customer_0011,F,23,Delhi,Delhi,2026-05-29,Organic,0
+12,Customer_0012,F,32,Hyderabad,Telangana,2026-04-15,Instagram Ads,0
+13,Customer_0013,F,33,Chennai,Tamil Nadu,2026-04-23,Influencer,1
+14,Customer_0014,F,20,Delhi,Delhi,2025-04-11,Instagram Ads,1
+15,Customer_0015,F,36,Jaipur,Rajasthan,2026-05-06,Organic,1
+16,Customer_0016,F,25,Mumbai,Maharashtra,2025-01-15,Google Ads,1
+17,Customer_0017,M,30,Mumbai,Maharashtra,2025-07-23,Google Ads,0
+18,Customer_0018,F,18,Pune,Maharashtra,2025-11-17,Google Ads,1
+19,Customer_0019,F,40,Bengaluru,Karnataka,2026-04-30,Influencer,1
+20,Customer_0020,F,36,Ahmedabad,Gujarat,2025-11-10,Referral,0
+21,Customer_0021,F,31,Pune,Maharashtra,2025-01-15,Instagram Ads,0
+22,Customer_0022,F,28,Chennai,Tamil Nadu,2025-01-27,Instagram Ads,0
+23,Customer_0023,F,18,Delhi,Delhi,2025-05-05,Organic,0
+24,Customer_0024,M,23,Bengaluru,Karnataka,2025-12-11,Google Ads,0
+25,Customer_0025,M,39,Delhi,Delhi,2025-07-20,Referral,0
+26,Customer_0026,M,32,Chennai,Tamil Nadu,2025-07-13,Organic,0
+27,Customer_0027,M,38,Kolkata,West Bengal,2026-06-14,Instagram Ads,0
+28,Customer_0028,M,43,Delhi,Delhi,2025-03-22,Instagram Ads,0
+29,Customer_0029,M,25,Bengaluru,Karnataka,2026-03-02,Organic,1
+30,Customer_0030,M,38,Kolkata,West Bengal,2025-04-07,Organic,0
+31,Customer_0031,M,37,Bengaluru,Karnataka,2025-12-05,Organic,0
+32,Customer_0032,F,28,Bengaluru,Karnataka,2026-07-06,Google Ads,0
+33,Customer_0033,M,35,Pune,Maharashtra,2025-10-29,Influencer,0
+34,Customer_0034,M,33,Chennai,Tamil Nadu,2025-12-31,Google Ads,0
+35,Customer_0035,F,34,Delhi,Delhi,2026-08-26,Organic,0
+36,Customer_0036,M,28,Ahmedabad,Gujarat,2025-09-21,Organic,0
+37,Customer_0037,F,26,Delhi,Delhi,2025-04-07,Google Ads,0
+38,Customer_0038,M,38,Mumbai,Maharashtra,2026-02-18,Google Ads,0
+39,Customer_0039,F,18,Hyderabad,Telangana,2025-05-03,Instagram Ads,0
+40,Customer_0040,F,42,Bengaluru,Karnataka,2025-01-25,Organic,1
+41,Customer_0041,F,22,Kolkata,West Bengal,2025-05-06,Instagram Ads,0
+42,Customer_0042,M,45,Bengaluru,Karnataka,2025-04-26,Organic,0
+43,Customer_0043,O,35,Delhi,Delhi,2025-11-06,Instagram Ads,1
+44,Customer_0044,M,35,Hyderabad,Telangana,2025-05-09,Google Ads,1
+45,Customer_0045,M,30,Hyderabad,Telangana,2026-02-11,Instagram Ads,0
+46,Customer_0046,M,31,Jaipur,Rajasthan,2025-05-22,Referral,0
+47,Customer_0047,F,21,Hyderabad,Telangana,2026-06-11,Instagram Ads,0
+48,Customer_0048,M,20,Mumbai,Maharashtra,2025-09-06,Google Ads,1
+49,Customer_0049,F,35,Ahmedabad,Gujarat,2026-02-13,Referral,0
+50,Customer_0050,F,28,Pune,Maharashtra,2026-01-03,Instagram Ads,0
+51,Customer_0051,M,26,Kolkata,West Bengal,2026-08-18,Referral,1
+52,Customer_0052,M,26,Kolkata,West Bengal,2026-06-20,Google Ads,0
+53,Customer_0053,M,31,Delhi,Delhi,2025-09-29,Organic,1
+54,Customer_0054,F,29,Hyderabad,Telangana,2026-08-10,Instagram Ads,1
+55,Customer_0055,M,41,Bengaluru,Karnataka,2025-06-11,Instagram Ads,0
+56,Customer_0056,M,36,Mumbai,Maharashtra,2026-08-30,Organic,0
+57,Customer_0057,F,34,Bengaluru,Karnataka,2026-01-01,Organic,0
+58,Customer_0058,M,42,Bengaluru,Karnataka,2026-03-09,Google Ads,0
+59,Customer_0059,M,18,Delhi,Delhi,2025-05-29,Google Ads,0
+60,Customer_0060,M,28,Delhi,Delhi,2026-01-12,Google Ads,0
+61,Customer_0061,M,21,Mumbai,Maharashtra,2025-12-01,Google Ads,0
+62,Customer_0062,M,37,Ahmedabad,Gujarat,2025-05-04,Referral,0
+63,Customer_0063,M,30,Bengaluru,Karnataka,2026-08-23,Instagram Ads,0
+64,Customer_0064,F,26,Chennai,Tamil Nadu,2025-08-20,Instagram Ads,0
+65,Customer_0065,M,32,Ahmedabad,Gujarat,2026-05-21,Referral,1
+66,Customer_0066,F,38,Chennai,Tamil Nadu,2025-12-25,Organic,0
+67,Customer_0067,F,33,Bengaluru,Karnataka,2025-05-11,Referral,0
+68,Customer_0068,M,23,Mumbai,Maharashtra,2025-10-02,Google Ads,0
+69,Customer_0069,F,42,Delhi,Delhi,2026-04-15,Google Ads,0
+70,Customer_0070,M,31,Hyderabad,Telangana,2026-05-22,Instagram Ads,0
+71,Customer_0071,M,28,Mumbai,Maharashtra,2026-02-14,Organic,0
+72,Customer_0072,F,42,Hyderabad,Telangana,2026-05-03,Instagram Ads,0
+73,Customer_0073,F,23,Pune,Maharashtra,2025-05-04,Referral,0
+74,Customer_0074,M,42,Hyderabad,Telangana,2026-01-14,Instagram Ads,0
+75,Customer_0075,F,33,Mumbai,Maharashtra,2025-12-04,Google Ads,0
+76,Customer_0076,M,41,Delhi,Delhi,2026-06-19,Organic,0
+77,Customer_0077,M,47,Delhi,Delhi,2025-07-09,Google Ads,0
+78,Customer_0078,F,28,Delhi,Delhi,2026-05-07,Referral,0
+79,Customer_0079,F,29,Bengaluru,Karnataka,2025-01-23,Organic,0
+80,Customer_0080,M,43,Kolkata,West Bengal,2026-02-14,Referral,1
+81,Customer_0081,F,40,Chennai,Tamil Nadu,2026-06-06,Referral,1
+82,Customer_0082,F,28,Hyderabad,Telangana,2026-05-16,Instagram Ads,0
+83,Customer_0083,F,18,Bengaluru,Karnataka,2025-06-28,Influencer,0
+84,Customer_0084,M,18,Pune,Maharashtra,2026-03-16,Instagram Ads,1
+85,Customer_0085,F,22,Nagpur,Maharashtra,2026-05-16,Instagram Ads,0
+86,Customer_0086,M,38,Pune,Maharashtra,2026-07-19,Google Ads,0
+87,Customer_0087,M,28,Kolkata,West Bengal,2026-08-10,Referral,0
+88,Customer_0088,M,36,Jaipur,Rajasthan,2026-01-01,Organic,0
+89,Customer_0089,F,47,Pune,Maharashtra,2025-06-07,Instagram Ads,0
+90,Customer_0090,F,19,Ahmedabad,Gujarat,2025-04-05,Organic,0
+91,Customer_0091,M,38,Chennai,Tamil Nadu,2025-02-11,Google Ads,1
+92,Customer_0092,M,35,Nagpur,Maharashtra,2025-01-29,Referral,0
+93,Customer_0093,M,30,Hyderabad,Telangana,2025-07-24,Instagram Ads,0
+94,Customer_0094,F,41,Bengaluru,Karnataka,2026-03-09,Referral,0
+95,Customer_0095,F,44,Jaipur,Rajasthan,2026-03-28,Google Ads,0
+96,Customer_0096,M,39,Mumbai,Maharashtra,2025-06-11,Google Ads,0
+97,Customer_0097,M,19,Jaipur,Rajasthan,2026-03-15,Referral,0
+98,Customer_0098,F,18,Delhi,Delhi,2025-01-10,Referral,1
+99,Customer_0099,M,18,Bengaluru,Karnataka,2025-05-22,Instagram Ads,0
+100,Customer_0100,F,22,Hyderabad,Telangana,2026-07-28,Influencer,0
+101,Customer_0101,M,32,Bengaluru,Karnataka,2026-07-14,Organic,0
+102,Customer_0102,F,23,Bengaluru,Karnataka,2026-04-09,Referral,1
+103,Customer_0103,M,33,Jaipur,Rajasthan,2026-05-06,Organic,0
+104,Customer_0104,M,27,Bengaluru,Karnataka,2025-09-19,Google Ads,0
+105,Customer_0105,F,28,Hyderabad,Telangana,2025-05-03,Instagram Ads,0
+106,Customer_0106,F,23,Ahmedabad,Gujarat,2025-09-06,Instagram Ads,0
+107,Customer_0107,M,20,Hyderabad,Telangana,2026-03-26,Instagram Ads,0
+108,Customer_0108,F,24,Jaipur,Rajasthan,2026-01-29,Referral,0
+109,Customer_0109,F,36,Kolkata,West Bengal,2025-11-18,Instagram Ads,1
+110,Customer_0110,F,22,Pune,Maharashtra,2026-06-28,Referral,0
+111,Customer_0111,M,34,Bengaluru,Karnataka,2026-04-14,Instagram Ads,1
+112,Customer_0112,M,18,Nagpur,Maharashtra,2025-02-22,Instagram Ads,1
+113,Customer_0113,M,33,Mumbai,Maharashtra,2025-06-21,Referral,0
+114,Customer_0114,F,45,Ahmedabad,Gujarat,2026-07-17,Influencer,1
+115,Customer_0115,M,46,Chennai,Tamil Nadu,2026-06-12,Influencer,0
+116,Customer_0116,M,25,Jaipur,Rajasthan,2025-02-18,Google Ads,0
+117,Customer_0117,F,41,Mumbai,Maharashtra,2025-02-14,Instagram Ads,0
+118,Customer_0118,M,35,Bengaluru,Karnataka,2026-07-08,Instagram Ads,0
+119,Customer_0119,M,21,Delhi,Delhi,2025-03-31,Instagram Ads,0
+120,Customer_0120,F,35,Pune,Maharashtra,2025-06-18,Instagram Ads,1
+121,Customer_0121,F,41,Hyderabad,Telangana,2026-04-25,Influencer,0
+122,Customer_0122,F,36,Bengaluru,Karnataka,2025-09-07,Referral,0
+123,Customer_0123,M,39,Kolkata,West Bengal,2025-06-29,Organic,0
+124,Customer_0124,F,41,Hyderabad,Telangana,2026-08-04,Organic,0
+125,Customer_0125,F,43,Mumbai,Maharashtra,2025-09-16,Google Ads,0
+126,Customer_0126,M,18,Jaipur,Rajasthan,2025-07-03,Influencer,0
+127,Customer_0127,M,23,Chennai,Tamil Nadu,2026-04-15,Organic,1
+128,Customer_0128,M,18,Ahmedabad,Gujarat,2026-05-05,Organic,0
+129,Customer_0129,O,28,Pune,Maharashtra,2025-09-16,Google Ads,0
+130,Customer_0130,F,34,Hyderabad,Telangana,2025-04-09,Instagram Ads,0
+131,Customer_0131,F,27,Delhi,Delhi,2025-10-08,Organic,0
+132,Customer_0132,M,18,Delhi,Delhi,2025-10-31,Organic,0
+133,Customer_0133,F,31,Pune,Maharashtra,2025-10-29,Instagram Ads,1
+134,Customer_0134,F,42,Pune,Maharashtra,2025-05-12,Organic,0
+135,Customer_0135,F,19,Ahmedabad,Gujarat,2026-07-06,Organic,0
+136,Customer_0136,F,44,Mumbai,Maharashtra,2025-07-20,Google Ads,0
+137,Customer_0137,F,28,Jaipur,Rajasthan,2026-05-24,Instagram Ads,0
+138,Customer_0138,F,18,Kolkata,West Bengal,2025-08-20,Referral,1
+139,Customer_0139,F,30,Hyderabad,Telangana,2025-12-25,Organic,0
+140,Customer_0140,M,20,Delhi,Delhi,2026-01-08,Google Ads,0
+141,Customer_0141,M,35,Ahmedabad,Gujarat,2025-01-30,Instagram Ads,1
+142,Customer_0142,M,39,Bengaluru,Karnataka,2025-07-14,Influencer,0
+143,Customer_0143,M,23,Delhi,Delhi,2026-04-14,Referral,0
+144,Customer_0144,F,33,Mumbai,Maharashtra,2025-12-16,Google Ads,0
+145,Customer_0145,F,27,Mumbai,Maharashtra,2025-07-15,Organic,0
+146,Customer_0146,F,34,Bengaluru,Karnataka,2025-04-12,Referral,0
+147,Customer_0147,M,27,Mumbai,Maharashtra,2026-04-20,Instagram Ads,0
+148,Customer_0148,M,31,Jaipur,Rajasthan,2026-02-22,Organic,0
+149,Customer_0149,M,34,Nagpur,Maharashtra,2025-04-22,Google Ads,0
+150,Customer_0150,M,30,Chennai,Tamil Nadu,2026-03-22,Instagram Ads,1
+151,Customer_0151,F,23,Delhi,Delhi,2025-03-26,Referral,0
+152,Customer_0152,F,44,Chennai,Tamil Nadu,2026-06-21,Organic,0
+153,Customer_0153,F,34,Nagpur,Maharashtra,2026-04-17,Google Ads,0
+154,Customer_0154,F,47,Delhi,Delhi,2026-06-14,Instagram Ads,1
+155,Customer_0155,F,25,Nagpur,Maharashtra,2025-07-22,Influencer,0
+156,Customer_0156,F,18,Delhi,Delhi,2026-03-11,Google Ads,1
+157,Customer_0157,F,21,Ahmedabad,Gujarat,2026-03-17,Instagram Ads,1
+158,Customer_0158,F,24,Delhi,Delhi,2025-12-26,Organic,0
+159,Customer_0159,F,20,Mumbai,Maharashtra,2025-01-24,Organic,1
+160,Customer_0160,F,27,Bengaluru,Karnataka,2026-01-29,Organic,0
+161,Customer_0161,F,48,Mumbai,Maharashtra,2025-06-30,Instagram Ads,0
+162,Customer_0162,M,21,Hyderabad,Telangana,2026-06-13,Organic,0
+163,Customer_0163,M,41,Delhi,Delhi,2025-04-30,Organic,0
+164,Customer_0164,F,22,Chennai,Tamil Nadu,2026-02-02,Influencer,0
+165,Customer_0165,F,18,Mumbai,Maharashtra,2025-10-21,Instagram Ads,1
+166,Customer_0166,M,24,Delhi,Delhi,2025-06-03,Google Ads,0
+167,Customer_0167,F,19,Mumbai,Maharashtra,2026-08-11,Referral,0
+168,Customer_0168,F,34,Kolkata,West Bengal,2025-05-12,Influencer,0
+169,Customer_0169,F,33,Hyderabad,Telangana,2025-07-30,Instagram Ads,0
+170,Customer_0170,M,30,Delhi,Delhi,2025-03-18,Instagram Ads,0
+171,Customer_0171,F,38,Nagpur,Maharashtra,2025-08-13,Organic,0
+172,Customer_0172,M,35,Chennai,Tamil Nadu,2026-04-21,Organic,0
+173,Customer_0173,F,26,Nagpur,Maharashtra,2025-05-03,Organic,0
+174,Customer_0174,F,33,Mumbai,Maharashtra,2025-05-19,Referral,1
+175,Customer_0175,M,28,Mumbai,Maharashtra,2026-07-23,Influencer,1
+176,Customer_0176,M,21,Pune,Maharashtra,2026-04-11,Organic,0
+177,Customer_0177,F,29,Jaipur,Rajasthan,2026-03-01,Influencer,1
+178,Customer_0178,F,34,Mumbai,Maharashtra,2025-03-11,Organic,0
+179,Customer_0179,F,33,Pune,Maharashtra,2026-07-08,Instagram Ads,0
+180,Customer_0180,M,40,Jaipur,Rajasthan,2026-02-26,Organic,1
+181,Customer_0181,F,28,Bengaluru,Karnataka,2026-05-20,Google Ads,1
+182,Customer_0182,F,27,Pune,Maharashtra,2025-09-18,Referral,0
+183,Customer_0183,M,28,Chennai,Tamil Nadu,2025-01-22,Organic,0
+184,Customer_0184,F,28,Delhi,Delhi,2025-12-31,Organic,0
+185,Customer_0185,F,31,Hyderabad,Telangana,2025-10-12,Organic,1
+186,Customer_0186,M,29,Bengaluru,Karnataka,2025-06-26,Referral,0
+187,Customer_0187,F,22,Delhi,Delhi,2025-11-12,Instagram Ads,0
+188,Customer_0188,F,34,Delhi,Delhi,2026-01-12,Organic,0
+189,Customer_0189,M,29,Chennai,Tamil Nadu,2025-12-05,Instagram Ads,0
+190,Customer_0190,F,24,Chennai,Tamil Nadu,2025-11-13,Referral,0
+191,Customer_0191,M,27,Nagpur,Maharashtra,2025-10-25,Instagram Ads,0
+192,Customer_0192,F,46,Mumbai,Maharashtra,2026-02-01,Google Ads,0
+193,Customer_0193,M,25,Mumbai,Maharashtra,2025-10-14,Influencer,1
+194,Customer_0194,F,29,Ahmedabad,Gujarat,2025-08-20,Organic,0
+195,Customer_0195,F,20,Pune,Maharashtra,2025-10-08,Google Ads,0
+196,Customer_0196,F,32,Chennai,Tamil Nadu,2025-05-12,Instagram Ads,0
+197,Customer_0197,M,29,Jaipur,Rajasthan,2026-01-15,Organic,0
+198,Customer_0198,M,29,Chennai,Tamil Nadu,2025-11-18,Organic,0
+199,Customer_0199,M,34,Mumbai,Maharashtra,2025-04-21,Organic,0
+200,Customer_0200,M,43,Pune,Maharashtra,2026-01-18,Organic,0
+201,Customer_0201,M,46,Bengaluru,Karnataka,2026-04-05,Instagram Ads,0
+202,Customer_0202,M,18,Mumbai,Maharashtra,2026-02-15,Organic,0
+203,Customer_0203,M,30,Nagpur,Maharashtra,2025-09-04,Organic,1
+204,Customer_0204,F,29,Delhi,Delhi,2026-02-04,Influencer,1
+205,Customer_0205,M,32,Bengaluru,Karnataka,2025-12-12,Organic,1
+206,Customer_0206,M,24,Mumbai,Maharashtra,2026-03-27,Referral,1
+207,Customer_0207,F,32,Kolkata,West Bengal,2026-04-06,Organic,0
+208,Customer_0208,M,19,Pune,Maharashtra,2026-06-05,Organic,0
+209,Customer_0209,M,25,Mumbai,Maharashtra,2026-05-14,Google Ads,0
+210,Customer_0210,F,29,Kolkata,West Bengal,2025-04-19,Influencer,0
+211,Customer_0211,F,37,Bengaluru,Karnataka,2025-12-15,Influencer,1
+212,Customer_0212,M,32,Mumbai,Maharashtra,2026-05-26,Influencer,1
+213,Customer_0213,M,32,Hyderabad,Telangana,2025-07-20,Referral,1
+214,Customer_0214,M,33,Jaipur,Rajasthan,2025-06-14,Referral,0
+215,Customer_0215,M,18,Delhi,Delhi,2025-06-05,Referral,1
+216,Customer_0216,M,18,Pune,Maharashtra,2026-06-25,Google Ads,0
+217,Customer_0217,M,22,Hyderabad,Telangana,2025-01-28,Influencer,0
+218,Customer_0218,M,35,Mumbai,Maharashtra,2026-01-09,Referral,0
+219,Customer_0219,F,34,Bengaluru,Karnataka,2026-06-18,Organic,1
+220,Customer_0220,M,30,Mumbai,Maharashtra,2025-04-18,Instagram Ads,0
+221,Customer_0221,M,38,Hyderabad,Telangana,2026-03-24,Influencer,1
+222,Customer_0222,M,29,Ahmedabad,Gujarat,2026-02-10,Organic,1
+223,Customer_0223,M,22,Delhi,Delhi,2025-04-22,Organic,0
+224,Customer_0224,F,28,Pune,Maharashtra,2025-08-07,Google Ads,0
+225,Customer_0225,F,40,Nagpur,Maharashtra,2025-05-10,Organic,0
+226,Customer_0226,M,18,Jaipur,Rajasthan,2026-01-06,Instagram Ads,1
+227,Customer_0227,F,40,Chennai,Tamil Nadu,2025-03-14,Organic,1
+228,Customer_0228,M,35,Nagpur,Maharashtra,2025-08-30,Instagram Ads,0
+229,Customer_0229,M,30,Mumbai,Maharashtra,2026-07-24,Organic,0
+230,Customer_0230,F,22,Mumbai,Maharashtra,2025-01-26,Organic,0
+231,Customer_0231,M,38,Kolkata,West Bengal,2025-01-02,Organic,0
+232,Customer_0232,F,34,Kolkata,West Bengal,2026-06-07,Organic,0
+233,Customer_0233,F,29,Bengaluru,Karnataka,2025-08-08,Organic,1
+234,Customer_0234,M,27,Chennai,Tamil Nadu,2025-05-14,Google Ads,1
+235,Customer_0235,F,27,Ahmedabad,Gujarat,2026-01-22,Google Ads,0
+236,Customer_0236,F,30,Ahmedabad,Gujarat,2025-10-21,Organic,0
+237,Customer_0237,M,26,Mumbai,Maharashtra,2026-04-03,Referral,1
+238,Customer_0238,F,26,Ahmedabad,Gujarat,2025-11-14,Instagram Ads,0
+239,Customer_0239,M,27,Kolkata,West Bengal,2026-04-24,Instagram Ads,0
+240,Customer_0240,M,31,Bengaluru,Karnataka,2026-01-09,Google Ads,0
+241,Customer_0241,F,43,Delhi,Delhi,2025-08-14,Google Ads,0
+242,Customer_0242,F,23,Kolkata,West Bengal,2026-04-21,Organic,0
+243,Customer_0243,M,36,Kolkata,West Bengal,2025-11-09,Organic,0
+244,Customer_0244,F,23,Nagpur,Maharashtra,2025-05-11,Influencer,1
+245,Customer_0245,F,25,Bengaluru,Karnataka,2026-02-03,Instagram Ads,0
+246,Customer_0246,M,36,Bengaluru,Karnataka,2025-06-29,Google Ads,0
+247,Customer_0247,F,23,Pune,Maharashtra,2026-08-18,Google Ads,1
+248,Customer_0248,M,33,Hyderabad,Telangana,2025-04-01,Referral,0
+249,Customer_0249,M,34,Kolkata,West Bengal,2026-02-22,Organic,1
+250,Customer_0250,F,38,Kolkata,West Bengal,2025-01-18,Influencer,0
+251,Customer_0251,F,27,Hyderabad,Telangana,2025-09-25,Instagram Ads,1
+252,Customer_0252,F,29,Pune,Maharashtra,2025-09-30,Referral,0
+253,Customer_0253,M,27,Ahmedabad,Gujarat,2026-01-30,Google Ads,1
+254,Customer_0254,M,27,Bengaluru,Karnataka,2025-06-12,Google Ads,1
+255,Customer_0255,F,19,Pune,Maharashtra,2025-10-24,Referral,0
+256,Customer_0256,M,34,Ahmedabad,Gujarat,2026-08-13,Organic,0
+257,Customer_0257,M,34,Chennai,Tamil Nadu,2026-02-10,Referral,0
+258,Customer_0258,F,29,Pune,Maharashtra,2025-05-02,Google Ads,0
+259,Customer_0259,M,21,Delhi,Delhi,2025-01-29,Instagram Ads,0
+260,Customer_0260,F,19,Mumbai,Maharashtra,2025-10-29,Influencer,0
+261,Customer_0261,F,31,Bengaluru,Karnataka,2026-04-26,Instagram Ads,1
+262,Customer_0262,M,36,Chennai,Tamil Nadu,2025-09-22,Organic,0
+263,Customer_0263,F,44,Jaipur,Rajasthan,2025-10-21,Instagram Ads,0
+264,Customer_0264,O,26,Chennai,Tamil Nadu,2025-02-17,Organic,0
+265,Customer_0265,M,41,Mumbai,Maharashtra,2025-10-19,Organic,1
+266,Customer_0266,M,39,Delhi,Delhi,2025-09-22,Google Ads,1
+267,Customer_0267,M,18,Ahmedabad,Gujarat,2026-06-08,Referral,1
+268,Customer_0268,M,20,Delhi,Delhi,2025-01-16,Google Ads,1
+269,Customer_0269,F,24,Kolkata,West Bengal,2025-10-20,Influencer,1
+270,Customer_0270,M,35,Delhi,Delhi,2025-09-11,Referral,0
+271,Customer_0271,M,36,Pune,Maharashtra,2025-10-25,Referral,1
+272,Customer_0272,M,21,Kolkata,West Bengal,2026-07-18,Organic,0
+273,Customer_0273,M,32,Nagpur,Maharashtra,2025-03-19,Organic,0
+274,Customer_0274,M,41,Bengaluru,Karnataka,2026-04-01,Instagram Ads,0
+275,Customer_0275,F,28,Jaipur,Rajasthan,2025-05-25,Organic,0
+276,Customer_0276,F,42,Jaipur,Rajasthan,2026-05-29,Instagram Ads,0
+277,Customer_0277,M,30,Delhi,Delhi,2026-03-24,Organic,1
+278,Customer_0278,F,24,Bengaluru,Karnataka,2026-06-18,Google Ads,0
+279,Customer_0279,F,22,Hyderabad,Telangana,2026-02-13,Instagram Ads,0
+280,Customer_0280,M,30,Pune,Maharashtra,2026-01-31,Google Ads,0
+281,Customer_0281,M,35,Nagpur,Maharashtra,2026-04-23,Organic,0
+282,Customer_0282,F,27,Bengaluru,Karnataka,2026-01-31,Google Ads,0
+283,Customer_0283,F,38,Mumbai,Maharashtra,2025-10-06,Organic,1
+284,Customer_0284,F,18,Nagpur,Maharashtra,2026-03-13,Instagram Ads,0
+285,Customer_0285,F,42,Jaipur,Rajasthan,2025-07-12,Influencer,0
+286,Customer_0286,F,26,Mumbai,Maharashtra,2026-04-03,Instagram Ads,0
+287,Customer_0287,F,27,Ahmedabad,Gujarat,2025-05-29,Organic,1
+288,Customer_0288,F,22,Jaipur,Rajasthan,2025-01-14,Instagram Ads,0
+289,Customer_0289,M,22,Jaipur,Rajasthan,2026-07-21,Instagram Ads,0
+290,Customer_0290,F,18,Hyderabad,Telangana,2026-07-02,Instagram Ads,0
+291,Customer_0291,F,30,Bengaluru,Karnataka,2026-08-09,Google Ads,0
+292,Customer_0292,F,25,Ahmedabad,Gujarat,2025-12-20,Instagram Ads,0
+293,Customer_0293,M,40,Delhi,Delhi,2025-10-26,Google Ads,0
+294,Customer_0294,F,23,Chennai,Tamil Nadu,2026-02-25,Instagram Ads,0
+295,Customer_0295,F,36,Delhi,Delhi,2025-07-11,Instagram Ads,0
+296,Customer_0296,F,23,Ahmedabad,Gujarat,2025-07-24,Organic,0
+297,Customer_0297,M,35,Mumbai,Maharashtra,2026-08-04,Organic,0
+298,Customer_0298,F,20,Delhi,Delhi,2025-11-17,Referral,0
+299,Customer_0299,F,26,Jaipur,Rajasthan,2025-12-12,Organic,1
+300,Customer_0300,M,30,Delhi,Delhi,2026-08-13,Google Ads,1
+301,Customer_0301,F,34,Pune,Maharashtra,2026-04-02,Referral,1
+302,Customer_0302,M,25,Nagpur,Maharashtra,2025-11-24,Instagram Ads,0
+303,Customer_0303,F,18,Hyderabad,Telangana,2026-04-09,Google Ads,0
+304,Customer_0304,M,31,Mumbai,Maharashtra,2026-04-24,Organic,1
+305,Customer_0305,F,24,Nagpur,Maharashtra,2025-05-20,Google Ads,0
+306,Customer_0306,M,30,Ahmedabad,Gujarat,2025-01-14,Google Ads,0
+307,Customer_0307,M,39,Pune,Maharashtra,2025-06-13,Referral,0
+308,Customer_0308,M,18,Bengaluru,Karnataka,2026-06-09,Influencer,0
+309,Customer_0309,F,42,Delhi,Delhi,2025-12-08,Organic,1
+310,Customer_0310,F,18,Jaipur,Rajasthan,2026-01-27,Organic,0
+311,Customer_0311,O,27,Chennai,Tamil Nadu,2025-06-03,Instagram Ads,1
+312,Customer_0312,F,19,Mumbai,Maharashtra,2026-02-02,Instagram Ads,0
+313,Customer_0313,M,42,Ahmedabad,Gujarat,2025-03-02,Organic,1
+314,Customer_0314,M,33,Delhi,Delhi,2026-08-18,Instagram Ads,0
+315,Customer_0315,M,41,Kolkata,West Bengal,2026-06-08,Instagram Ads,0
+316,Customer_0316,F,28,Delhi,Delhi,2026-01-09,Referral,0
+317,Customer_0317,M,42,Pune,Maharashtra,2025-10-01,Organic,0
+318,Customer_0318,M,33,Nagpur,Maharashtra,2025-02-04,Organic,0
+319,Customer_0319,F,36,Nagpur,Maharashtra,2025-01-01,Referral,0
+320,Customer_0320,F,21,Mumbai,Maharashtra,2025-05-11,Instagram Ads,0
+321,Customer_0321,F,28,Delhi,Delhi,2026-07-27,Google Ads,0
+322,Customer_0322,F,36,Jaipur,Rajasthan,2026-08-02,Google Ads,0
+323,Customer_0323,M,18,Hyderabad,Telangana,2025-06-19,Organic,0
+324,Customer_0324,M,33,Hyderabad,Telangana,2026-07-24,Google Ads,0
+325,Customer_0325,F,18,Mumbai,Maharashtra,2026-02-28,Organic,0
+326,Customer_0326,F,30,Mumbai,Maharashtra,2026-07-22,Instagram Ads,0
+327,Customer_0327,M,32,Pune,Maharashtra,2026-07-25,Google Ads,0
+328,Customer_0328,M,21,Chennai,Tamil Nadu,2026-04-28,Google Ads,0
+329,Customer_0329,M,18,Jaipur,Rajasthan,2026-04-03,Instagram Ads,0
+330,Customer_0330,M,37,Jaipur,Rajasthan,2026-03-08,Organic,0
+331,Customer_0331,F,40,Delhi,Delhi,2025-04-15,Organic,0
+332,Customer_0332,M,36,Jaipur,Rajasthan,2025-11-25,Instagram Ads,0
+333,Customer_0333,F,22,Bengaluru,Karnataka,2026-04-03,Influencer,0
+334,Customer_0334,F,18,Bengaluru,Karnataka,2025-03-31,Instagram Ads,0
+335,Customer_0335,M,38,Pune,Maharashtra,2025-08-13,Organic,0
+336,Customer_0336,M,28,Jaipur,Rajasthan,2026-04-05,Influencer,1
+337,Customer_0337,F,36,Mumbai,Maharashtra,2026-02-09,Organic,0
+338,Customer_0338,F,28,Bengaluru,Karnataka,2026-06-08,Instagram Ads,0
+339,Customer_0339,F,28,Ahmedabad,Gujarat,2026-04-23,Organic,0
+340,Customer_0340,F,25,Delhi,Delhi,2026-08-14,Organic,0
+341,Customer_0341,F,28,Bengaluru,Karnataka,2026-03-26,Organic,0
+342,Customer_0342,M,37,Pune,Maharashtra,2025-07-12,Instagram Ads,0
+343,Customer_0343,F,29,Chennai,Tamil Nadu,2025-07-13,Influencer,0
+344,Customer_0344,F,33,Bengaluru,Karnataka,2025-08-29,Instagram Ads,1
+345,Customer_0345,F,23,Delhi,Delhi,2025-01-08,Organic,0
+346,Customer_0346,F,26,Bengaluru,Karnataka,2025-01-22,Organic,1
+347,Customer_0347,F,30,Pune,Maharashtra,2025-03-28,Referral,1
+348,Customer_0348,F,22,Jaipur,Rajasthan,2025-06-12,Google Ads,0
+349,Customer_0349,F,35,Delhi,Delhi,2026-03-27,Organic,1
+350,Customer_0350,M,35,Mumbai,Maharashtra,2025-06-29,Instagram Ads,0
+351,Customer_0351,F,27,Delhi,Delhi,2026-03-14,Instagram Ads,0
+352,Customer_0352,M,28,Chennai,Tamil Nadu,2025-03-14,Google Ads,0
+353,Customer_0353,M,36,Jaipur,Rajasthan,2025-02-01,Instagram Ads,0
+354,Customer_0354,F,18,Ahmedabad,Gujarat,2026-04-25,Referral,0
+355,Customer_0355,F,40,Delhi,Delhi,2025-01-11,Instagram Ads,1
+356,Customer_0356,M,39,Ahmedabad,Gujarat,2025-01-31,Instagram Ads,1
+357,Customer_0357,F,32,Delhi,Delhi,2026-01-03,Instagram Ads,1
+358,Customer_0358,F,43,Nagpur,Maharashtra,2025-01-15,Organic,0
+359,Customer_0359,F,27,Mumbai,Maharashtra,2026-03-23,Google Ads,1
+360,Customer_0360,F,36,Delhi,Delhi,2025-02-18,Influencer,1
+361,Customer_0361,F,40,Chennai,Tamil Nadu,2026-05-08,Google Ads,0
+362,Customer_0362,M,27,Hyderabad,Telangana,2026-02-11,Influencer,0
+363,Customer_0363,F,30,Delhi,Delhi,2025-07-06,Google Ads,0
+364,Customer_0364,M,28,Bengaluru,Karnataka,2025-12-13,Instagram Ads,0
+365,Customer_0365,M,45,Kolkata,West Bengal,2025-09-26,Instagram Ads,0
+366,Customer_0366,M,46,Nagpur,Maharashtra,2025-08-26,Influencer,0
+367,Customer_0367,F,30,Delhi,Delhi,2025-02-14,Instagram Ads,1
+368,Customer_0368,F,33,Delhi,Delhi,2026-07-12,Instagram Ads,1
+369,Customer_0369,M,35,Mumbai,Maharashtra,2026-03-22,Organic,0
+370,Customer_0370,F,26,Delhi,Delhi,2025-07-10,Instagram Ads,0
+371,Customer_0371,F,40,Delhi,Delhi,2025-07-06,Google Ads,1
+372,Customer_0372,F,18,Delhi,Delhi,2025-11-11,Instagram Ads,0
+373,Customer_0373,M,34,Mumbai,Maharashtra,2026-06-01,Google Ads,0
+374,Customer_0374,F,29,Mumbai,Maharashtra,2026-01-19,Referral,0
+375,Customer_0375,F,38,Mumbai,Maharashtra,2025-08-30,Instagram Ads,0
+376,Customer_0376,F,42,Hyderabad,Telangana,2025-06-26,Instagram Ads,1
+377,Customer_0377,M,28,Pune,Maharashtra,2025-03-11,Referral,0
+378,Customer_0378,M,43,Delhi,Delhi,2025-01-17,Influencer,0
+379,Customer_0379,F,33,Jaipur,Rajasthan,2025-02-21,Referral,0
+380,Customer_0380,M,27,Jaipur,Rajasthan,2026-08-02,Google Ads,0
+381,Customer_0381,M,36,Delhi,Delhi,2025-01-22,Instagram Ads,0
+382,Customer_0382,M,34,Jaipur,Rajasthan,2026-03-12,Organic,0
+383,Customer_0383,F,27,Hyderabad,Telangana,2026-07-20,Google Ads,1
+384,Customer_0384,F,18,Pune,Maharashtra,2025-08-01,Referral,1
+385,Customer_0385,F,49,Chennai,Tamil Nadu,2025-09-08,Google Ads,0
+386,Customer_0386,M,43,Kolkata,West Bengal,2025-05-23,Organic,0
+387,Customer_0387,F,32,Bengaluru,Karnataka,2025-07-09,Organic,0
+388,Customer_0388,M,33,Pune,Maharashtra,2026-04-29,Organic,1
+389,Customer_0389,F,18,Bengaluru,Karnataka,2025-09-07,Referral,0
+390,Customer_0390,F,34,Kolkata,West Bengal,2025-05-05,Organic,0
+391,Customer_0391,M,31,Delhi,Delhi,2025-05-27,Instagram Ads,0
+392,Customer_0392,M,18,Mumbai,Maharashtra,2025-12-01,Google Ads,1
+393,Customer_0393,M,34,Bengaluru,Karnataka,2025-04-19,Organic,1
+394,Customer_0394,F,32,Mumbai,Maharashtra,2026-02-08,Instagram Ads,0
+395,Customer_0395,F,20,Jaipur,Rajasthan,2025-09-19,Organic,1
+396,Customer_0396,F,30,Hyderabad,Telangana,2025-08-13,Organic,1
+397,Customer_0397,M,22,Delhi,Delhi,2025-03-07,Organic,0
+398,Customer_0398,M,24,Bengaluru,Karnataka,2026-08-26,Organic,1
+399,Customer_0399,M,31,Kolkata,West Bengal,2025-10-18,Google Ads,0
+400,Customer_0400,M,29,Ahmedabad,Gujarat,2025-02-02,Referral,1
+401,Customer_0401,F,24,Delhi,Delhi,2025-03-02,Organic,0
+402,Customer_0402,M,33,Mumbai,Maharashtra,2026-04-17,Instagram Ads,0
+403,Customer_0403,M,30,Bengaluru,Karnataka,2026-04-10,Organic,0
+404,Customer_0404,M,37,Chennai,Tamil Nadu,2025-03-03,Organic,1
+405,Customer_0405,M,30,Delhi,Delhi,2025-08-19,Google Ads,0
+406,Customer_0406,M,18,Delhi,Delhi,2025-08-09,Organic,0
+407,Customer_0407,M,38,Ahmedabad,Gujarat,2025-05-07,Referral,1
+408,Customer_0408,M,39,Nagpur,Maharashtra,2025-02-27,Google Ads,0
+409,Customer_0409,M,41,Mumbai,Maharashtra,2025-07-13,Organic,0
+410,Customer_0410,F,30,Nagpur,Maharashtra,2026-07-30,Google Ads,0
+411,Customer_0411,M,33,Delhi,Delhi,2026-01-25,Google Ads,1
+412,Customer_0412,F,44,Delhi,Delhi,2026-01-01,Google Ads,0
+413,Customer_0413,F,22,Bengaluru,Karnataka,2026-01-04,Organic,0
+414,Customer_0414,M,26,Chennai,Tamil Nadu,2026-05-26,Google Ads,0
+415,Customer_0415,M,28,Bengaluru,Karnataka,2026-01-10,Referral,0
+416,Customer_0416,M,28,Ahmedabad,Gujarat,2025-10-24,Instagram Ads,0
+417,Customer_0417,F,18,Jaipur,Rajasthan,2025-12-18,Organic,1
+418,Customer_0418,M,36,Delhi,Delhi,2025-11-01,Instagram Ads,0
+419,Customer_0419,F,32,Jaipur,Rajasthan,2025-03-19,Instagram Ads,0
+420,Customer_0420,F,29,Ahmedabad,Gujarat,2026-07-22,Influencer,0
+421,Customer_0421,F,34,Chennai,Tamil Nadu,2025-03-04,Instagram Ads,0
+422,Customer_0422,F,24,Pune,Maharashtra,2026-02-26,Google Ads,0
+423,Customer_0423,F,41,Bengaluru,Karnataka,2025-04-23,Google Ads,0
+424,Customer_0424,O,38,Bengaluru,Karnataka,2025-12-14,Organic,0
+425,Customer_0425,M,25,Mumbai,Maharashtra,2026-03-27,Google Ads,0
+426,Customer_0426,M,23,Delhi,Delhi,2026-06-16,Organic,1
+427,Customer_0427,M,29,Bengaluru,Karnataka,2026-07-12,Instagram Ads,1
+428,Customer_0428,M,34,Delhi,Delhi,2025-02-13,Referral,0
+429,Customer_0429,M,33,Delhi,Delhi,2025-02-07,Google Ads,0
+430,Customer_0430,F,45,Delhi,Delhi,2025-03-19,Instagram Ads,0
+431,Customer_0431,M,29,Mumbai,Maharashtra,2025-02-17,Instagram Ads,0
+432,Customer_0432,M,34,Delhi,Delhi,2025-06-24,Referral,0
+433,Customer_0433,M,34,Pune,Maharashtra,2025-12-07,Referral,0
+434,Customer_0434,M,27,Pune,Maharashtra,2025-02-23,Google Ads,0
+435,Customer_0435,F,22,Jaipur,Rajasthan,2025-01-12,Referral,0
+436,Customer_0436,F,30,Delhi,Delhi,2025-06-15,Google Ads,0
+437,Customer_0437,F,27,Nagpur,Maharashtra,2025-08-12,Influencer,1
+438,Customer_0438,F,22,Delhi,Delhi,2025-02-02,Google Ads,0
+439,Customer_0439,M,37,Chennai,Tamil Nadu,2026-03-04,Google Ads,0
+440,Customer_0440,F,38,Hyderabad,Telangana,2025-07-07,Google Ads,1
+441,Customer_0441,F,41,Chennai,Tamil Nadu,2025-11-19,Organic,0
+442,Customer_0442,F,22,Jaipur,Rajasthan,2026-07-31,Referral,0
+443,Customer_0443,M,36,Delhi,Delhi,2026-04-12,Instagram Ads,0
+444,Customer_0444,F,32,Delhi,Delhi,2026-03-17,Organic,1
+445,Customer_0445,M,42,Bengaluru,Karnataka,2026-06-04,Google Ads,0
+446,Customer_0446,F,44,Bengaluru,Karnataka,2025-04-18,Google Ads,1
+447,Customer_0447,F,30,Nagpur,Maharashtra,2025-01-28,Influencer,0
+448,Customer_0448,F,23,Mumbai,Maharashtra,2026-08-03,Organic,0
+449,Customer_0449,F,24,Delhi,Delhi,2025-11-29,Influencer,0
+450,Customer_0450,F,47,Bengaluru,Karnataka,2025-03-22,Organic,0
+451,Customer_0451,F,21,Chennai,Tamil Nadu,2025-08-20,Google Ads,0
+452,Customer_0452,F,40,Delhi,Delhi,2025-01-08,Organic,0
+453,Customer_0453,F,36,Mumbai,Maharashtra,2025-04-10,Instagram Ads,0
+454,Customer_0454,M,30,Kolkata,West Bengal,2025-10-16,Organic,0
+455,Customer_0455,M,32,Jaipur,Rajasthan,2025-01-15,Referral,0
+456,Customer_0456,F,32,Kolkata,West Bengal,2026-04-20,Instagram Ads,1
+457,Customer_0457,F,36,Mumbai,Maharashtra,2026-02-14,Organic,0
+458,Customer_0458,M,29,Bengaluru,Karnataka,2026-01-18,Organic,1
+459,Customer_0459,F,31,Nagpur,Maharashtra,2025-03-29,Instagram Ads,0
+460,Customer_0460,F,30,Hyderabad,Telangana,2026-07-22,Influencer,0
+461,Customer_0461,F,18,Hyderabad,Telangana,2026-02-05,Instagram Ads,0
+462,Customer_0462,M,30,Bengaluru,Karnataka,2025-12-01,Referral,0
+463,Customer_0463,F,32,Ahmedabad,Gujarat,2025-10-04,Google Ads,1
+464,Customer_0464,F,30,Kolkata,West Bengal,2025-09-22,Google Ads,1
+465,Customer_0465,F,28,Pune,Maharashtra,2025-03-07,Influencer,0
+466,Customer_0466,F,44,Hyderabad,Telangana,2025-08-06,Organic,0
+467,Customer_0467,M,28,Pune,Maharashtra,2025-04-27,Instagram Ads,0
+468,Customer_0468,F,18,Mumbai,Maharashtra,2025-06-17,Referral,1
+469,Customer_0469,F,34,Pune,Maharashtra,2026-06-16,Instagram Ads,0
+470,Customer_0470,F,19,Pune,Maharashtra,2026-02-01,Organic,0
+471,Customer_0471,M,40,Delhi,Delhi,2025-10-09,Influencer,1
+472,Customer_0472,M,28,Bengaluru,Karnataka,2025-06-28,Organic,0
+473,Customer_0473,M,30,Pune,Maharashtra,2025-03-14,Referral,0
+474,Customer_0474,F,19,Kolkata,West Bengal,2025-09-27,Referral,0
+475,Customer_0475,F,19,Hyderabad,Telangana,2026-07-17,Instagram Ads,0
+476,Customer_0476,M,23,Kolkata,West Bengal,2025-09-18,Organic,0
+477,Customer_0477,M,26,Delhi,Delhi,2025-03-09,Influencer,0
+478,Customer_0478,M,33,Pune,Maharashtra,2025-06-23,Instagram Ads,1
+479,Customer_0479,M,37,Hyderabad,Telangana,2026-03-12,Google Ads,1
+480,Customer_0480,F,35,Chennai,Tamil Nadu,2025-09-16,Organic,0
+481,Customer_0481,M,21,Hyderabad,Telangana,2026-01-19,Referral,0
+482,Customer_0482,F,28,Bengaluru,Karnataka,2025-04-12,Referral,0
+483,Customer_0483,O,49,Bengaluru,Karnataka,2026-03-16,Referral,1
+484,Customer_0484,F,33,Chennai,Tamil Nadu,2025-06-15,Instagram Ads,0
+485,Customer_0485,F,27,Jaipur,Rajasthan,2025-11-19,Organic,1
+486,Customer_0486,M,36,Mumbai,Maharashtra,2025-11-05,Organic,0
+487,Customer_0487,F,26,Pune,Maharashtra,2025-04-05,Organic,0
+488,Customer_0488,M,37,Jaipur,Rajasthan,2026-06-28,Google Ads,0
+489,Customer_0489,F,32,Bengaluru,Karnataka,2025-08-13,Organic,0
+490,Customer_0490,F,20,Pune,Maharashtra,2025-05-30,Google Ads,0
+491,Customer_0491,F,30,Kolkata,West Bengal,2025-08-05,Organic,0
+492,Customer_0492,O,22,Pune,Maharashtra,2026-08-10,Instagram Ads,0
+493,Customer_0493,F,26,Bengaluru,Karnataka,2025-02-15,Instagram Ads,0
+494,Customer_0494,F,34,Hyderabad,Telangana,2025-01-29,Organic,0
+495,Customer_0495,M,31,Ahmedabad,Gujarat,2025-11-14,Instagram Ads,0
+496,Customer_0496,F,29,Delhi,Delhi,2026-02-07,Referral,0
+497,Customer_0497,F,38,Kolkata,West Bengal,2025-09-28,Organic,0
+498,Customer_0498,M,23,Delhi,Delhi,2025-10-12,Google Ads,0
+499,Customer_0499,F,38,Pune,Maharashtra,2026-01-29,Organic,1
+500,Customer_0500,M,23,Delhi,Delhi,2026-03-17,Referral,0
+501,Customer_0501,F,30,Mumbai,Maharashtra,2025-09-25,Referral,0
+502,Customer_0502,F,18,Mumbai,Maharashtra,2025-03-12,Influencer,0
+503,Customer_0503,F,33,Kolkata,West Bengal,2026-02-11,Instagram Ads,0
+504,Customer_0504,F,40,Delhi,Delhi,2025-08-31,Organic,1
+505,Customer_0505,M,18,Delhi,Delhi,2025-01-01,Instagram Ads,0
+506,Customer_0506,M,23,Pune,Maharashtra,2025-12-20,Google Ads,1
+507,Customer_0507,M,36,Bengaluru,Karnataka,2026-06-16,Google Ads,1
+508,Customer_0508,F,25,Jaipur,Rajasthan,2026-02-19,Influencer,0
+509,Customer_0509,M,22,Delhi,Delhi,2026-07-09,Influencer,0
+510,Customer_0510,F,31,Ahmedabad,Gujarat,2025-06-12,Influencer,1
+511,Customer_0511,F,24,Jaipur,Rajasthan,2025-09-26,Instagram Ads,1
+512,Customer_0512,F,37,Bengaluru,Karnataka,2026-03-24,Instagram Ads,0
+513,Customer_0513,M,43,Jaipur,Rajasthan,2025-09-26,Google Ads,0
+514,Customer_0514,F,32,Chennai,Tamil Nadu,2025-03-19,Organic,0
+515,Customer_0515,M,31,Delhi,Delhi,2026-03-10,Organic,0
+516,Customer_0516,F,34,Mumbai,Maharashtra,2025-02-22,Referral,1
+517,Customer_0517,M,39,Bengaluru,Karnataka,2025-12-29,Organic,0
+518,Customer_0518,M,30,Pune,Maharashtra,2025-06-24,Referral,0
+519,Customer_0519,F,24,Delhi,Delhi,2025-03-16,Instagram Ads,1
+520,Customer_0520,F,33,Chennai,Tamil Nadu,2025-07-22,Referral,1
+521,Customer_0521,F,27,Pune,Maharashtra,2025-11-13,Influencer,0
+522,Customer_0522,F,39,Mumbai,Maharashtra,2025-11-18,Influencer,0
+523,Customer_0523,F,18,Kolkata,West Bengal,2025-05-24,Organic,0
+524,Customer_0524,F,38,Pune,Maharashtra,2025-05-12,Influencer,1
+525,Customer_0525,F,38,Jaipur,Rajasthan,2026-06-24,Organic,0
+526,Customer_0526,M,35,Ahmedabad,Gujarat,2026-08-09,Google Ads,1
+527,Customer_0527,F,23,Chennai,Tamil Nadu,2025-10-28,Instagram Ads,0
+528,Customer_0528,M,34,Pune,Maharashtra,2025-08-29,Organic,0
+529,Customer_0529,F,35,Delhi,Delhi,2026-04-30,Instagram Ads,0
+530,Customer_0530,M,39,Ahmedabad,Gujarat,2025-03-24,Influencer,1
+531,Customer_0531,F,39,Jaipur,Rajasthan,2026-02-11,Organic,0
+532,Customer_0532,F,28,Chennai,Tamil Nadu,2025-11-08,Referral,1
+533,Customer_0533,F,19,Pune,Maharashtra,2026-01-11,Organic,1
+534,Customer_0534,M,41,Jaipur,Rajasthan,2025-07-29,Instagram Ads,0
+535,Customer_0535,M,42,Hyderabad,Telangana,2026-03-12,Google Ads,0
+536,Customer_0536,M,18,Delhi,Delhi,2025-11-25,Instagram Ads,0
+537,Customer_0537,F,36,Delhi,Delhi,2025-06-18,Instagram Ads,1
+538,Customer_0538,M,45,Chennai,Tamil Nadu,2025-08-22,Instagram Ads,0
+539,Customer_0539,M,18,Hyderabad,Telangana,2025-01-13,Organic,0
+540,Customer_0540,M,18,Hyderabad,Telangana,2026-05-09,Instagram Ads,0
+541,Customer_0541,M,32,Delhi,Delhi,2025-10-28,Instagram Ads,0
+542,Customer_0542,M,25,Kolkata,West Bengal,2025-09-11,Google Ads,0
+543,Customer_0543,F,35,Jaipur,Rajasthan,2025-02-13,Instagram Ads,0
+544,Customer_0544,M,35,Kolkata,West Bengal,2026-02-23,Influencer,0
+545,Customer_0545,F,38,Ahmedabad,Gujarat,2025-11-15,Organic,0
+546,Customer_0546,M,34,Mumbai,Maharashtra,2026-07-07,Organic,0
+547,Customer_0547,M,40,Bengaluru,Karnataka,2025-12-08,Referral,0
+548,Customer_0548,M,30,Mumbai,Maharashtra,2025-02-16,Organic,1
+549,Customer_0549,F,30,Mumbai,Maharashtra,2025-08-21,Google Ads,0
+550,Customer_0550,M,24,Kolkata,West Bengal,2026-03-28,Organic,0
+551,Customer_0551,F,40,Jaipur,Rajasthan,2026-05-26,Google Ads,0
+552,Customer_0552,F,30,Chennai,Tamil Nadu,2025-07-30,Instagram Ads,1
+553,Customer_0553,F,24,Kolkata,West Bengal,2025-11-04,Influencer,0
+554,Customer_0554,M,29,Mumbai,Maharashtra,2025-10-07,Instagram Ads,0
+555,Customer_0555,M,21,Delhi,Delhi,2025-10-23,Influencer,1
+556,Customer_0556,M,33,Mumbai,Maharashtra,2025-01-04,Referral,1
+557,Customer_0557,M,26,Chennai,Tamil Nadu,2025-10-27,Organic,0
+558,Customer_0558,M,19,Bengaluru,Karnataka,2025-10-20,Influencer,0
+559,Customer_0559,F,37,Mumbai,Maharashtra,2026-05-27,Instagram Ads,0
+560,Customer_0560,F,35,Bengaluru,Karnataka,2025-02-07,Organic,0
+561,Customer_0561,F,25,Delhi,Delhi,2025-05-29,Instagram Ads,1
+562,Customer_0562,M,25,Chennai,Tamil Nadu,2025-02-28,Google Ads,1
+563,Customer_0563,M,18,Bengaluru,Karnataka,2026-07-22,Influencer,1
+564,Customer_0564,F,25,Jaipur,Rajasthan,2026-08-19,Referral,1
+565,Customer_0565,F,27,Hyderabad,Telangana,2025-06-10,Organic,0
+566,Customer_0566,F,35,Mumbai,Maharashtra,2026-01-10,Organic,1
+567,Customer_0567,M,31,Hyderabad,Telangana,2025-09-17,Influencer,1
+568,Customer_0568,F,18,Chennai,Tamil Nadu,2025-05-04,Google Ads,0
+569,Customer_0569,M,39,Pune,Maharashtra,2026-04-17,Instagram Ads,1
+570,Customer_0570,F,42,Mumbai,Maharashtra,2026-07-08,Organic,0
+571,Customer_0571,F,30,Kolkata,West Bengal,2025-06-23,Organic,0
+572,Customer_0572,M,42,Delhi,Delhi,2025-08-21,Organic,1
+573,Customer_0573,M,46,Delhi,Delhi,2025-02-17,Instagram Ads,1
+574,Customer_0574,F,47,Hyderabad,Telangana,2026-01-27,Google Ads,0
+575,Customer_0575,F,21,Chennai,Tamil Nadu,2025-06-16,Organic,0
+576,Customer_0576,M,33,Hyderabad,Telangana,2026-05-26,Influencer,1
+577,Customer_0577,M,34,Kolkata,West Bengal,2025-06-08,Influencer,0
+578,Customer_0578,F,18,Bengaluru,Karnataka,2026-01-24,Instagram Ads,1
+579,Customer_0579,F,33,Delhi,Delhi,2025-01-27,Google Ads,0
+580,Customer_0580,M,38,Mumbai,Maharashtra,2025-04-26,Google Ads,0
+581,Customer_0581,M,33,Hyderabad,Telangana,2025-04-04,Organic,1
+582,Customer_0582,F,32,Mumbai,Maharashtra,2026-07-01,Organic,0
+583,Customer_0583,M,30,Delhi,Delhi,2025-07-09,Instagram Ads,1
+584,Customer_0584,M,36,Chennai,Tamil Nadu,2025-06-11,Referral,0
+585,Customer_0585,F,30,Delhi,Delhi,2026-05-03,Organic,0
+586,Customer_0586,M,28,Chennai,Tamil Nadu,2026-05-02,Referral,1
+587,Customer_0587,F,30,Kolkata,West Bengal,2025-05-27,Organic,0
+588,Customer_0588,F,33,Mumbai,Maharashtra,2025-07-18,Referral,0
+589,Customer_0589,F,28,Delhi,Delhi,2026-03-19,Google Ads,0
+590,Customer_0590,F,39,Bengaluru,Karnataka,2025-12-25,Organic,0
+591,Customer_0591,F,41,Mumbai,Maharashtra,2025-11-14,Organic,0
+592,Customer_0592,M,23,Hyderabad,Telangana,2025-04-30,Instagram Ads,0
+593,Customer_0593,M,26,Chennai,Tamil Nadu,2025-11-29,Organic,0
+594,Customer_0594,F,32,Ahmedabad,Gujarat,2026-02-16,Organic,0
+595,Customer_0595,M,38,Bengaluru,Karnataka,2026-05-09,Instagram Ads,0
+596,Customer_0596,F,32,Delhi,Delhi,2025-01-13,Organic,0
+597,Customer_0597,F,31,Delhi,Delhi,2026-04-12,Instagram Ads,1
+598,Customer_0598,M,42,Delhi,Delhi,2025-01-21,Instagram Ads,0
+599,Customer_0599,F,29,Hyderabad,Telangana,2025-07-06,Organic,0
+600,Customer_0600,F,26,Mumbai,Maharashtra,2025-02-23,Instagram Ads,0
+601,Customer_0601,M,43,Bengaluru,Karnataka,2025-05-16,Google Ads,0
+602,Customer_0602,F,36,Delhi,Delhi,2025-02-12,Google Ads,0
+603,Customer_0603,M,22,Mumbai,Maharashtra,2026-07-29,Organic,0
+604,Customer_0604,F,29,Delhi,Delhi,2026-02-13,Referral,0
+605,Customer_0605,F,38,Pune,Maharashtra,2026-07-21,Instagram Ads,0
+606,Customer_0606,F,26,Delhi,Delhi,2026-03-25,Google Ads,0
+607,Customer_0607,F,39,Chennai,Tamil Nadu,2026-01-13,Organic,0
+608,Customer_0608,F,36,Kolkata,West Bengal,2026-05-02,Referral,0
+609,Customer_0609,F,27,Mumbai,Maharashtra,2025-04-26,Google Ads,0
+610,Customer_0610,M,26,Chennai,Tamil Nadu,2025-09-25,Organic,0
+611,Customer_0611,M,36,Jaipur,Rajasthan,2025-12-19,Instagram Ads,0
+612,Customer_0612,M,24,Mumbai,Maharashtra,2026-06-08,Instagram Ads,0
+613,Customer_0613,F,32,Nagpur,Maharashtra,2025-12-12,Google Ads,0
+614,Customer_0614,M,31,Chennai,Tamil Nadu,2025-09-02,Instagram Ads,0
+615,Customer_0615,M,35,Kolkata,West Bengal,2025-11-04,Google Ads,0
+616,Customer_0616,M,37,Pune,Maharashtra,2025-08-30,Organic,1
+617,Customer_0617,F,36,Chennai,Tamil Nadu,2025-02-07,Organic,0
+618,Customer_0618,M,29,Bengaluru,Karnataka,2025-11-22,Referral,1
+619,Customer_0619,F,42,Hyderabad,Telangana,2025-10-11,Organic,1
+620,Customer_0620,F,24,Chennai,Tamil Nadu,2026-06-06,Instagram Ads,0
+621,Customer_0621,M,22,Mumbai,Maharashtra,2025-01-29,Instagram Ads,1
+622,Customer_0622,M,36,Mumbai,Maharashtra,2026-04-27,Instagram Ads,0
+623,Customer_0623,F,33,Delhi,Delhi,2025-12-14,Google Ads,1
+624,Customer_0624,F,35,Mumbai,Maharashtra,2025-12-07,Organic,1
+625,Customer_0625,M,35,Jaipur,Rajasthan,2025-09-07,Organic,0
+626,Customer_0626,F,42,Bengaluru,Karnataka,2025-04-16,Instagram Ads,0
+627,Customer_0627,M,19,Bengaluru,Karnataka,2026-03-16,Instagram Ads,0
+628,Customer_0628,M,22,Mumbai,Maharashtra,2025-03-07,Organic,0
+629,Customer_0629,M,30,Bengaluru,Karnataka,2026-05-24,Google Ads,0
+630,Customer_0630,F,23,Jaipur,Rajasthan,2025-10-30,Referral,0
+631,Customer_0631,M,33,Kolkata,West Bengal,2026-01-27,Instagram Ads,0
+632,Customer_0632,M,18,Pune,Maharashtra,2025-03-06,Google Ads,0
+633,Customer_0633,F,26,Hyderabad,Telangana,2026-06-11,Referral,0
+634,Customer_0634,M,21,Bengaluru,Karnataka,2026-02-23,Influencer,0
+635,Customer_0635,M,36,Bengaluru,Karnataka,2025-02-14,Influencer,0
+636,Customer_0636,F,39,Jaipur,Rajasthan,2025-09-21,Instagram Ads,1
+637,Customer_0637,F,29,Delhi,Delhi,2026-08-16,Organic,0
+638,Customer_0638,M,40,Mumbai,Maharashtra,2025-07-19,Influencer,1
+639,Customer_0639,F,38,Pune,Maharashtra,2026-02-11,Instagram Ads,0
+640,Customer_0640,M,26,Hyderabad,Telangana,2025-04-25,Google Ads,0
+641,Customer_0641,F,25,Bengaluru,Karnataka,2026-03-23,Google Ads,0
+642,Customer_0642,F,24,Jaipur,Rajasthan,2026-06-07,Google Ads,0
+643,Customer_0643,F,20,Bengaluru,Karnataka,2025-08-09,Google Ads,0
+644,Customer_0644,F,33,Nagpur,Maharashtra,2026-05-08,Organic,0
+645,Customer_0645,M,31,Mumbai,Maharashtra,2025-07-11,Google Ads,0
+646,Customer_0646,F,26,Hyderabad,Telangana,2025-05-18,Organic,1
+647,Customer_0647,F,28,Delhi,Delhi,2025-11-09,Organic,0
+648,Customer_0648,F,26,Pune,Maharashtra,2026-08-12,Instagram Ads,0
+649,Customer_0649,F,18,Ahmedabad,Gujarat,2025-03-04,Google Ads,0
+650,Customer_0650,F,37,Mumbai,Maharashtra,2025-10-30,Organic,0
+651,Customer_0651,M,27,Bengaluru,Karnataka,2025-04-22,Referral,0
+652,Customer_0652,M,40,Mumbai,Maharashtra,2026-04-18,Organic,1
+653,Customer_0653,M,21,Mumbai,Maharashtra,2025-07-04,Google Ads,1
+654,Customer_0654,F,18,Chennai,Tamil Nadu,2025-04-01,Instagram Ads,1
+655,Customer_0655,M,22,Delhi,Delhi,2026-06-15,Instagram Ads,0
+656,Customer_0656,M,29,Delhi,Delhi,2026-05-22,Referral,0
+657,Customer_0657,F,23,Mumbai,Maharashtra,2026-08-10,Referral,0
+658,Customer_0658,F,24,Kolkata,West Bengal,2025-12-29,Google Ads,1
+659,Customer_0659,F,24,Delhi,Delhi,2025-02-20,Instagram Ads,0
+660,Customer_0660,F,43,Chennai,Tamil Nadu,2025-05-30,Organic,0
+661,Customer_0661,F,30,Kolkata,West Bengal,2025-12-16,Instagram Ads,0
+662,Customer_0662,M,35,Chennai,Tamil Nadu,2026-08-17,Organic,0
+663,Customer_0663,F,37,Pune,Maharashtra,2025-04-26,Google Ads,0
+664,Customer_0664,F,37,Jaipur,Rajasthan,2025-04-15,Google Ads,1
+665,Customer_0665,M,30,Chennai,Tamil Nadu,2025-07-17,Influencer,0
+666,Customer_0666,F,21,Mumbai,Maharashtra,2025-03-08,Google Ads,0
+667,Customer_0667,F,37,Delhi,Delhi,2025-01-01,Google Ads,0
+668,Customer_0668,M,30,Kolkata,West Bengal,2025-11-21,Google Ads,0
+669,Customer_0669,M,30,Bengaluru,Karnataka,2026-03-08,Google Ads,1
+670,Customer_0670,M,37,Chennai,Tamil Nadu,2025-11-27,Instagram Ads,0
+671,Customer_0671,M,28,Bengaluru,Karnataka,2025-06-25,Instagram Ads,0
+672,Customer_0672,M,25,Mumbai,Maharashtra,2025-06-03,Instagram Ads,0
+673,Customer_0673,F,26,Mumbai,Maharashtra,2025-09-28,Referral,0
+674,Customer_0674,M,29,Bengaluru,Karnataka,2026-01-20,Google Ads,0
+675,Customer_0675,M,26,Chennai,Tamil Nadu,2025-02-06,Instagram Ads,0
+676,Customer_0676,F,31,Mumbai,Maharashtra,2025-02-24,Google Ads,0
+677,Customer_0677,M,29,Jaipur,Rajasthan,2025-10-24,Organic,0
+678,Customer_0678,M,37,Nagpur,Maharashtra,2025-06-07,Influencer,0
+679,Customer_0679,F,31,Hyderabad,Telangana,2025-05-26,Google Ads,0
+680,Customer_0680,F,27,Mumbai,Maharashtra,2025-09-25,Google Ads,1
+681,Customer_0681,F,30,Hyderabad,Telangana,2026-06-23,Instagram Ads,0
+682,Customer_0682,F,47,Mumbai,Maharashtra,2025-10-01,Influencer,0
+683,Customer_0683,M,40,Hyderabad,Telangana,2026-05-03,Referral,1
+684,Customer_0684,F,38,Hyderabad,Telangana,2026-03-03,Organic,0
+685,Customer_0685,M,24,Chennai,Tamil Nadu,2025-11-06,Instagram Ads,1
+686,Customer_0686,F,23,Delhi,Delhi,2025-05-07,Google Ads,0
+687,Customer_0687,O,40,Ahmedabad,Gujarat,2026-03-25,Referral,0
+688,Customer_0688,F,33,Jaipur,Rajasthan,2026-08-18,Organic,1
+689,Customer_0689,M,20,Mumbai,Maharashtra,2025-03-24,Referral,0
+690,Customer_0690,M,28,Delhi,Delhi,2025-07-21,Google Ads,0
+691,Customer_0691,F,22,Bengaluru,Karnataka,2025-08-07,Organic,0
+692,Customer_0692,F,38,Delhi,Delhi,2025-05-07,Instagram Ads,0
+693,Customer_0693,F,37,Pune,Maharashtra,2025-01-03,Instagram Ads,1
+694,Customer_0694,M,27,Mumbai,Maharashtra,2026-08-04,Google Ads,0
+695,Customer_0695,F,41,Jaipur,Rajasthan,2026-07-23,Instagram Ads,0
+696,Customer_0696,M,24,Jaipur,Rajasthan,2025-02-24,Organic,0
+697,Customer_0697,M,35,Chennai,Tamil Nadu,2025-11-12,Organic,1
+698,Customer_0698,M,27,Delhi,Delhi,2026-01-29,Instagram Ads,0
+699,Customer_0699,F,39,Nagpur,Maharashtra,2025-05-05,Instagram Ads,0
+700,Customer_0700,F,34,Delhi,Delhi,2025-04-26,Google Ads,1
+701,Customer_0701,F,20,Chennai,Tamil Nadu,2025-03-03,Influencer,1
+702,Customer_0702,F,25,Kolkata,West Bengal,2025-10-04,Instagram Ads,0
+703,Customer_0703,M,25,Pune,Maharashtra,2026-06-10,Referral,1
+704,Customer_0704,F,42,Hyderabad,Telangana,2026-02-14,Organic,1
+705,Customer_0705,F,40,Mumbai,Maharashtra,2026-03-25,Referral,1
+706,Customer_0706,M,22,Chennai,Tamil Nadu,2025-06-24,Instagram Ads,1
+707,Customer_0707,M,32,Bengaluru,Karnataka,2025-04-02,Referral,0
+708,Customer_0708,F,22,Chennai,Tamil Nadu,2025-05-25,Referral,0
+709,Customer_0709,F,27,Kolkata,West Bengal,2025-08-21,Instagram Ads,0
+710,Customer_0710,F,33,Jaipur,Rajasthan,2026-07-27,Organic,0
+711,Customer_0711,M,28,Bengaluru,Karnataka,2026-01-10,Google Ads,0
+712,Customer_0712,M,36,Mumbai,Maharashtra,2025-06-15,Referral,0
+713,Customer_0713,M,29,Kolkata,West Bengal,2025-02-18,Organic,1
+714,Customer_0714,M,34,Bengaluru,Karnataka,2025-08-14,Organic,1
+715,Customer_0715,F,29,Bengaluru,Karnataka,2026-08-22,Influencer,1
+716,Customer_0716,M,24,Bengaluru,Karnataka,2026-05-24,Referral,0
+717,Customer_0717,M,18,Jaipur,Rajasthan,2025-08-04,Referral,0
+718,Customer_0718,M,22,Hyderabad,Telangana,2025-08-17,Instagram Ads,0
+719,Customer_0719,M,40,Pune,Maharashtra,2026-03-20,Organic,0
+720,Customer_0720,M,19,Mumbai,Maharashtra,2026-01-18,Google Ads,1
+721,Customer_0721,M,24,Delhi,Delhi,2026-05-02,Instagram Ads,0
+722,Customer_0722,F,21,Kolkata,West Bengal,2026-03-07,Referral,0
+723,Customer_0723,M,35,Nagpur,Maharashtra,2026-01-30,Organic,1
+724,Customer_0724,F,35,Mumbai,Maharashtra,2025-05-12,Instagram Ads,0
+725,Customer_0725,F,18,Delhi,Delhi,2025-03-16,Referral,0
+726,Customer_0726,F,22,Pune,Maharashtra,2026-02-27,Influencer,0
+727,Customer_0727,F,35,Delhi,Delhi,2026-07-07,Google Ads,0
+728,Customer_0728,F,30,Kolkata,West Bengal,2025-06-13,Organic,1
+729,Customer_0729,F,32,Bengaluru,Karnataka,2026-07-12,Influencer,1
+730,Customer_0730,M,38,Hyderabad,Telangana,2025-06-10,Instagram Ads,0
+731,Customer_0731,M,27,Delhi,Delhi,2026-01-03,Instagram Ads,0
+732,Customer_0732,M,18,Kolkata,West Bengal,2025-02-10,Referral,0
+733,Customer_0733,F,24,Mumbai,Maharashtra,2025-12-18,Referral,0
+734,Customer_0734,F,35,Nagpur,Maharashtra,2026-05-25,Influencer,1
+735,Customer_0735,F,30,Bengaluru,Karnataka,2025-08-22,Influencer,0
+736,Customer_0736,M,32,Jaipur,Rajasthan,2026-04-20,Organic,0
+737,Customer_0737,M,37,Ahmedabad,Gujarat,2025-09-11,Instagram Ads,0
+738,Customer_0738,M,39,Ahmedabad,Gujarat,2025-07-25,Instagram Ads,0
+739,Customer_0739,M,28,Pune,Maharashtra,2026-05-11,Google Ads,0
+740,Customer_0740,F,29,Delhi,Delhi,2025-05-20,Referral,0
+741,Customer_0741,F,18,Bengaluru,Karnataka,2025-10-10,Referral,0
+742,Customer_0742,M,35,Jaipur,Rajasthan,2026-02-25,Organic,0
+743,Customer_0743,F,23,Bengaluru,Karnataka,2025-01-26,Instagram Ads,0
+744,Customer_0744,M,26,Jaipur,Rajasthan,2026-03-15,Referral,0
+745,Customer_0745,M,45,Chennai,Tamil Nadu,2025-11-29,Google Ads,0
+746,Customer_0746,F,34,Mumbai,Maharashtra,2025-11-19,Instagram Ads,0
+747,Customer_0747,M,32,Chennai,Tamil Nadu,2025-10-08,Instagram Ads,0
+748,Customer_0748,F,30,Delhi,Delhi,2025-10-20,Organic,0
+749,Customer_0749,M,33,Chennai,Tamil Nadu,2025-01-23,Organic,1
+750,Customer_0750,F,36,Pune,Maharashtra,2025-09-10,Instagram Ads,0
+751,Customer_0751,M,32,Hyderabad,Telangana,2026-02-23,Organic,1
+752,Customer_0752,F,36,Delhi,Delhi,2025-08-26,Instagram Ads,0
+753,Customer_0753,M,23,Ahmedabad,Gujarat,2026-06-26,Influencer,0
+754,Customer_0754,F,42,Bengaluru,Karnataka,2026-02-07,Organic,0
+755,Customer_0755,M,23,Pune,Maharashtra,2025-08-01,Influencer,1
+756,Customer_0756,F,37,Chennai,Tamil Nadu,2026-01-23,Instagram Ads,0
+757,Customer_0757,M,23,Delhi,Delhi,2025-10-03,Instagram Ads,1
+758,Customer_0758,M,30,Kolkata,West Bengal,2026-06-22,Instagram Ads,0
+759,Customer_0759,M,33,Chennai,Tamil Nadu,2026-05-15,Google Ads,0
+760,Customer_0760,F,22,Chennai,Tamil Nadu,2025-06-22,Referral,0
+761,Customer_0761,F,25,Kolkata,West Bengal,2025-02-04,Google Ads,0
+762,Customer_0762,F,36,Nagpur,Maharashtra,2025-01-16,Organic,0
+763,Customer_0763,M,32,Nagpur,Maharashtra,2026-08-30,Organic,0
+764,Customer_0764,M,43,Bengaluru,Karnataka,2025-07-26,Instagram Ads,0
+765,Customer_0765,M,44,Bengaluru,Karnataka,2026-01-16,Organic,0
+766,Customer_0766,F,27,Chennai,Tamil Nadu,2025-08-06,Organic,0
+767,Customer_0767,M,24,Mumbai,Maharashtra,2025-10-29,Influencer,0
+768,Customer_0768,M,30,Delhi,Delhi,2026-04-29,Referral,0
+769,Customer_0769,F,37,Kolkata,West Bengal,2025-06-20,Referral,0
+770,Customer_0770,F,18,Jaipur,Rajasthan,2025-06-16,Google Ads,1
+771,Customer_0771,F,26,Ahmedabad,Gujarat,2025-04-05,Google Ads,0
+772,Customer_0772,F,28,Bengaluru,Karnataka,2025-09-16,Instagram Ads,0
+773,Customer_0773,M,32,Mumbai,Maharashtra,2025-12-20,Referral,0
+774,Customer_0774,M,43,Delhi,Delhi,2025-04-21,Google Ads,0
+775,Customer_0775,F,51,Chennai,Tamil Nadu,2025-08-05,Organic,1
+776,Customer_0776,M,28,Delhi,Delhi,2025-08-04,Instagram Ads,0
+777,Customer_0777,M,36,Bengaluru,Karnataka,2026-01-12,Instagram Ads,0
+778,Customer_0778,F,35,Mumbai,Maharashtra,2026-07-15,Google Ads,0
+779,Customer_0779,M,30,Bengaluru,Karnataka,2025-10-27,Influencer,0
+780,Customer_0780,F,26,Jaipur,Rajasthan,2026-03-27,Organic,0
+781,Customer_0781,M,20,Delhi,Delhi,2026-07-17,Google Ads,0
+782,Customer_0782,M,18,Kolkata,West Bengal,2026-04-03,Google Ads,0
+783,Customer_0783,F,30,Mumbai,Maharashtra,2025-11-27,Google Ads,0
+784,Customer_0784,M,44,Ahmedabad,Gujarat,2025-08-11,Instagram Ads,1
+785,Customer_0785,M,21,Pune,Maharashtra,2026-01-08,Referral,0
+786,Customer_0786,F,39,Chennai,Tamil Nadu,2025-10-04,Referral,0
+787,Customer_0787,F,30,Jaipur,Rajasthan,2025-08-14,Influencer,0
+788,Customer_0788,M,29,Ahmedabad,Gujarat,2025-09-06,Instagram Ads,1
+789,Customer_0789,F,26,Ahmedabad,Gujarat,2025-04-30,Google Ads,1
+790,Customer_0790,F,38,Bengaluru,Karnataka,2025-01-02,Google Ads,1
+791,Customer_0791,M,28,Delhi,Delhi,2026-03-08,Influencer,0
+792,Customer_0792,M,24,Bengaluru,Karnataka,2025-10-02,Google Ads,0
+793,Customer_0793,F,25,Bengaluru,Karnataka,2026-06-05,Google Ads,0
+794,Customer_0794,F,26,Hyderabad,Telangana,2025-04-21,Organic,0
+795,Customer_0795,F,24,Kolkata,West Bengal,2026-05-30,Instagram Ads,0
+796,Customer_0796,F,32,Pune,Maharashtra,2026-01-07,Instagram Ads,0
+797,Customer_0797,M,42,Mumbai,Maharashtra,2026-06-19,Referral,0
+798,Customer_0798,M,36,Bengaluru,Karnataka,2025-08-26,Organic,0
+799,Customer_0799,F,44,Hyderabad,Telangana,2025-05-15,Google Ads,1
+800,Customer_0800,M,37,Hyderabad,Telangana,2025-06-09,Instagram Ads,0
+801,Customer_0801,M,33,Mumbai,Maharashtra,2025-12-13,Referral,1
+802,Customer_0802,M,27,Bengaluru,Karnataka,2025-08-25,Instagram Ads,0
+803,Customer_0803,M,35,Delhi,Delhi,2025-11-01,Referral,0
+804,Customer_0804,M,56,Ahmedabad,Gujarat,2026-02-27,Instagram Ads,0
+805,Customer_0805,M,28,Hyderabad,Telangana,2026-05-21,Referral,1
+806,Customer_0806,M,18,Mumbai,Maharashtra,2026-07-17,Google Ads,0
+807,Customer_0807,M,40,Kolkata,West Bengal,2025-03-25,Instagram Ads,1
+808,Customer_0808,M,33,Bengaluru,Karnataka,2025-10-19,Google Ads,0
+809,Customer_0809,M,18,Ahmedabad,Gujarat,2025-08-23,Google Ads,0
+810,Customer_0810,M,34,Ahmedabad,Gujarat,2026-02-15,Influencer,0
+811,Customer_0811,F,32,Chennai,Tamil Nadu,2025-03-15,Instagram Ads,0
+812,Customer_0812,F,38,Delhi,Delhi,2026-06-23,Instagram Ads,0
+813,Customer_0813,M,37,Bengaluru,Karnataka,2025-06-05,Influencer,0
+814,Customer_0814,M,18,Chennai,Tamil Nadu,2026-04-01,Instagram Ads,0
+815,Customer_0815,M,37,Chennai,Tamil Nadu,2025-11-26,Google Ads,0
+816,Customer_0816,F,24,Delhi,Delhi,2025-01-21,Organic,0
+817,Customer_0817,M,30,Ahmedabad,Gujarat,2025-06-28,Referral,1
+818,Customer_0818,F,22,Chennai,Tamil Nadu,2025-05-10,Organic,1
+819,Customer_0819,M,38,Kolkata,West Bengal,2026-01-12,Organic,0
+820,Customer_0820,F,50,Pune,Maharashtra,2025-12-15,Instagram Ads,0
+821,Customer_0821,M,20,Bengaluru,Karnataka,2026-01-18,Influencer,0
+822,Customer_0822,M,26,Delhi,Delhi,2025-03-12,Organic,0
+823,Customer_0823,F,24,Nagpur,Maharashtra,2025-06-20,Referral,0
+824,Customer_0824,M,31,Kolkata,West Bengal,2025-05-26,Organic,1
+825,Customer_0825,M,26,Pune,Maharashtra,2025-01-31,Google Ads,0
+826,Customer_0826,F,30,Bengaluru,Karnataka,2026-06-30,Organic,1
+827,Customer_0827,F,43,Pune,Maharashtra,2026-03-30,Influencer,1
+828,Customer_0828,M,24,Kolkata,West Bengal,2025-06-10,Organic,0
+829,Customer_0829,F,23,Mumbai,Maharashtra,2025-05-10,Organic,0
+830,Customer_0830,M,18,Pune,Maharashtra,2025-10-23,Instagram Ads,0
+831,Customer_0831,F,31,Pune,Maharashtra,2025-12-16,Instagram Ads,0
+832,Customer_0832,F,26,Delhi,Delhi,2025-08-08,Organic,1
+833,Customer_0833,M,36,Hyderabad,Telangana,2026-05-27,Influencer,0
+834,Customer_0834,M,34,Ahmedabad,Gujarat,2025-08-04,Referral,0
+835,Customer_0835,F,25,Bengaluru,Karnataka,2026-05-10,Organic,0
+836,Customer_0836,F,24,Hyderabad,Telangana,2025-06-26,Google Ads,1
+837,Customer_0837,M,37,Mumbai,Maharashtra,2025-12-21,Influencer,0
+838,Customer_0838,F,19,Hyderabad,Telangana,2026-03-18,Influencer,1
+839,Customer_0839,F,24,Chennai,Tamil Nadu,2025-03-14,Referral,1
+840,Customer_0840,M,18,Chennai,Tamil Nadu,2025-09-30,Organic,1
+841,Customer_0841,M,25,Hyderabad,Telangana,2025-11-07,Instagram Ads,0
+842,Customer_0842,M,19,Kolkata,West Bengal,2025-01-06,Google Ads,0
+843,Customer_0843,M,29,Nagpur,Maharashtra,2025-11-15,Organic,1
+844,Customer_0844,F,23,Mumbai,Maharashtra,2026-01-08,Google Ads,1
+845,Customer_0845,M,33,Delhi,Delhi,2026-07-30,Instagram Ads,1
+846,Customer_0846,F,30,Mumbai,Maharashtra,2026-07-01,Referral,0
+847,Customer_0847,F,37,Jaipur,Rajasthan,2026-07-07,Instagram Ads,0
+848,Customer_0848,M,23,Ahmedabad,Gujarat,2025-05-05,Referral,0
+849,Customer_0849,F,30,Hyderabad,Telangana,2025-02-27,Influencer,0
+850,Customer_0850,F,22,Hyderabad,Telangana,2025-11-26,Influencer,0
+851,Customer_0851,F,32,Pune,Maharashtra,2025-04-27,Google Ads,0
+852,Customer_0852,F,18,Delhi,Delhi,2025-08-25,Organic,1
+853,Customer_0853,M,24,Delhi,Delhi,2025-11-13,Organic,0
+854,Customer_0854,M,24,Mumbai,Maharashtra,2026-03-22,Organic,0
+855,Customer_0855,F,30,Kolkata,West Bengal,2025-10-31,Instagram Ads,0
+856,Customer_0856,F,30,Bengaluru,Karnataka,2025-06-04,Influencer,0
+857,Customer_0857,F,32,Pune,Maharashtra,2026-07-18,Organic,0
+858,Customer_0858,F,27,Bengaluru,Karnataka,2025-02-06,Organic,1
+859,Customer_0859,M,32,Kolkata,West Bengal,2026-05-19,Referral,0
+860,Customer_0860,F,21,Nagpur,Maharashtra,2025-03-09,Organic,0
+861,Customer_0861,F,31,Hyderabad,Telangana,2025-02-28,Influencer,0
+862,Customer_0862,M,34,Pune,Maharashtra,2025-02-24,Influencer,0
+863,Customer_0863,F,33,Delhi,Delhi,2025-06-24,Google Ads,0
+864,Customer_0864,F,23,Delhi,Delhi,2025-02-25,Instagram Ads,1
+865,Customer_0865,F,23,Bengaluru,Karnataka,2026-01-28,Instagram Ads,0
+866,Customer_0866,F,22,Delhi,Delhi,2025-12-10,Organic,0
+867,Customer_0867,M,21,Nagpur,Maharashtra,2026-05-17,Influencer,0
+868,Customer_0868,M,20,Kolkata,West Bengal,2025-02-02,Referral,0
+869,Customer_0869,F,36,Hyderabad,Telangana,2025-10-24,Instagram Ads,0
+870,Customer_0870,F,34,Bengaluru,Karnataka,2025-01-30,Organic,0
+871,Customer_0871,M,35,Hyderabad,Telangana,2026-01-04,Google Ads,1
+872,Customer_0872,F,18,Nagpur,Maharashtra,2025-11-17,Referral,0
+873,Customer_0873,F,44,Delhi,Delhi,2025-12-25,Influencer,0
+874,Customer_0874,M,33,Jaipur,Rajasthan,2025-08-09,Instagram Ads,0
+875,Customer_0875,F,18,Mumbai,Maharashtra,2025-03-25,Google Ads,1
+876,Customer_0876,F,43,Ahmedabad,Gujarat,2026-01-11,Google Ads,1
+877,Customer_0877,F,33,Mumbai,Maharashtra,2026-02-04,Influencer,0
+878,Customer_0878,M,25,Delhi,Delhi,2025-01-31,Instagram Ads,0
+879,Customer_0879,M,35,Hyderabad,Telangana,2025-02-13,Organic,0
+880,Customer_0880,M,22,Chennai,Tamil Nadu,2026-07-05,Google Ads,1
+881,Customer_0881,F,30,Kolkata,West Bengal,2025-05-17,Google Ads,0
+882,Customer_0882,F,45,Mumbai,Maharashtra,2025-06-17,Google Ads,1
+883,Customer_0883,M,27,Ahmedabad,Gujarat,2026-05-12,Instagram Ads,0
+884,Customer_0884,F,18,Mumbai,Maharashtra,2025-08-01,Instagram Ads,1
+885,Customer_0885,F,38,Hyderabad,Telangana,2025-03-01,Influencer,0
+886,Customer_0886,F,30,Bengaluru,Karnataka,2025-01-05,Referral,1
+887,Customer_0887,M,25,Mumbai,Maharashtra,2025-02-08,Organic,1
+888,Customer_0888,M,23,Delhi,Delhi,2025-06-06,Google Ads,0
+889,Customer_0889,M,26,Delhi,Delhi,2026-06-21,Influencer,0
+890,Customer_0890,F,18,Chennai,Tamil Nadu,2025-05-15,Instagram Ads,0
+891,Customer_0891,F,34,Bengaluru,Karnataka,2026-01-16,Instagram Ads,0
+892,Customer_0892,F,35,Bengaluru,Karnataka,2025-01-02,Organic,0
+893,Customer_0893,F,39,Ahmedabad,Gujarat,2025-08-28,Google Ads,1
+894,Customer_0894,M,34,Delhi,Delhi,2025-10-04,Google Ads,0
+895,Customer_0895,F,37,Delhi,Delhi,2026-01-04,Organic,0
+896,Customer_0896,F,46,Bengaluru,Karnataka,2025-06-25,Instagram Ads,1
+897,Customer_0897,F,25,Mumbai,Maharashtra,2025-10-29,Organic,0
+898,Customer_0898,F,22,Chennai,Tamil Nadu,2025-07-30,Google Ads,1
+899,Customer_0899,M,19,Chennai,Tamil Nadu,2026-07-07,Organic,1
+900,Customer_0900,M,28,Bengaluru,Karnataka,2025-08-03,Instagram Ads,1
+901,Customer_0901,F,18,Jaipur,Rajasthan,2026-06-06,Instagram Ads,0
+902,Customer_0902,M,19,Mumbai,Maharashtra,2025-03-11,Organic,0
+903,Customer_0903,F,25,Jaipur,Rajasthan,2025-02-11,Organic,0
+904,Customer_0904,F,24,Delhi,Delhi,2025-12-20,Organic,0
+905,Customer_0905,M,20,Bengaluru,Karnataka,2025-07-02,Instagram Ads,1
+906,Customer_0906,F,21,Bengaluru,Karnataka,2025-12-09,Referral,0
+907,Customer_0907,M,31,Mumbai,Maharashtra,2025-07-02,Google Ads,0
+908,Customer_0908,F,41,Jaipur,Rajasthan,2026-02-04,Influencer,1
+909,Customer_0909,M,34,Mumbai,Maharashtra,2025-07-21,Referral,0
+910,Customer_0910,F,44,Jaipur,Rajasthan,2025-08-11,Organic,0
+911,Customer_0911,F,44,Hyderabad,Telangana,2026-01-04,Organic,0
+912,Customer_0912,M,40,Kolkata,West Bengal,2026-04-29,Google Ads,0
+913,Customer_0913,M,33,Delhi,Delhi,2025-02-16,Instagram Ads,1
+914,Customer_0914,F,35,Chennai,Tamil Nadu,2025-01-15,Instagram Ads,0
+915,Customer_0915,M,40,Delhi,Delhi,2025-11-22,Influencer,0
+916,Customer_0916,F,26,Kolkata,West Bengal,2026-06-17,Google Ads,0
+917,Customer_0917,F,39,Pune,Maharashtra,2026-01-25,Referral,0
+918,Customer_0918,O,42,Mumbai,Maharashtra,2025-09-10,Organic,0
+919,Customer_0919,F,23,Mumbai,Maharashtra,2025-04-22,Organic,0
+920,Customer_0920,M,38,Hyderabad,Telangana,2025-07-15,Referral,0
+921,Customer_0921,M,18,Chennai,Tamil Nadu,2025-02-27,Organic,0
+922,Customer_0922,F,22,Hyderabad,Telangana,2026-01-26,Google Ads,0
+923,Customer_0923,M,25,Chennai,Tamil Nadu,2025-11-25,Organic,0
+924,Customer_0924,M,25,Hyderabad,Telangana,2025-05-08,Organic,0
+925,Customer_0925,M,21,Delhi,Delhi,2025-12-21,Influencer,0
+926,Customer_0926,F,25,Bengaluru,Karnataka,2025-02-16,Organic,0
+927,Customer_0927,F,32,Pune,Maharashtra,2025-07-15,Influencer,0
+928,Customer_0928,M,25,Bengaluru,Karnataka,2025-06-05,Instagram Ads,1
+929,Customer_0929,M,31,Bengaluru,Karnataka,2025-01-24,Google Ads,1
+930,Customer_0930,F,30,Delhi,Delhi,2025-10-18,Organic,0
+931,Customer_0931,M,23,Hyderabad,Telangana,2025-07-23,Referral,0
+932,Customer_0932,F,30,Pune,Maharashtra,2026-06-13,Google Ads,0
+933,Customer_0933,M,29,Kolkata,West Bengal,2025-11-09,Influencer,0
+934,Customer_0934,M,28,Bengaluru,Karnataka,2026-07-25,Referral,0
+935,Customer_0935,M,28,Delhi,Delhi,2026-04-19,Google Ads,0
+936,Customer_0936,F,41,Hyderabad,Telangana,2026-02-17,Google Ads,0
+937,Customer_0937,F,27,Bengaluru,Karnataka,2026-05-18,Organic,1
+938,Customer_0938,M,33,Delhi,Delhi,2025-03-13,Organic,0
+939,Customer_0939,M,55,Delhi,Delhi,2026-01-26,Google Ads,0
+940,Customer_0940,M,23,Chennai,Tamil Nadu,2025-05-21,Google Ads,0
+941,Customer_0941,F,29,Hyderabad,Telangana,2025-07-24,Instagram Ads,0
+942,Customer_0942,M,26,Pune,Maharashtra,2026-03-12,Instagram Ads,0
+943,Customer_0943,F,33,Delhi,Delhi,2025-11-21,Google Ads,1
+944,Customer_0944,F,22,Mumbai,Maharashtra,2025-12-30,Organic,0
+945,Customer_0945,M,46,Hyderabad,Telangana,2026-06-12,Referral,0
+946,Customer_0946,M,32,Delhi,Delhi,2026-05-05,Influencer,1
+947,Customer_0947,F,19,Hyderabad,Telangana,2025-07-23,Organic,0
+948,Customer_0948,F,18,Bengaluru,Karnataka,2025-06-02,Organic,0
+949,Customer_0949,F,18,Pune,Maharashtra,2026-08-02,Referral,0
+950,Customer_0950,M,22,Mumbai,Maharashtra,2026-07-06,Organic,1
+951,Customer_0951,M,35,Kolkata,West Bengal,2026-02-18,Google Ads,0
+952,Customer_0952,M,33,Jaipur,Rajasthan,2025-10-18,Organic,0
+953,Customer_0953,F,26,Hyderabad,Telangana,2026-08-11,Google Ads,0
+954,Customer_0954,M,18,Delhi,Delhi,2025-10-31,Google Ads,0
+955,Customer_0955,M,27,Bengaluru,Karnataka,2025-01-02,Organic,0
+956,Customer_0956,M,27,Jaipur,Rajasthan,2026-05-12,Google Ads,0
+957,Customer_0957,F,43,Mumbai,Maharashtra,2026-05-22,Instagram Ads,0
+958,Customer_0958,F,47,Hyderabad,Telangana,2026-05-27,Google Ads,0
+959,Customer_0959,M,36,Delhi,Delhi,2026-04-10,Organic,0
+960,Customer_0960,M,36,Delhi,Delhi,2026-08-24,Google Ads,1
+961,Customer_0961,M,28,Bengaluru,Karnataka,2025-02-14,Referral,0
+962,Customer_0962,F,40,Chennai,Tamil Nadu,2025-07-19,Organic,0
+963,Customer_0963,M,33,Nagpur,Maharashtra,2025-02-17,Instagram Ads,0
+964,Customer_0964,M,25,Chennai,Tamil Nadu,2025-08-12,Instagram Ads,0
+965,Customer_0965,F,33,Hyderabad,Telangana,2026-01-21,Instagram Ads,0
+966,Customer_0966,M,28,Chennai,Tamil Nadu,2025-03-13,Influencer,0
+967,Customer_0967,F,30,Hyderabad,Telangana,2026-04-12,Instagram Ads,0
+968,Customer_0968,M,28,Delhi,Delhi,2025-09-05,Referral,0
+969,Customer_0969,M,33,Mumbai,Maharashtra,2026-02-16,Influencer,0
+970,Customer_0970,F,22,Bengaluru,Karnataka,2025-10-03,Google Ads,1
+971,Customer_0971,F,30,Mumbai,Maharashtra,2026-01-11,Google Ads,1
+972,Customer_0972,M,31,Delhi,Delhi,2026-03-16,Instagram Ads,0
+973,Customer_0973,F,41,Kolkata,West Bengal,2025-08-05,Influencer,0
+974,Customer_0974,M,40,Mumbai,Maharashtra,2026-08-09,Influencer,1
+975,Customer_0975,M,18,Delhi,Delhi,2026-07-14,Instagram Ads,0
+976,Customer_0976,F,33,Mumbai,Maharashtra,2025-03-21,Organic,1
+977,Customer_0977,F,35,Chennai,Tamil Nadu,2026-02-02,Organic,0
+978,Customer_0978,M,22,Pune,Maharashtra,2025-05-08,Google Ads,0
+979,Customer_0979,F,18,Chennai,Tamil Nadu,2025-10-30,Instagram Ads,0
+980,Customer_0980,F,25,Bengaluru,Karnataka,2025-06-02,Google Ads,0
+981,Customer_0981,F,23,Pune,Maharashtra,2025-07-02,Instagram Ads,0
+982,Customer_0982,M,37,Bengaluru,Karnataka,2026-01-31,Instagram Ads,1
+983,Customer_0983,F,33,Nagpur,Maharashtra,2026-06-24,Organic,0
+984,Customer_0984,F,42,Jaipur,Rajasthan,2025-10-14,Instagram Ads,0
+985,Customer_0985,F,30,Delhi,Delhi,2025-09-14,Instagram Ads,0
+986,Customer_0986,F,26,Chennai,Tamil Nadu,2026-01-07,Referral,0
+987,Customer_0987,M,42,Mumbai,Maharashtra,2025-12-19,Organic,1
+988,Customer_0988,F,18,Mumbai,Maharashtra,2025-04-07,Organic,0
+989,Customer_0989,F,32,Pune,Maharashtra,2025-02-10,Google Ads,0
+990,Customer_0990,F,30,Hyderabad,Telangana,2026-04-11,Google Ads,0
+991,Customer_0991,M,22,Delhi,Delhi,2026-02-25,Influencer,1
+992,Customer_0992,M,29,Delhi,Delhi,2026-01-31,Instagram Ads,1
+993,Customer_0993,M,31,Delhi,Delhi,2026-01-30,Referral,0
+994,Customer_0994,M,26,Jaipur,Rajasthan,2025-05-12,Organic,0
+995,Customer_0995,F,30,Delhi,Delhi,2025-10-02,Influencer,0
+996,Customer_0996,M,35,Pune,Maharashtra,2025-09-23,Instagram Ads,0
+997,Customer_0997,M,20,Delhi,Delhi,2025-05-24,Organic,0
+998,Customer_0998,F,39,Delhi,Delhi,2025-10-31,Organic,0
+999,Customer_0999,F,29,Delhi,Delhi,2026-06-27,Google Ads,0
+1000,Customer_1000,M,22,Delhi,Delhi,2026-07-31,Organic,0
+1001,Customer_1001,M,31,Delhi,Delhi,2025-04-25,Influencer,0
+1002,Customer_1002,F,18,Hyderabad,Telangana,2026-05-19,Instagram Ads,0
+1003,Customer_1003,F,28,Mumbai,Maharashtra,2026-02-16,Referral,0
+1004,Customer_1004,M,24,Delhi,Delhi,2025-06-24,Organic,0
+1005,Customer_1005,F,50,Bengaluru,Karnataka,2025-06-29,Instagram Ads,0
+1006,Customer_1006,F,36,Ahmedabad,Gujarat,2025-03-02,Organic,1
+1007,Customer_1007,M,26,Mumbai,Maharashtra,2025-12-30,Referral,0
+1008,Customer_1008,F,24,Pune,Maharashtra,2026-02-24,Instagram Ads,0
+1009,Customer_1009,F,39,Hyderabad,Telangana,2026-08-27,Google Ads,0
+1010,Customer_1010,M,25,Mumbai,Maharashtra,2025-10-30,Referral,0
+1011,Customer_1011,F,18,Bengaluru,Karnataka,2026-07-22,Instagram Ads,0
+1012,Customer_1012,F,18,Kolkata,West Bengal,2026-03-28,Google Ads,0
+1013,Customer_1013,M,18,Delhi,Delhi,2026-08-04,Organic,0
+1014,Customer_1014,M,32,Bengaluru,Karnataka,2026-04-25,Google Ads,0
+1015,Customer_1015,M,33,Chennai,Tamil Nadu,2025-02-20,Organic,0
+1016,Customer_1016,M,39,Nagpur,Maharashtra,2025-09-11,Google Ads,1
+1017,Customer_1017,F,24,Chennai,Tamil Nadu,2026-02-04,Referral,0
+1018,Customer_1018,F,37,Delhi,Delhi,2026-04-27,Google Ads,0
+1019,Customer_1019,F,21,Bengaluru,Karnataka,2026-04-24,Instagram Ads,0
+1020,Customer_1020,F,38,Delhi,Delhi,2026-05-09,Organic,1
+1021,Customer_1021,F,32,Mumbai,Maharashtra,2026-05-04,Google Ads,1
+1022,Customer_1022,F,34,Bengaluru,Karnataka,2026-03-01,Google Ads,0
+1023,Customer_1023,F,23,Hyderabad,Telangana,2026-01-03,Referral,1
+1024,Customer_1024,M,31,Pune,Maharashtra,2025-05-08,Organic,0
+1025,Customer_1025,F,43,Mumbai,Maharashtra,2025-06-19,Influencer,0
+1026,Customer_1026,M,28,Kolkata,West Bengal,2026-06-19,Influencer,1
+1027,Customer_1027,M,21,Chennai,Tamil Nadu,2025-04-06,Google Ads,0
+1028,Customer_1028,F,27,Kolkata,West Bengal,2026-01-16,Instagram Ads,0
+1029,Customer_1029,F,32,Chennai,Tamil Nadu,2025-05-10,Influencer,1
+1030,Customer_1030,F,30,Pune,Maharashtra,2025-08-06,Google Ads,1
+1031,Customer_1031,M,36,Jaipur,Rajasthan,2025-09-29,Google Ads,0
+1032,Customer_1032,M,31,Delhi,Delhi,2025-03-24,Referral,0
+1033,Customer_1033,M,24,Hyderabad,Telangana,2025-04-28,Google Ads,0
+1034,Customer_1034,F,18,Ahmedabad,Gujarat,2025-08-01,Instagram Ads,0
+1035,Customer_1035,F,41,Bengaluru,Karnataka,2026-03-23,Organic,0
+1036,Customer_1036,M,18,Hyderabad,Telangana,2025-10-20,Influencer,0
+1037,Customer_1037,M,38,Delhi,Delhi,2025-12-18,Influencer,0
+1038,Customer_1038,F,23,Pune,Maharashtra,2025-01-14,Instagram Ads,0
+1039,Customer_1039,M,38,Mumbai,Maharashtra,2026-08-31,Organic,0
+1040,Customer_1040,M,28,Ahmedabad,Gujarat,2026-01-03,Organic,1
+1041,Customer_1041,M,36,Nagpur,Maharashtra,2025-10-09,Instagram Ads,0
+1042,Customer_1042,M,38,Mumbai,Maharashtra,2026-02-13,Organic,0
+1043,Customer_1043,M,20,Kolkata,West Bengal,2025-08-17,Referral,0
+1044,Customer_1044,M,24,Kolkata,West Bengal,2025-12-12,Influencer,0
+1045,Customer_1045,F,45,Ahmedabad,Gujarat,2025-07-16,Instagram Ads,0
+1046,Customer_1046,F,26,Delhi,Delhi,2025-09-13,Referral,0
+1047,Customer_1047,M,18,Kolkata,West Bengal,2026-05-19,Google Ads,1
+1048,Customer_1048,F,26,Jaipur,Rajasthan,2026-05-20,Organic,0
+1049,Customer_1049,F,31,Pune,Maharashtra,2025-07-04,Referral,0
+1050,Customer_1050,M,23,Mumbai,Maharashtra,2025-04-19,Instagram Ads,1
+1051,Customer_1051,F,25,Bengaluru,Karnataka,2025-08-23,Google Ads,0
+1052,Customer_1052,M,23,Chennai,Tamil Nadu,2025-11-10,Influencer,0
+1053,Customer_1053,M,41,Delhi,Delhi,2025-04-02,Influencer,0
+1054,Customer_1054,F,31,Delhi,Delhi,2026-08-28,Referral,0
+1055,Customer_1055,F,32,Mumbai,Maharashtra,2025-06-20,Google Ads,1
+1056,Customer_1056,F,29,Nagpur,Maharashtra,2025-05-16,Organic,0
+1057,Customer_1057,F,21,Chennai,Tamil Nadu,2025-08-29,Instagram Ads,0
+1058,Customer_1058,M,26,Delhi,Delhi,2026-03-30,Organic,0
+1059,Customer_1059,F,36,Bengaluru,Karnataka,2026-06-21,Organic,1
+1060,Customer_1060,M,34,Ahmedabad,Gujarat,2026-03-04,Instagram Ads,0
+1061,Customer_1061,M,21,Delhi,Delhi,2026-04-03,Influencer,0
+1062,Customer_1062,F,23,Kolkata,West Bengal,2025-09-22,Organic,0
+1063,Customer_1063,F,28,Bengaluru,Karnataka,2025-05-10,Organic,1
+1064,Customer_1064,M,27,Hyderabad,Telangana,2025-09-17,Organic,0
+1065,Customer_1065,F,30,Bengaluru,Karnataka,2025-02-27,Instagram Ads,0
+1066,Customer_1066,M,38,Mumbai,Maharashtra,2026-04-09,Referral,0
+1067,Customer_1067,F,35,Chennai,Tamil Nadu,2025-07-11,Instagram Ads,1
+1068,Customer_1068,F,32,Mumbai,Maharashtra,2025-11-22,Instagram Ads,0
+1069,Customer_1069,F,26,Kolkata,West Bengal,2025-04-07,Organic,0
+1070,Customer_1070,F,38,Jaipur,Rajasthan,2026-05-24,Organic,0
+1071,Customer_1071,M,39,Delhi,Delhi,2026-01-14,Instagram Ads,0
+1072,Customer_1072,F,37,Bengaluru,Karnataka,2026-03-06,Instagram Ads,0
+1073,Customer_1073,F,51,Nagpur,Maharashtra,2026-08-07,Influencer,0
+1074,Customer_1074,M,39,Pune,Maharashtra,2025-11-01,Referral,0
+1075,Customer_1075,F,44,Bengaluru,Karnataka,2026-06-15,Instagram Ads,0
+1076,Customer_1076,M,28,Kolkata,West Bengal,2025-09-15,Organic,0
+1077,Customer_1077,F,34,Delhi,Delhi,2026-04-13,Google Ads,0
+1078,Customer_1078,F,18,Hyderabad,Telangana,2025-10-01,Referral,0
+1079,Customer_1079,F,41,Pune,Maharashtra,2025-01-18,Organic,1
+1080,Customer_1080,F,29,Mumbai,Maharashtra,2026-04-23,Organic,1
+1081,Customer_1081,F,34,Delhi,Delhi,2025-06-10,Instagram Ads,1
+1082,Customer_1082,F,38,Delhi,Delhi,2026-07-03,Influencer,0
+1083,Customer_1083,M,24,Mumbai,Maharashtra,2026-03-14,Organic,0
+1084,Customer_1084,F,28,Delhi,Delhi,2026-06-20,Organic,0
+1085,Customer_1085,F,38,Hyderabad,Telangana,2025-07-01,Google Ads,0
+1086,Customer_1086,F,21,Chennai,Tamil Nadu,2025-07-17,Influencer,0
+1087,Customer_1087,F,34,Delhi,Delhi,2025-12-02,Referral,1
+1088,Customer_1088,F,45,Delhi,Delhi,2026-06-11,Influencer,0
+1089,Customer_1089,F,26,Mumbai,Maharashtra,2025-03-19,Instagram Ads,1
+1090,Customer_1090,M,27,Hyderabad,Telangana,2026-07-24,Organic,0
+1091,Customer_1091,M,26,Jaipur,Rajasthan,2025-12-18,Organic,0
+1092,Customer_1092,M,23,Nagpur,Maharashtra,2026-04-22,Referral,0
+1093,Customer_1093,M,26,Bengaluru,Karnataka,2025-11-22,Instagram Ads,0
+1094,Customer_1094,M,30,Chennai,Tamil Nadu,2026-08-21,Google Ads,1
+1095,Customer_1095,F,34,Bengaluru,Karnataka,2026-03-25,Google Ads,0
+1096,Customer_1096,F,27,Hyderabad,Telangana,2025-09-19,Organic,1
+1097,Customer_1097,M,34,Delhi,Delhi,2026-08-04,Instagram Ads,0
+1098,Customer_1098,M,18,Kolkata,West Bengal,2025-06-25,Instagram Ads,0
+1099,Customer_1099,M,29,Pune,Maharashtra,2026-05-18,Organic,0
+1100,Customer_1100,M,24,Bengaluru,Karnataka,2025-12-21,Google Ads,0
+1101,Customer_1101,F,37,Delhi,Delhi,2026-01-28,Influencer,0
+1102,Customer_1102,M,18,Mumbai,Maharashtra,2026-05-11,Google Ads,0
+1103,Customer_1103,M,24,Bengaluru,Karnataka,2026-03-14,Instagram Ads,0
+1104,Customer_1104,M,20,Kolkata,West Bengal,2026-04-17,Influencer,0
+1105,Customer_1105,F,20,Kolkata,West Bengal,2026-06-27,Instagram Ads,0
+1106,Customer_1106,M,19,Hyderabad,Telangana,2025-06-30,Google Ads,0
+1107,Customer_1107,F,25,Chennai,Tamil Nadu,2026-06-22,Influencer,0
+1108,Customer_1108,M,25,Pune,Maharashtra,2026-04-20,Instagram Ads,0
+1109,Customer_1109,M,18,Jaipur,Rajasthan,2025-02-03,Organic,0
+1110,Customer_1110,F,18,Chennai,Tamil Nadu,2026-04-25,Organic,1
+1111,Customer_1111,M,33,Hyderabad,Telangana,2025-01-01,Organic,0
+1112,Customer_1112,F,18,Nagpur,Maharashtra,2026-05-28,Referral,0
+1113,Customer_1113,F,35,Ahmedabad,Gujarat,2025-05-04,Instagram Ads,0
+1114,Customer_1114,F,35,Hyderabad,Telangana,2026-06-18,Organic,0
+1115,Customer_1115,F,20,Bengaluru,Karnataka,2025-01-12,Influencer,0
+1116,Customer_1116,F,34,Delhi,Delhi,2025-05-15,Google Ads,0
+1117,Customer_1117,M,33,Delhi,Delhi,2026-02-17,Referral,0
+1118,Customer_1118,F,29,Kolkata,West Bengal,2025-12-29,Instagram Ads,0
+1119,Customer_1119,M,32,Jaipur,Rajasthan,2026-02-24,Instagram Ads,0
+1120,Customer_1120,M,28,Pune,Maharashtra,2025-08-22,Google Ads,0
+1121,Customer_1121,M,31,Jaipur,Rajasthan,2025-09-14,Instagram Ads,0
+1122,Customer_1122,F,19,Nagpur,Maharashtra,2026-07-25,Organic,0
+1123,Customer_1123,F,27,Bengaluru,Karnataka,2026-03-14,Influencer,0
+1124,Customer_1124,F,27,Delhi,Delhi,2026-01-04,Organic,1
+1125,Customer_1125,M,27,Jaipur,Rajasthan,2026-06-29,Influencer,0
+1126,Customer_1126,F,28,Chennai,Tamil Nadu,2026-02-13,Organic,0
+1127,Customer_1127,M,39,Delhi,Delhi,2026-02-03,Organic,0
+1128,Customer_1128,M,30,Jaipur,Rajasthan,2025-09-12,Instagram Ads,1
+1129,Customer_1129,M,31,Pune,Maharashtra,2025-06-07,Organic,0
+1130,Customer_1130,F,30,Chennai,Tamil Nadu,2026-07-17,Instagram Ads,0
+1131,Customer_1131,M,32,Delhi,Delhi,2025-10-12,Organic,0
+1132,Customer_1132,F,24,Jaipur,Rajasthan,2025-07-28,Influencer,0
+1133,Customer_1133,F,23,Nagpur,Maharashtra,2026-05-23,Organic,0
+1134,Customer_1134,O,29,Chennai,Tamil Nadu,2026-07-15,Instagram Ads,0
+1135,Customer_1135,M,28,Delhi,Delhi,2025-04-04,Instagram Ads,1
+1136,Customer_1136,F,35,Hyderabad,Telangana,2026-05-07,Instagram Ads,0
+1137,Customer_1137,F,28,Ahmedabad,Gujarat,2026-08-25,Organic,0
+1138,Customer_1138,F,18,Mumbai,Maharashtra,2025-08-19,Organic,0
+1139,Customer_1139,F,35,Mumbai,Maharashtra,2025-05-06,Influencer,0
+1140,Customer_1140,F,21,Chennai,Tamil Nadu,2026-04-25,Instagram Ads,0
+1141,Customer_1141,F,38,Chennai,Tamil Nadu,2025-12-12,Instagram Ads,0
+1142,Customer_1142,M,34,Hyderabad,Telangana,2026-01-01,Influencer,0
+1143,Customer_1143,F,22,Ahmedabad,Gujarat,2026-08-23,Referral,0
+1144,Customer_1144,M,26,Ahmedabad,Gujarat,2025-06-06,Referral,0
+1145,Customer_1145,F,36,Bengaluru,Karnataka,2025-12-03,Organic,0
+1146,Customer_1146,M,36,Jaipur,Rajasthan,2026-02-12,Referral,0
+1147,Customer_1147,F,18,Hyderabad,Telangana,2025-02-17,Instagram Ads,0
+1148,Customer_1148,F,18,Ahmedabad,Gujarat,2026-07-16,Google Ads,0
+1149,Customer_1149,M,27,Hyderabad,Telangana,2025-09-20,Organic,0
+1150,Customer_1150,M,33,Hyderabad,Telangana,2025-10-09,Influencer,0
+1151,Customer_1151,M,49,Mumbai,Maharashtra,2025-03-09,Organic,0
+1152,Customer_1152,F,24,Bengaluru,Karnataka,2025-09-16,Google Ads,0
+1153,Customer_1153,F,26,Bengaluru,Karnataka,2026-08-02,Organic,0
+1154,Customer_1154,F,25,Pune,Maharashtra,2025-06-02,Instagram Ads,1
+1155,Customer_1155,M,19,Delhi,Delhi,2025-09-06,Organic,0
+1156,Customer_1156,M,33,Chennai,Tamil Nadu,2025-05-11,Google Ads,0
+1157,Customer_1157,M,29,Pune,Maharashtra,2025-11-27,Instagram Ads,0
+1158,Customer_1158,F,44,Chennai,Tamil Nadu,2026-01-31,Organic,1
+1159,Customer_1159,F,39,Bengaluru,Karnataka,2025-06-26,Instagram Ads,0
+1160,Customer_1160,M,44,Kolkata,West Bengal,2025-07-18,Instagram Ads,0
+1161,Customer_1161,F,32,Chennai,Tamil Nadu,2025-11-19,Google Ads,0
+1162,Customer_1162,F,35,Delhi,Delhi,2025-02-07,Influencer,0
+1163,Customer_1163,F,19,Jaipur,Rajasthan,2025-12-21,Instagram Ads,0
+1164,Customer_1164,M,38,Kolkata,West Bengal,2025-11-04,Google Ads,0
+1165,Customer_1165,F,34,Delhi,Delhi,2025-10-24,Organic,0
+1166,Customer_1166,M,29,Bengaluru,Karnataka,2025-03-19,Instagram Ads,0
+1167,Customer_1167,M,34,Chennai,Tamil Nadu,2026-07-09,Influencer,1
+1168,Customer_1168,F,37,Bengaluru,Karnataka,2025-07-05,Organic,0
+1169,Customer_1169,F,42,Delhi,Delhi,2025-06-03,Google Ads,0
+1170,Customer_1170,F,18,Jaipur,Rajasthan,2025-07-22,Organic,0
+1171,Customer_1171,M,25,Jaipur,Rajasthan,2026-05-31,Influencer,0
+1172,Customer_1172,M,25,Chennai,Tamil Nadu,2025-11-07,Google Ads,0
+1173,Customer_1173,M,19,Mumbai,Maharashtra,2026-04-17,Google Ads,0
+1174,Customer_1174,F,38,Mumbai,Maharashtra,2025-06-30,Organic,0
+1175,Customer_1175,F,33,Pune,Maharashtra,2026-07-10,Organic,0
+1176,Customer_1176,F,25,Hyderabad,Telangana,2026-05-23,Google Ads,0
+1177,Customer_1177,M,43,Hyderabad,Telangana,2025-04-21,Instagram Ads,0
+1178,Customer_1178,F,29,Chennai,Tamil Nadu,2025-07-29,Influencer,1
+1179,Customer_1179,M,44,Chennai,Tamil Nadu,2026-07-11,Organic,0
+1180,Customer_1180,F,36,Chennai,Tamil Nadu,2025-08-24,Instagram Ads,1
+1181,Customer_1181,M,29,Kolkata,West Bengal,2026-03-09,Google Ads,1
+1182,Customer_1182,M,31,Jaipur,Rajasthan,2025-07-14,Referral,0
+1183,Customer_1183,M,37,Ahmedabad,Gujarat,2026-03-13,Referral,0
+1184,Customer_1184,M,40,Jaipur,Rajasthan,2026-01-23,Google Ads,0
+1185,Customer_1185,M,29,Mumbai,Maharashtra,2025-12-22,Organic,1
+1186,Customer_1186,M,29,Delhi,Delhi,2025-11-12,Organic,0
+1187,Customer_1187,F,24,Delhi,Delhi,2026-05-13,Referral,0
+1188,Customer_1188,M,30,Chennai,Tamil Nadu,2026-01-25,Referral,0
+1189,Customer_1189,F,33,Bengaluru,Karnataka,2026-01-09,Organic,0
+1190,Customer_1190,M,27,Ahmedabad,Gujarat,2025-11-06,Instagram Ads,0
+1191,Customer_1191,M,27,Pune,Maharashtra,2025-12-08,Referral,0
+1192,Customer_1192,M,18,Kolkata,West Bengal,2026-01-09,Instagram Ads,0
+1193,Customer_1193,M,28,Mumbai,Maharashtra,2026-04-22,Organic,0
+1194,Customer_1194,M,38,Mumbai,Maharashtra,2026-08-26,Organic,0
+1195,Customer_1195,M,29,Hyderabad,Telangana,2025-03-05,Organic,1
+1196,Customer_1196,M,28,Hyderabad,Telangana,2026-06-26,Organic,0
+1197,Customer_1197,M,29,Mumbai,Maharashtra,2025-04-15,Referral,0
+1198,Customer_1198,F,36,Kolkata,West Bengal,2025-01-16,Google Ads,1
+1199,Customer_1199,M,25,Jaipur,Rajasthan,2025-05-19,Organic,0
+1200,Customer_1200,M,55,Mumbai,Maharashtra,2025-07-30,Referral,0
+1201,Customer_1201,F,27,Mumbai,Maharashtra,2026-01-10,Organic,0
+1202,Customer_1202,M,18,Hyderabad,Telangana,2025-06-24,Organic,1
+1203,Customer_1203,F,36,Kolkata,West Bengal,2025-12-11,Influencer,0
+1204,Customer_1204,M,27,Chennai,Tamil Nadu,2025-09-22,Organic,0
+1205,Customer_1205,M,23,Jaipur,Rajasthan,2026-06-04,Instagram Ads,0
+1206,Customer_1206,F,20,Bengaluru,Karnataka,2025-12-08,Organic,0
+1207,Customer_1207,F,24,Hyderabad,Telangana,2025-02-14,Organic,1
+1208,Customer_1208,M,32,Mumbai,Maharashtra,2025-12-21,Referral,0
+1209,Customer_1209,F,24,Bengaluru,Karnataka,2025-04-24,Organic,0
+1210,Customer_1210,M,38,Hyderabad,Telangana,2026-01-11,Organic,0
+1211,Customer_1211,F,36,Delhi,Delhi,2026-04-19,Organic,1
+1212,Customer_1212,M,27,Delhi,Delhi,2026-06-22,Google Ads,0
+1213,Customer_1213,F,28,Hyderabad,Telangana,2026-07-25,Instagram Ads,1
+1214,Customer_1214,M,30,Ahmedabad,Gujarat,2025-07-08,Organic,0
+1215,Customer_1215,F,34,Delhi,Delhi,2025-02-12,Google Ads,0
+1216,Customer_1216,M,29,Bengaluru,Karnataka,2025-01-01,Referral,0
+1217,Customer_1217,M,30,Hyderabad,Telangana,2026-06-19,Organic,0
+1218,Customer_1218,F,33,Bengaluru,Karnataka,2026-04-28,Instagram Ads,1
+1219,Customer_1219,F,29,Jaipur,Rajasthan,2025-10-05,Influencer,0
+1220,Customer_1220,M,28,Jaipur,Rajasthan,2025-06-13,Organic,1
+1221,Customer_1221,F,29,Kolkata,West Bengal,2025-12-18,Organic,1
+1222,Customer_1222,F,28,Delhi,Delhi,2026-01-10,Instagram Ads,0
+1223,Customer_1223,M,31,Bengaluru,Karnataka,2026-08-09,Referral,0
+1224,Customer_1224,M,24,Delhi,Delhi,2026-04-29,Instagram Ads,0
+1225,Customer_1225,F,32,Bengaluru,Karnataka,2025-05-31,Influencer,0
+1226,Customer_1226,M,25,Ahmedabad,Gujarat,2025-09-12,Instagram Ads,0
+1227,Customer_1227,M,36,Ahmedabad,Gujarat,2025-05-22,Google Ads,0
+1228,Customer_1228,M,21,Kolkata,West Bengal,2026-06-27,Instagram Ads,0
+1229,Customer_1229,F,18,Bengaluru,Karnataka,2026-02-19,Influencer,0
+1230,Customer_1230,M,29,Ahmedabad,Gujarat,2025-01-04,Instagram Ads,1
+1231,Customer_1231,F,18,Pune,Maharashtra,2025-06-07,Organic,1
+1232,Customer_1232,F,20,Jaipur,Rajasthan,2026-06-07,Google Ads,1
+1233,Customer_1233,F,18,Chennai,Tamil Nadu,2026-03-07,Referral,0
+1234,Customer_1234,M,27,Chennai,Tamil Nadu,2025-04-23,Referral,1
+1235,Customer_1235,M,20,Delhi,Delhi,2026-07-26,Google Ads,1
+1236,Customer_1236,M,19,Ahmedabad,Gujarat,2025-11-29,Instagram Ads,0
+1237,Customer_1237,M,30,Bengaluru,Karnataka,2026-05-12,Organic,0
+1238,Customer_1238,F,23,Jaipur,Rajasthan,2025-12-10,Google Ads,0
+1239,Customer_1239,M,21,Mumbai,Maharashtra,2025-07-28,Organic,0
+1240,Customer_1240,F,18,Delhi,Delhi,2026-08-28,Instagram Ads,0
+1241,Customer_1241,F,26,Mumbai,Maharashtra,2026-06-23,Instagram Ads,1
+1242,Customer_1242,F,19,Kolkata,West Bengal,2026-03-11,Influencer,0
+1243,Customer_1243,M,21,Kolkata,West Bengal,2026-07-13,Referral,0
+1244,Customer_1244,F,18,Hyderabad,Telangana,2025-08-05,Organic,0
+1245,Customer_1245,M,23,Bengaluru,Karnataka,2026-03-14,Influencer,0
+1246,Customer_1246,M,44,Kolkata,West Bengal,2025-10-05,Organic,0
+1247,Customer_1247,O,27,Chennai,Tamil Nadu,2025-09-18,Instagram Ads,1
+1248,Customer_1248,F,35,Pune,Maharashtra,2026-03-28,Organic,0
+1249,Customer_1249,F,54,Chennai,Tamil Nadu,2025-12-04,Referral,0
+1250,Customer_1250,M,31,Delhi,Delhi,2026-03-08,Organic,0
+1251,Customer_1251,F,18,Hyderabad,Telangana,2025-05-02,Organic,1
+1252,Customer_1252,M,25,Nagpur,Maharashtra,2025-10-09,Referral,0
+1253,Customer_1253,F,18,Ahmedabad,Gujarat,2025-10-27,Organic,0
+1254,Customer_1254,F,25,Bengaluru,Karnataka,2026-04-25,Organic,0
+1255,Customer_1255,F,22,Mumbai,Maharashtra,2026-02-24,Instagram Ads,1
+1256,Customer_1256,M,33,Nagpur,Maharashtra,2025-04-14,Instagram Ads,0
+1257,Customer_1257,M,28,Hyderabad,Telangana,2025-05-07,Instagram Ads,0
+1258,Customer_1258,M,18,Chennai,Tamil Nadu,2025-09-14,Referral,0
+1259,Customer_1259,M,31,Mumbai,Maharashtra,2025-07-29,Instagram Ads,0
+1260,Customer_1260,M,33,Kolkata,West Bengal,2025-06-29,Instagram Ads,1
+1261,Customer_1261,F,26,Bengaluru,Karnataka,2025-05-19,Google Ads,0
+1262,Customer_1262,F,31,Kolkata,West Bengal,2025-02-11,Google Ads,1
+1263,Customer_1263,M,48,Bengaluru,Karnataka,2026-05-28,Organic,0
+1264,Customer_1264,F,32,Delhi,Delhi,2026-01-26,Organic,1
+1265,Customer_1265,M,26,Jaipur,Rajasthan,2025-08-13,Referral,1
+1266,Customer_1266,F,32,Chennai,Tamil Nadu,2026-05-14,Google Ads,0
+1267,Customer_1267,F,24,Delhi,Delhi,2026-06-06,Organic,0
+1268,Customer_1268,F,36,Pune,Maharashtra,2026-06-06,Influencer,1
+1269,Customer_1269,F,38,Pune,Maharashtra,2026-06-21,Instagram Ads,0
+1270,Customer_1270,F,37,Bengaluru,Karnataka,2025-07-20,Organic,0
+1271,Customer_1271,M,40,Bengaluru,Karnataka,2026-04-17,Organic,0
+1272,Customer_1272,M,33,Mumbai,Maharashtra,2025-09-12,Instagram Ads,1
+1273,Customer_1273,F,47,Nagpur,Maharashtra,2026-06-29,Google Ads,0
+1274,Customer_1274,F,38,Pune,Maharashtra,2025-03-28,Organic,0
+1275,Customer_1275,M,22,Delhi,Delhi,2026-04-08,Instagram Ads,0
+1276,Customer_1276,M,38,Ahmedabad,Gujarat,2025-06-30,Google Ads,0
+1277,Customer_1277,M,25,Bengaluru,Karnataka,2026-06-13,Instagram Ads,0
+1278,Customer_1278,O,36,Bengaluru,Karnataka,2025-08-11,Organic,0
+1279,Customer_1279,F,27,Bengaluru,Karnataka,2025-02-03,Google Ads,0
+1280,Customer_1280,M,35,Chennai,Tamil Nadu,2026-07-30,Google Ads,0
+1281,Customer_1281,F,36,Mumbai,Maharashtra,2026-02-18,Influencer,1
+1282,Customer_1282,F,26,Delhi,Delhi,2026-07-04,Referral,0
+1283,Customer_1283,M,30,Pune,Maharashtra,2026-01-15,Organic,0
+1284,Customer_1284,F,23,Bengaluru,Karnataka,2025-12-15,Organic,0
+1285,Customer_1285,F,32,Hyderabad,Telangana,2026-03-21,Instagram Ads,0
+1286,Customer_1286,F,24,Ahmedabad,Gujarat,2025-08-11,Organic,0
+1287,Customer_1287,M,24,Pune,Maharashtra,2025-04-25,Organic,1
+1288,Customer_1288,F,28,Chennai,Tamil Nadu,2026-02-14,Referral,0
+1289,Customer_1289,M,31,Hyderabad,Telangana,2026-02-22,Instagram Ads,0
+1290,Customer_1290,M,33,Nagpur,Maharashtra,2025-06-20,Instagram Ads,0
+1291,Customer_1291,M,18,Mumbai,Maharashtra,2025-02-25,Google Ads,0
+1292,Customer_1292,F,38,Delhi,Delhi,2026-01-29,Google Ads,1
+1293,Customer_1293,F,40,Kolkata,West Bengal,2025-08-25,Google Ads,0
+1294,Customer_1294,F,24,Mumbai,Maharashtra,2025-03-13,Organic,1
+1295,Customer_1295,F,26,Pune,Maharashtra,2025-03-18,Influencer,0
+1296,Customer_1296,F,25,Pune,Maharashtra,2025-09-13,Google Ads,0
+1297,Customer_1297,M,27,Mumbai,Maharashtra,2026-07-26,Influencer,0
+1298,Customer_1298,F,29,Delhi,Delhi,2026-02-03,Organic,0
+1299,Customer_1299,M,33,Hyderabad,Telangana,2026-05-24,Google Ads,1
+1300,Customer_1300,M,28,Bengaluru,Karnataka,2025-12-13,Referral,0
+1301,Customer_1301,F,36,Kolkata,West Bengal,2025-05-26,Instagram Ads,0
+1302,Customer_1302,M,38,Pune,Maharashtra,2026-04-01,Organic,0
+1303,Customer_1303,M,33,Jaipur,Rajasthan,2026-03-02,Instagram Ads,0
+1304,Customer_1304,M,26,Pune,Maharashtra,2025-06-28,Google Ads,1
+1305,Customer_1305,M,32,Hyderabad,Telangana,2025-01-29,Instagram Ads,0
+1306,Customer_1306,F,38,Bengaluru,Karnataka,2025-05-01,Organic,1
+1307,Customer_1307,M,18,Kolkata,West Bengal,2025-11-19,Organic,0
+1308,Customer_1308,M,37,Chennai,Tamil Nadu,2025-04-28,Instagram Ads,0
+1309,Customer_1309,F,39,Bengaluru,Karnataka,2025-11-16,Organic,0
+1310,Customer_1310,M,43,Chennai,Tamil Nadu,2026-02-02,Referral,1
+1311,Customer_1311,M,33,Delhi,Delhi,2026-04-29,Referral,1
+1312,Customer_1312,F,22,Mumbai,Maharashtra,2026-01-01,Organic,0
+1313,Customer_1313,M,33,Jaipur,Rajasthan,2025-09-13,Instagram Ads,0
+1314,Customer_1314,M,24,Mumbai,Maharashtra,2025-05-25,Referral,0
+1315,Customer_1315,M,29,Bengaluru,Karnataka,2026-05-24,Instagram Ads,1
+1316,Customer_1316,F,18,Bengaluru,Karnataka,2025-11-29,Organic,1
+1317,Customer_1317,M,36,Pune,Maharashtra,2026-05-21,Google Ads,0
+1318,Customer_1318,F,18,Delhi,Delhi,2026-03-19,Organic,0
+1319,Customer_1319,M,25,Delhi,Delhi,2025-09-28,Organic,0
+1320,Customer_1320,M,28,Kolkata,West Bengal,2025-09-21,Google Ads,0
+1321,Customer_1321,F,32,Bengaluru,Karnataka,2026-02-03,Instagram Ads,1
+1322,Customer_1322,M,28,Bengaluru,Karnataka,2025-05-01,Referral,0
+1323,Customer_1323,F,31,Bengaluru,Karnataka,2026-06-06,Instagram Ads,1
+1324,Customer_1324,M,33,Mumbai,Maharashtra,2025-04-04,Instagram Ads,0
+1325,Customer_1325,M,33,Kolkata,West Bengal,2025-11-17,Organic,1
+1326,Customer_1326,M,23,Jaipur,Rajasthan,2026-06-24,Organic,0
+1327,Customer_1327,M,19,Mumbai,Maharashtra,2026-02-26,Organic,0
+1328,Customer_1328,M,22,Kolkata,West Bengal,2025-08-11,Influencer,0
+1329,Customer_1329,M,24,Nagpur,Maharashtra,2025-07-12,Influencer,1
+1330,Customer_1330,F,30,Delhi,Delhi,2026-04-30,Google Ads,0
+1331,Customer_1331,F,60,Jaipur,Rajasthan,2025-09-08,Google Ads,1
+1332,Customer_1332,F,29,Delhi,Delhi,2026-03-09,Referral,0
+1333,Customer_1333,M,35,Jaipur,Rajasthan,2026-04-28,Instagram Ads,0
+1334,Customer_1334,M,42,Hyderabad,Telangana,2026-06-08,Organic,0
+1335,Customer_1335,F,37,Kolkata,West Bengal,2026-02-07,Organic,0
+1336,Customer_1336,F,28,Hyderabad,Telangana,2026-03-14,Instagram Ads,0
+1337,Customer_1337,M,23,Chennai,Tamil Nadu,2026-02-25,Instagram Ads,1
+1338,Customer_1338,F,21,Bengaluru,Karnataka,2025-09-11,Referral,0
+1339,Customer_1339,M,41,Hyderabad,Telangana,2025-02-04,Google Ads,0
+1340,Customer_1340,M,34,Hyderabad,Telangana,2025-07-23,Referral,0
+1341,Customer_1341,F,37,Chennai,Tamil Nadu,2026-02-14,Referral,0
+1342,Customer_1342,M,25,Chennai,Tamil Nadu,2025-11-25,Influencer,1
+1343,Customer_1343,F,28,Hyderabad,Telangana,2026-01-24,Referral,0
+1344,Customer_1344,M,18,Ahmedabad,Gujarat,2025-06-08,Google Ads,0
+1345,Customer_1345,M,19,Jaipur,Rajasthan,2025-06-26,Instagram Ads,0
+1346,Customer_1346,F,20,Pune,Maharashtra,2025-07-18,Organic,1
+1347,Customer_1347,M,21,Bengaluru,Karnataka,2025-12-27,Google Ads,0
+1348,Customer_1348,M,24,Pune,Maharashtra,2026-08-02,Google Ads,1
+1349,Customer_1349,M,22,Pune,Maharashtra,2026-05-11,Organic,1
+1350,Customer_1350,F,29,Mumbai,Maharashtra,2026-03-09,Google Ads,1
+1351,Customer_1351,F,25,Bengaluru,Karnataka,2025-12-26,Google Ads,1
+1352,Customer_1352,F,23,Ahmedabad,Gujarat,2026-07-17,Google Ads,0
+1353,Customer_1353,M,24,Delhi,Delhi,2026-08-03,Instagram Ads,0
+1354,Customer_1354,M,24,Ahmedabad,Gujarat,2026-02-12,Organic,1
+1355,Customer_1355,M,26,Kolkata,West Bengal,2026-04-07,Google Ads,0
+1356,Customer_1356,F,18,Ahmedabad,Gujarat,2026-03-03,Google Ads,0
+1357,Customer_1357,F,39,Bengaluru,Karnataka,2026-02-26,Referral,1
+1358,Customer_1358,F,32,Bengaluru,Karnataka,2025-01-01,Referral,0
+1359,Customer_1359,M,33,Nagpur,Maharashtra,2025-07-28,Organic,0
+1360,Customer_1360,M,28,Delhi,Delhi,2025-08-03,Referral,0
+1361,Customer_1361,F,30,Mumbai,Maharashtra,2025-12-19,Google Ads,0
+1362,Customer_1362,F,31,Bengaluru,Karnataka,2025-02-11,Google Ads,1
+1363,Customer_1363,M,23,Chennai,Tamil Nadu,2026-07-06,Instagram Ads,0
+1364,Customer_1364,F,24,Delhi,Delhi,2025-05-31,Organic,0
+1365,Customer_1365,F,34,Jaipur,Rajasthan,2025-12-01,Instagram Ads,0
+1366,Customer_1366,F,20,Bengaluru,Karnataka,2025-05-16,Referral,0
+1367,Customer_1367,M,27,Nagpur,Maharashtra,2025-10-01,Referral,0
+1368,Customer_1368,M,23,Bengaluru,Karnataka,2025-05-30,Organic,0
+1369,Customer_1369,F,30,Kolkata,West Bengal,2025-05-19,Organic,0
+1370,Customer_1370,M,18,Nagpur,Maharashtra,2025-03-24,Google Ads,1
+1371,Customer_1371,M,26,Bengaluru,Karnataka,2025-09-28,Instagram Ads,1
+1372,Customer_1372,F,34,Mumbai,Maharashtra,2026-01-12,Referral,0
+1373,Customer_1373,F,29,Mumbai,Maharashtra,2025-10-16,Google Ads,0
+1374,Customer_1374,M,24,Pune,Maharashtra,2025-11-15,Referral,1
+1375,Customer_1375,F,29,Ahmedabad,Gujarat,2025-09-08,Organic,0
+1376,Customer_1376,F,41,Pune,Maharashtra,2025-10-05,Instagram Ads,0
+1377,Customer_1377,F,23,Chennai,Tamil Nadu,2025-07-16,Organic,0
+1378,Customer_1378,M,34,Mumbai,Maharashtra,2026-05-09,Referral,0
+1379,Customer_1379,M,27,Hyderabad,Telangana,2026-06-15,Google Ads,0
+1380,Customer_1380,F,37,Delhi,Delhi,2025-08-01,Google Ads,0
+1381,Customer_1381,M,37,Kolkata,West Bengal,2026-08-09,Instagram Ads,0
+1382,Customer_1382,M,33,Hyderabad,Telangana,2025-02-05,Google Ads,0
+1383,Customer_1383,F,26,Kolkata,West Bengal,2025-04-30,Instagram Ads,0
+1384,Customer_1384,F,27,Hyderabad,Telangana,2026-01-10,Google Ads,0
+1385,Customer_1385,M,29,Mumbai,Maharashtra,2025-05-17,Instagram Ads,0
+1386,Customer_1386,F,22,Chennai,Tamil Nadu,2026-02-07,Organic,0
+1387,Customer_1387,M,34,Pune,Maharashtra,2026-06-09,Referral,1
+1388,Customer_1388,O,36,Hyderabad,Telangana,2025-02-10,Google Ads,0
+1389,Customer_1389,F,29,Delhi,Delhi,2025-03-28,Google Ads,0
+1390,Customer_1390,M,23,Delhi,Delhi,2025-01-03,Referral,0
+1391,Customer_1391,M,19,Delhi,Delhi,2025-07-25,Organic,1
+1392,Customer_1392,M,31,Mumbai,Maharashtra,2026-06-05,Influencer,0
+1393,Customer_1393,F,23,Bengaluru,Karnataka,2025-02-20,Influencer,0
+1394,Customer_1394,F,18,Mumbai,Maharashtra,2026-05-06,Google Ads,0
+1395,Customer_1395,F,33,Hyderabad,Telangana,2025-05-10,Organic,1
+1396,Customer_1396,M,35,Pune,Maharashtra,2025-02-16,Organic,0
+1397,Customer_1397,F,22,Bengaluru,Karnataka,2025-11-28,Organic,0
+1398,Customer_1398,F,19,Kolkata,West Bengal,2025-04-11,Google Ads,0
+1399,Customer_1399,F,30,Nagpur,Maharashtra,2025-12-31,Organic,0
+1400,Customer_1400,F,31,Kolkata,West Bengal,2026-04-05,Instagram Ads,1
+1401,Customer_1401,M,18,Bengaluru,Karnataka,2025-08-05,Referral,0
+1402,Customer_1402,M,30,Bengaluru,Karnataka,2026-06-21,Instagram Ads,0
+1403,Customer_1403,M,30,Mumbai,Maharashtra,2026-04-11,Referral,0
+1404,Customer_1404,M,38,Kolkata,West Bengal,2026-05-23,Organic,0
+1405,Customer_1405,F,36,Bengaluru,Karnataka,2025-05-17,Instagram Ads,0
+1406,Customer_1406,M,39,Delhi,Delhi,2025-11-04,Organic,0
+1407,Customer_1407,F,25,Mumbai,Maharashtra,2025-03-09,Organic,0
+1408,Customer_1408,M,18,Hyderabad,Telangana,2025-09-19,Organic,1
+1409,Customer_1409,M,37,Hyderabad,Telangana,2026-08-01,Organic,0
+1410,Customer_1410,M,26,Mumbai,Maharashtra,2025-09-28,Instagram Ads,1
+1411,Customer_1411,M,37,Mumbai,Maharashtra,2026-07-11,Referral,0
+1412,Customer_1412,F,26,Hyderabad,Telangana,2025-11-04,Organic,0
+1413,Customer_1413,M,35,Delhi,Delhi,2026-06-07,Organic,1
+1414,Customer_1414,M,31,Bengaluru,Karnataka,2025-03-08,Google Ads,1
+1415,Customer_1415,M,28,Bengaluru,Karnataka,2026-03-28,Organic,0
+1416,Customer_1416,M,32,Hyderabad,Telangana,2025-02-27,Organic,1
+1417,Customer_1417,M,26,Chennai,Tamil Nadu,2025-05-26,Organic,0
+1418,Customer_1418,F,23,Pune,Maharashtra,2026-04-17,Organic,0
+1419,Customer_1419,F,31,Mumbai,Maharashtra,2026-08-10,Organic,0
+1420,Customer_1420,M,41,Ahmedabad,Gujarat,2026-06-08,Influencer,0
+1421,Customer_1421,M,28,Bengaluru,Karnataka,2026-04-30,Instagram Ads,0
+1422,Customer_1422,M,26,Nagpur,Maharashtra,2026-08-09,Google Ads,1
+1423,Customer_1423,M,30,Bengaluru,Karnataka,2026-07-09,Organic,1
+1424,Customer_1424,F,23,Delhi,Delhi,2026-03-07,Instagram Ads,0
+1425,Customer_1425,F,38,Delhi,Delhi,2026-01-04,Organic,0
+1426,Customer_1426,F,28,Delhi,Delhi,2026-06-14,Organic,0
+1427,Customer_1427,F,28,Delhi,Delhi,2025-11-23,Instagram Ads,0
+1428,Customer_1428,M,27,Nagpur,Maharashtra,2025-09-13,Google Ads,0
+1429,Customer_1429,F,30,Kolkata,West Bengal,2026-04-28,Instagram Ads,0
+1430,Customer_1430,M,37,Bengaluru,Karnataka,2026-03-14,Organic,0
+1431,Customer_1431,M,20,Pune,Maharashtra,2026-03-17,Organic,0
+1432,Customer_1432,M,34,Mumbai,Maharashtra,2025-12-16,Instagram Ads,0
+1433,Customer_1433,F,36,Delhi,Delhi,2025-12-13,Google Ads,0
+1434,Customer_1434,M,27,Kolkata,West Bengal,2026-04-07,Google Ads,0
+1435,Customer_1435,F,31,Chennai,Tamil Nadu,2026-03-05,Referral,0
+1436,Customer_1436,M,19,Delhi,Delhi,2025-04-05,Organic,0
+1437,Customer_1437,M,35,Hyderabad,Telangana,2025-02-26,Google Ads,0
+1438,Customer_1438,F,19,Mumbai,Maharashtra,2025-04-17,Organic,0
+1439,Customer_1439,F,18,Hyderabad,Telangana,2025-09-12,Google Ads,0
+1440,Customer_1440,M,22,Delhi,Delhi,2026-05-30,Instagram Ads,0
+1441,Customer_1441,M,27,Hyderabad,Telangana,2025-09-22,Google Ads,0
+1442,Customer_1442,M,30,Hyderabad,Telangana,2025-11-21,Instagram Ads,1
+1443,Customer_1443,M,26,Kolkata,West Bengal,2025-08-18,Organic,0
+1444,Customer_1444,M,39,Bengaluru,Karnataka,2025-02-09,Organic,1
+1445,Customer_1445,M,26,Bengaluru,Karnataka,2025-03-28,Referral,0
+1446,Customer_1446,F,34,Mumbai,Maharashtra,2025-04-21,Organic,0
+1447,Customer_1447,F,40,Hyderabad,Telangana,2025-12-30,Organic,0
+1448,Customer_1448,F,33,Pune,Maharashtra,2026-05-26,Influencer,0
+1449,Customer_1449,M,18,Hyderabad,Telangana,2025-12-08,Google Ads,1
+1450,Customer_1450,M,38,Kolkata,West Bengal,2026-05-22,Organic,0
+1451,Customer_1451,F,18,Jaipur,Rajasthan,2025-04-30,Referral,0
+1452,Customer_1452,F,28,Ahmedabad,Gujarat,2026-03-06,Instagram Ads,0
+1453,Customer_1453,F,35,Mumbai,Maharashtra,2025-04-30,Referral,0
+1454,Customer_1454,F,32,Delhi,Delhi,2025-12-24,Instagram Ads,1
+1455,Customer_1455,M,28,Delhi,Delhi,2026-07-13,Instagram Ads,0
+1456,Customer_1456,F,40,Kolkata,West Bengal,2026-05-04,Instagram Ads,0
+1457,Customer_1457,M,38,Hyderabad,Telangana,2025-03-26,Organic,0
+1458,Customer_1458,M,24,Mumbai,Maharashtra,2025-05-28,Organic,0
+1459,Customer_1459,M,40,Nagpur,Maharashtra,2026-02-18,Instagram Ads,1
+1460,Customer_1460,F,41,Ahmedabad,Gujarat,2025-03-04,Instagram Ads,1
+1461,Customer_1461,M,25,Delhi,Delhi,2026-02-05,Google Ads,0
+1462,Customer_1462,M,38,Delhi,Delhi,2026-05-15,Google Ads,0
+1463,Customer_1463,M,18,Pune,Maharashtra,2025-08-25,Referral,0
+1464,Customer_1464,F,24,Mumbai,Maharashtra,2025-06-29,Google Ads,0
+1465,Customer_1465,F,27,Bengaluru,Karnataka,2025-04-02,Referral,0
+1466,Customer_1466,F,25,Mumbai,Maharashtra,2025-10-18,Referral,0
+1467,Customer_1467,M,20,Pune,Maharashtra,2026-08-10,Google Ads,0
+1468,Customer_1468,M,24,Hyderabad,Telangana,2026-01-22,Google Ads,0
+1469,Customer_1469,M,30,Pune,Maharashtra,2026-08-18,Instagram Ads,0
+1470,Customer_1470,M,35,Pune,Maharashtra,2025-12-24,Referral,0
+1471,Customer_1471,M,29,Bengaluru,Karnataka,2026-04-24,Instagram Ads,1
+1472,Customer_1472,F,18,Hyderabad,Telangana,2026-01-12,Organic,0
+1473,Customer_1473,M,36,Mumbai,Maharashtra,2026-04-19,Instagram Ads,0
+1474,Customer_1474,M,33,Mumbai,Maharashtra,2026-06-08,Organic,0
+1475,Customer_1475,F,22,Kolkata,West Bengal,2026-04-01,Referral,0
+1476,Customer_1476,F,39,Ahmedabad,Gujarat,2025-10-05,Organic,0
+1477,Customer_1477,F,34,Hyderabad,Telangana,2025-06-05,Google Ads,0
+1478,Customer_1478,F,20,Delhi,Delhi,2026-05-12,Referral,0
+1479,Customer_1479,F,21,Delhi,Delhi,2025-06-30,Organic,1
+1480,Customer_1480,F,28,Jaipur,Rajasthan,2026-03-30,Instagram Ads,0
+1481,Customer_1481,M,35,Delhi,Delhi,2026-02-16,Organic,0
+1482,Customer_1482,M,33,Hyderabad,Telangana,2025-05-16,Organic,0
+1483,Customer_1483,M,38,Delhi,Delhi,2025-03-27,Google Ads,1
+1484,Customer_1484,F,36,Pune,Maharashtra,2026-05-10,Instagram Ads,0
+1485,Customer_1485,M,27,Hyderabad,Telangana,2026-01-17,Instagram Ads,0
+1486,Customer_1486,M,38,Kolkata,West Bengal,2026-05-09,Influencer,0
+1487,Customer_1487,F,34,Bengaluru,Karnataka,2025-08-27,Organic,0
+1488,Customer_1488,F,18,Hyderabad,Telangana,2025-04-14,Referral,1
+1489,Customer_1489,F,20,Pune,Maharashtra,2025-06-19,Google Ads,1
+1490,Customer_1490,M,31,Ahmedabad,Gujarat,2026-03-17,Instagram Ads,0
+1491,Customer_1491,M,36,Chennai,Tamil Nadu,2026-08-22,Organic,0
+1492,Customer_1492,F,41,Chennai,Tamil Nadu,2025-09-18,Google Ads,1
+1493,Customer_1493,M,24,Nagpur,Maharashtra,2025-11-14,Organic,0
+1494,Customer_1494,M,35,Mumbai,Maharashtra,2026-05-09,Influencer,0
+1495,Customer_1495,M,24,Hyderabad,Telangana,2026-07-14,Influencer,0
+1496,Customer_1496,F,27,Hyderabad,Telangana,2026-05-16,Google Ads,1
+1497,Customer_1497,M,30,Hyderabad,Telangana,2026-04-06,Influencer,1
+1498,Customer_1498,M,19,Delhi,Delhi,2025-09-22,Organic,0
+1499,Customer_1499,F,36,Pune,Maharashtra,2026-05-03,Google Ads,1
+1500,Customer_1500,F,23,Delhi,Delhi,2025-01-30,Organic,0
+1501,Customer_1501,M,18,Delhi,Delhi,2025-04-18,Organic,0
+1502,Customer_1502,F,28,Bengaluru,Karnataka,2026-05-28,Google Ads,0
+1503,Customer_1503,M,43,Bengaluru,Karnataka,2025-07-21,Organic,0
+1504,Customer_1504,F,27,Mumbai,Maharashtra,2025-07-29,Organic,0
+1505,Customer_1505,M,20,Delhi,Delhi,2026-05-12,Google Ads,0
+1506,Customer_1506,M,30,Bengaluru,Karnataka,2025-06-19,Influencer,1
+1507,Customer_1507,F,30,Kolkata,West Bengal,2025-03-05,Influencer,1
+1508,Customer_1508,M,46,Hyderabad,Telangana,2025-12-24,Organic,0
+1509,Customer_1509,F,23,Ahmedabad,Gujarat,2026-04-07,Instagram Ads,0
+1510,Customer_1510,M,19,Delhi,Delhi,2025-09-28,Organic,0
+1511,Customer_1511,F,18,Delhi,Delhi,2025-05-17,Influencer,1
+1512,Customer_1512,F,18,Hyderabad,Telangana,2025-12-01,Instagram Ads,1
+1513,Customer_1513,M,27,Mumbai,Maharashtra,2025-04-16,Influencer,1
+1514,Customer_1514,F,37,Mumbai,Maharashtra,2026-08-30,Google Ads,1
+1515,Customer_1515,M,18,Hyderabad,Telangana,2026-07-09,Organic,0
+1516,Customer_1516,M,18,Pune,Maharashtra,2025-03-27,Referral,0
+1517,Customer_1517,M,24,Bengaluru,Karnataka,2025-12-15,Organic,1
+1518,Customer_1518,F,41,Chennai,Tamil Nadu,2025-05-07,Influencer,1
+1519,Customer_1519,F,30,Hyderabad,Telangana,2025-02-16,Organic,1
+1520,Customer_1520,M,34,Mumbai,Maharashtra,2025-05-23,Referral,0
+1521,Customer_1521,F,34,Pune,Maharashtra,2025-10-30,Google Ads,0
+1522,Customer_1522,F,38,Kolkata,West Bengal,2026-02-16,Google Ads,0
+1523,Customer_1523,F,29,Delhi,Delhi,2025-04-16,Instagram Ads,0
+1524,Customer_1524,M,41,Pune,Maharashtra,2025-04-03,Instagram Ads,0
+1525,Customer_1525,M,22,Jaipur,Rajasthan,2026-02-16,Referral,0
+1526,Customer_1526,M,32,Mumbai,Maharashtra,2026-03-06,Referral,0
+1527,Customer_1527,M,33,Hyderabad,Telangana,2025-10-22,Organic,0
+1528,Customer_1528,F,26,Pune,Maharashtra,2026-05-20,Instagram Ads,1
+1529,Customer_1529,F,37,Jaipur,Rajasthan,2025-11-18,Instagram Ads,0
+1530,Customer_1530,M,20,Chennai,Tamil Nadu,2025-11-17,Organic,0
+1531,Customer_1531,M,45,Mumbai,Maharashtra,2026-05-26,Google Ads,1
+1532,Customer_1532,F,31,Pune,Maharashtra,2025-07-26,Instagram Ads,1
+1533,Customer_1533,F,23,Hyderabad,Telangana,2025-02-09,Referral,1
+1534,Customer_1534,F,18,Hyderabad,Telangana,2026-01-29,Organic,0
+1535,Customer_1535,M,20,Mumbai,Maharashtra,2026-04-12,Organic,0
+1536,Customer_1536,M,37,Mumbai,Maharashtra,2025-04-05,Referral,0
+1537,Customer_1537,M,39,Ahmedabad,Gujarat,2026-07-20,Organic,0
+1538,Customer_1538,F,32,Bengaluru,Karnataka,2026-04-13,Instagram Ads,1
+1539,Customer_1539,M,26,Bengaluru,Karnataka,2025-02-04,Organic,0
+1540,Customer_1540,M,34,Hyderabad,Telangana,2026-08-15,Google Ads,0
+1541,Customer_1541,M,38,Nagpur,Maharashtra,2025-12-04,Referral,0
+1542,Customer_1542,F,29,Jaipur,Rajasthan,2026-03-09,Google Ads,0
+1543,Customer_1543,M,18,Mumbai,Maharashtra,2026-05-17,Organic,1
+1544,Customer_1544,M,42,Pune,Maharashtra,2025-07-23,Organic,0
+1545,Customer_1545,M,27,Nagpur,Maharashtra,2025-07-18,Instagram Ads,0
+1546,Customer_1546,M,22,Delhi,Delhi,2026-07-26,Google Ads,0
+1547,Customer_1547,M,23,Bengaluru,Karnataka,2026-08-03,Organic,1
+1548,Customer_1548,M,40,Chennai,Tamil Nadu,2026-07-04,Referral,0
+1549,Customer_1549,F,27,Mumbai,Maharashtra,2025-06-26,Google Ads,1
+1550,Customer_1550,M,20,Pune,Maharashtra,2026-06-18,Google Ads,1
+1551,Customer_1551,M,32,Hyderabad,Telangana,2025-10-02,Google Ads,0
+1552,Customer_1552,M,24,Hyderabad,Telangana,2025-08-09,Instagram Ads,0
+1553,Customer_1553,M,34,Chennai,Tamil Nadu,2026-04-03,Referral,0
+1554,Customer_1554,M,42,Hyderabad,Telangana,2025-12-26,Instagram Ads,0
+1555,Customer_1555,F,33,Kolkata,West Bengal,2025-05-26,Instagram Ads,0
+1556,Customer_1556,M,40,Hyderabad,Telangana,2025-12-06,Organic,0
+1557,Customer_1557,F,23,Delhi,Delhi,2025-06-29,Google Ads,0
+1558,Customer_1558,F,18,Bengaluru,Karnataka,2026-02-10,Instagram Ads,1
+1559,Customer_1559,M,23,Hyderabad,Telangana,2025-10-01,Google Ads,1
+1560,Customer_1560,M,29,Delhi,Delhi,2025-08-02,Instagram Ads,0
+1561,Customer_1561,M,24,Hyderabad,Telangana,2025-11-06,Google Ads,0
+1562,Customer_1562,F,18,Ahmedabad,Gujarat,2025-03-27,Instagram Ads,0
+1563,Customer_1563,M,30,Kolkata,West Bengal,2026-06-04,Google Ads,0
+1564,Customer_1564,F,21,Bengaluru,Karnataka,2026-03-04,Influencer,0
+1565,Customer_1565,M,39,Pune,Maharashtra,2025-08-05,Instagram Ads,1
+1566,Customer_1566,F,29,Jaipur,Rajasthan,2025-06-06,Organic,0
+1567,Customer_1567,M,19,Pune,Maharashtra,2025-07-16,Google Ads,0
+1568,Customer_1568,F,37,Pune,Maharashtra,2026-01-04,Organic,0
+1569,Customer_1569,F,29,Mumbai,Maharashtra,2026-06-23,Referral,0
+1570,Customer_1570,M,29,Pune,Maharashtra,2026-06-03,Instagram Ads,0
+1571,Customer_1571,M,18,Hyderabad,Telangana,2025-06-13,Instagram Ads,0
+1572,Customer_1572,M,18,Jaipur,Rajasthan,2026-07-09,Google Ads,0
+1573,Customer_1573,F,43,Mumbai,Maharashtra,2026-05-15,Organic,0
+1574,Customer_1574,F,33,Bengaluru,Karnataka,2026-03-10,Organic,0
+1575,Customer_1575,F,40,Delhi,Delhi,2025-06-07,Organic,0
+1576,Customer_1576,M,26,Mumbai,Maharashtra,2026-03-16,Instagram Ads,0
+1577,Customer_1577,F,26,Mumbai,Maharashtra,2025-05-03,Organic,0
+1578,Customer_1578,M,36,Delhi,Delhi,2026-03-03,Organic,0
+1579,Customer_1579,F,44,Chennai,Tamil Nadu,2025-09-03,Google Ads,1
+1580,Customer_1580,M,27,Kolkata,West Bengal,2026-03-31,Organic,0
+1581,Customer_1581,M,22,Chennai,Tamil Nadu,2026-07-07,Instagram Ads,1
+1582,Customer_1582,F,25,Hyderabad,Telangana,2025-08-14,Google Ads,0
+1583,Customer_1583,F,27,Kolkata,West Bengal,2025-10-19,Referral,0
+1584,Customer_1584,M,38,Hyderabad,Telangana,2026-06-15,Organic,0
+1585,Customer_1585,F,26,Kolkata,West Bengal,2026-04-19,Referral,1
+1586,Customer_1586,M,18,Kolkata,West Bengal,2025-11-20,Google Ads,0
+1587,Customer_1587,F,28,Pune,Maharashtra,2025-10-08,Instagram Ads,0
+1588,Customer_1588,M,27,Hyderabad,Telangana,2025-09-10,Instagram Ads,0
+1589,Customer_1589,M,26,Ahmedabad,Gujarat,2025-01-30,Organic,1
+1590,Customer_1590,M,29,Kolkata,West Bengal,2025-12-23,Google Ads,1
+1591,Customer_1591,F,29,Hyderabad,Telangana,2025-08-11,Organic,0
+1592,Customer_1592,M,31,Kolkata,West Bengal,2026-01-23,Referral,1
+1593,Customer_1593,F,23,Pune,Maharashtra,2025-12-31,Instagram Ads,0
+1594,Customer_1594,F,33,Mumbai,Maharashtra,2025-10-25,Google Ads,0
+1595,Customer_1595,M,36,Mumbai,Maharashtra,2025-09-29,Instagram Ads,0
+1596,Customer_1596,F,25,Hyderabad,Telangana,2025-03-30,Instagram Ads,0
+1597,Customer_1597,F,31,Delhi,Delhi,2026-01-09,Organic,0
+1598,Customer_1598,M,29,Ahmedabad,Gujarat,2026-04-20,Google Ads,1
+1599,Customer_1599,F,26,Nagpur,Maharashtra,2025-07-30,Organic,1
+1600,Customer_1600,M,19,Mumbai,Maharashtra,2026-04-28,Organic,0
+1601,Customer_1601,F,25,Delhi,Delhi,2025-09-08,Organic,0
+1602,Customer_1602,M,36,Kolkata,West Bengal,2025-12-07,Referral,0
+1603,Customer_1603,F,30,Bengaluru,Karnataka,2025-12-29,Google Ads,0
+1604,Customer_1604,M,37,Mumbai,Maharashtra,2026-02-14,Organic,0
+1605,Customer_1605,M,35,Nagpur,Maharashtra,2026-05-14,Organic,0
+1606,Customer_1606,M,18,Jaipur,Rajasthan,2025-05-10,Google Ads,0
+1607,Customer_1607,F,26,Mumbai,Maharashtra,2025-04-22,Instagram Ads,0
+1608,Customer_1608,M,39,Hyderabad,Telangana,2026-04-15,Instagram Ads,1
+1609,Customer_1609,F,23,Chennai,Tamil Nadu,2026-07-16,Organic,0
+1610,Customer_1610,M,31,Bengaluru,Karnataka,2025-11-28,Instagram Ads,0
+1611,Customer_1611,F,18,Bengaluru,Karnataka,2025-10-16,Organic,0
+1612,Customer_1612,F,18,Jaipur,Rajasthan,2025-09-18,Google Ads,0
+1613,Customer_1613,F,23,Mumbai,Maharashtra,2025-11-21,Instagram Ads,0
+1614,Customer_1614,F,34,Mumbai,Maharashtra,2025-12-10,Google Ads,0
+1615,Customer_1615,M,31,Kolkata,West Bengal,2026-06-12,Referral,1
+1616,Customer_1616,F,27,Kolkata,West Bengal,2025-09-13,Influencer,1
+1617,Customer_1617,F,34,Bengaluru,Karnataka,2025-06-09,Instagram Ads,0
+1618,Customer_1618,F,31,Jaipur,Rajasthan,2025-03-15,Instagram Ads,0
+1619,Customer_1619,M,18,Delhi,Delhi,2025-05-22,Instagram Ads,0
+1620,Customer_1620,M,26,Delhi,Delhi,2026-01-14,Organic,1
+1621,Customer_1621,M,31,Hyderabad,Telangana,2026-06-19,Influencer,0
+1622,Customer_1622,M,31,Delhi,Delhi,2026-03-09,Google Ads,0
+1623,Customer_1623,F,40,Chennai,Tamil Nadu,2026-07-20,Organic,0
+1624,Customer_1624,F,39,Kolkata,West Bengal,2025-09-03,Google Ads,0
+1625,Customer_1625,F,27,Bengaluru,Karnataka,2025-07-08,Google Ads,1
+1626,Customer_1626,M,28,Delhi,Delhi,2025-01-19,Instagram Ads,0
+1627,Customer_1627,M,30,Hyderabad,Telangana,2025-04-02,Instagram Ads,0
+1628,Customer_1628,M,23,Pune,Maharashtra,2025-05-18,Instagram Ads,0
+1629,Customer_1629,F,28,Chennai,Tamil Nadu,2026-05-19,Organic,1
+1630,Customer_1630,M,32,Jaipur,Rajasthan,2025-12-15,Referral,0
+1631,Customer_1631,M,23,Chennai,Tamil Nadu,2026-06-11,Google Ads,0
+1632,Customer_1632,M,26,Bengaluru,Karnataka,2025-02-08,Organic,0
+1633,Customer_1633,M,18,Mumbai,Maharashtra,2026-08-08,Instagram Ads,0
+1634,Customer_1634,O,40,Hyderabad,Telangana,2025-06-12,Google Ads,1
+1635,Customer_1635,F,30,Pune,Maharashtra,2026-03-28,Instagram Ads,0
+1636,Customer_1636,M,26,Chennai,Tamil Nadu,2025-10-21,Instagram Ads,0
+1637,Customer_1637,M,36,Pune,Maharashtra,2025-12-19,Instagram Ads,0
+1638,Customer_1638,F,29,Mumbai,Maharashtra,2025-02-12,Google Ads,0
+1639,Customer_1639,F,43,Delhi,Delhi,2025-07-14,Instagram Ads,0
+1640,Customer_1640,M,30,Pune,Maharashtra,2026-08-12,Google Ads,1
+1641,Customer_1641,M,37,Pune,Maharashtra,2026-04-23,Google Ads,0
+1642,Customer_1642,F,37,Pune,Maharashtra,2025-04-26,Google Ads,0
+1643,Customer_1643,F,28,Bengaluru,Karnataka,2026-01-14,Organic,0
+1644,Customer_1644,M,26,Mumbai,Maharashtra,2025-08-25,Instagram Ads,1
+1645,Customer_1645,M,32,Hyderabad,Telangana,2025-06-03,Organic,1
+1646,Customer_1646,M,33,Pune,Maharashtra,2025-10-26,Referral,0
+1647,Customer_1647,F,18,Mumbai,Maharashtra,2025-10-08,Organic,0
+1648,Customer_1648,M,31,Nagpur,Maharashtra,2026-05-01,Influencer,0
+1649,Customer_1649,M,29,Kolkata,West Bengal,2026-01-28,Instagram Ads,0
+1650,Customer_1650,M,32,Chennai,Tamil Nadu,2025-04-19,Organic,0
+1651,Customer_1651,M,35,Mumbai,Maharashtra,2025-05-03,Organic,0
+1652,Customer_1652,M,26,Chennai,Tamil Nadu,2026-06-18,Instagram Ads,0
+1653,Customer_1653,M,41,Bengaluru,Karnataka,2025-03-24,Instagram Ads,0
+1654,Customer_1654,F,24,Delhi,Delhi,2025-01-24,Instagram Ads,1
+1655,Customer_1655,F,24,Mumbai,Maharashtra,2026-03-22,Instagram Ads,1
+1656,Customer_1656,F,19,Mumbai,Maharashtra,2025-07-27,Organic,0
+1657,Customer_1657,M,36,Ahmedabad,Gujarat,2025-06-19,Instagram Ads,0
+1658,Customer_1658,F,35,Mumbai,Maharashtra,2025-06-26,Instagram Ads,0
+1659,Customer_1659,M,36,Delhi,Delhi,2025-08-25,Organic,1
+1660,Customer_1660,M,33,Bengaluru,Karnataka,2026-03-19,Instagram Ads,1
+1661,Customer_1661,M,29,Hyderabad,Telangana,2026-06-07,Google Ads,0
+1662,Customer_1662,F,38,Pune,Maharashtra,2025-01-07,Referral,1
+1663,Customer_1663,M,33,Jaipur,Rajasthan,2025-12-25,Organic,0
+1664,Customer_1664,F,29,Mumbai,Maharashtra,2025-10-31,Google Ads,0
+1665,Customer_1665,F,19,Mumbai,Maharashtra,2025-02-09,Referral,0
+1666,Customer_1666,M,31,Chennai,Tamil Nadu,2025-09-03,Google Ads,0
+1667,Customer_1667,F,34,Bengaluru,Karnataka,2025-11-22,Referral,0
+1668,Customer_1668,F,29,Hyderabad,Telangana,2025-10-07,Instagram Ads,0
+1669,Customer_1669,M,28,Pune,Maharashtra,2025-03-14,Instagram Ads,0
+1670,Customer_1670,F,24,Mumbai,Maharashtra,2025-06-01,Organic,0
+1671,Customer_1671,F,32,Ahmedabad,Gujarat,2025-10-28,Google Ads,0
+1672,Customer_1672,F,23,Bengaluru,Karnataka,2026-08-10,Instagram Ads,0
+1673,Customer_1673,M,33,Chennai,Tamil Nadu,2025-06-27,Google Ads,0
+1674,Customer_1674,F,35,Delhi,Delhi,2025-09-18,Organic,0
+1675,Customer_1675,M,19,Bengaluru,Karnataka,2026-08-08,Organic,0
+1676,Customer_1676,F,24,Mumbai,Maharashtra,2026-05-23,Google Ads,1
+1677,Customer_1677,F,18,Delhi,Delhi,2026-07-12,Influencer,0
+1678,Customer_1678,F,35,Jaipur,Rajasthan,2025-08-22,Google Ads,0
+1679,Customer_1679,F,30,Chennai,Tamil Nadu,2025-01-31,Referral,0
+1680,Customer_1680,M,47,Hyderabad,Telangana,2026-02-16,Referral,0
+1681,Customer_1681,M,28,Delhi,Delhi,2025-12-30,Influencer,1
+1682,Customer_1682,F,26,Chennai,Tamil Nadu,2025-12-27,Instagram Ads,0
+1683,Customer_1683,M,35,Pune,Maharashtra,2025-01-12,Instagram Ads,0
+1684,Customer_1684,O,33,Delhi,Delhi,2025-12-03,Organic,0
+1685,Customer_1685,M,24,Kolkata,West Bengal,2026-01-25,Organic,0
+1686,Customer_1686,F,31,Delhi,Delhi,2026-08-11,Organic,0
+1687,Customer_1687,F,23,Mumbai,Maharashtra,2026-05-24,Organic,0
+1688,Customer_1688,M,28,Nagpur,Maharashtra,2026-01-24,Organic,0
+1689,Customer_1689,F,44,Bengaluru,Karnataka,2026-04-05,Instagram Ads,1
+1690,Customer_1690,F,31,Delhi,Delhi,2026-07-06,Influencer,0
+1691,Customer_1691,M,44,Delhi,Delhi,2026-03-06,Influencer,0
+1692,Customer_1692,M,22,Pune,Maharashtra,2025-03-01,Instagram Ads,0
+1693,Customer_1693,F,28,Mumbai,Maharashtra,2026-01-17,Organic,0
+1694,Customer_1694,M,26,Mumbai,Maharashtra,2025-01-14,Referral,1
+1695,Customer_1695,F,19,Jaipur,Rajasthan,2026-02-16,Google Ads,0
+1696,Customer_1696,M,23,Kolkata,West Bengal,2025-05-16,Influencer,1
+1697,Customer_1697,M,28,Jaipur,Rajasthan,2025-04-28,Referral,0
+1698,Customer_1698,F,31,Hyderabad,Telangana,2026-05-21,Referral,0
+1699,Customer_1699,F,39,Bengaluru,Karnataka,2025-01-18,Instagram Ads,0
+1700,Customer_1700,F,26,Delhi,Delhi,2025-10-13,Organic,0
+1701,Customer_1701,F,24,Hyderabad,Telangana,2025-06-25,Instagram Ads,0
+1702,Customer_1702,M,26,Bengaluru,Karnataka,2025-06-26,Organic,0
+1703,Customer_1703,F,24,Kolkata,West Bengal,2025-04-20,Google Ads,1
+1704,Customer_1704,M,34,Pune,Maharashtra,2026-05-29,Instagram Ads,1
+1705,Customer_1705,F,40,Bengaluru,Karnataka,2025-12-08,Referral,0
+1706,Customer_1706,M,31,Kolkata,West Bengal,2025-11-19,Organic,0
+1707,Customer_1707,M,27,Chennai,Tamil Nadu,2025-11-26,Organic,0
+1708,Customer_1708,F,40,Mumbai,Maharashtra,2025-10-11,Organic,0
+1709,Customer_1709,F,32,Chennai,Tamil Nadu,2026-02-09,Influencer,0
+1710,Customer_1710,M,44,Delhi,Delhi,2025-04-30,Google Ads,0
+1711,Customer_1711,M,35,Delhi,Delhi,2026-06-13,Referral,0
+1712,Customer_1712,M,28,Ahmedabad,Gujarat,2025-08-26,Organic,0
+1713,Customer_1713,F,34,Hyderabad,Telangana,2025-04-27,Instagram Ads,1
+1714,Customer_1714,F,28,Jaipur,Rajasthan,2025-07-22,Instagram Ads,1
+1715,Customer_1715,M,33,Delhi,Delhi,2025-03-16,Influencer,0
+1716,Customer_1716,M,26,Hyderabad,Telangana,2025-07-31,Influencer,1
+1717,Customer_1717,M,25,Mumbai,Maharashtra,2025-01-30,Organic,0
+1718,Customer_1718,M,43,Pune,Maharashtra,2026-02-19,Instagram Ads,1
+1719,Customer_1719,F,32,Mumbai,Maharashtra,2025-05-22,Influencer,1
+1720,Customer_1720,F,18,Pune,Maharashtra,2025-09-11,Organic,0
+1721,Customer_1721,F,32,Mumbai,Maharashtra,2025-10-16,Instagram Ads,0
+1722,Customer_1722,F,23,Bengaluru,Karnataka,2026-08-21,Instagram Ads,1
+1723,Customer_1723,F,37,Ahmedabad,Gujarat,2025-11-23,Instagram Ads,0
+1724,Customer_1724,M,35,Hyderabad,Telangana,2025-08-19,Google Ads,0
+1725,Customer_1725,F,32,Mumbai,Maharashtra,2025-04-24,Organic,0
+1726,Customer_1726,F,34,Delhi,Delhi,2025-12-01,Google Ads,0
+1727,Customer_1727,F,28,Nagpur,Maharashtra,2025-11-14,Google Ads,0
+1728,Customer_1728,M,34,Pune,Maharashtra,2025-04-17,Referral,1
+1729,Customer_1729,F,24,Mumbai,Maharashtra,2025-10-14,Influencer,1
+1730,Customer_1730,M,37,Pune,Maharashtra,2026-08-26,Referral,0
+1731,Customer_1731,F,20,Hyderabad,Telangana,2025-10-20,Google Ads,0
+1732,Customer_1732,M,36,Delhi,Delhi,2025-08-01,Organic,1
+1733,Customer_1733,M,18,Delhi,Delhi,2026-05-23,Referral,1
+1734,Customer_1734,F,22,Delhi,Delhi,2025-10-28,Google Ads,0
+1735,Customer_1735,M,18,Hyderabad,Telangana,2026-01-13,Organic,0
+1736,Customer_1736,F,34,Bengaluru,Karnataka,2025-10-13,Instagram Ads,1
+1737,Customer_1737,M,18,Mumbai,Maharashtra,2026-01-31,Google Ads,0
+1738,Customer_1738,M,31,Pune,Maharashtra,2025-07-05,Influencer,0
+1739,Customer_1739,M,40,Hyderabad,Telangana,2025-12-02,Google Ads,0
+1740,Customer_1740,M,32,Bengaluru,Karnataka,2026-06-08,Instagram Ads,1
+1741,Customer_1741,M,34,Mumbai,Maharashtra,2025-04-06,Instagram Ads,0
+1742,Customer_1742,M,21,Delhi,Delhi,2025-09-12,Organic,0
+1743,Customer_1743,F,43,Pune,Maharashtra,2025-09-30,Organic,0
+1744,Customer_1744,M,26,Hyderabad,Telangana,2025-05-28,Instagram Ads,0
+1745,Customer_1745,M,34,Jaipur,Rajasthan,2026-04-01,Instagram Ads,1
+1746,Customer_1746,F,46,Delhi,Delhi,2026-02-16,Referral,0
+1747,Customer_1747,F,18,Mumbai,Maharashtra,2025-01-28,Organic,0
+1748,Customer_1748,M,31,Mumbai,Maharashtra,2026-05-22,Instagram Ads,0
+1749,Customer_1749,M,47,Bengaluru,Karnataka,2026-05-11,Instagram Ads,0
+1750,Customer_1750,M,36,Kolkata,West Bengal,2025-05-31,Google Ads,1
+1751,Customer_1751,F,32,Bengaluru,Karnataka,2025-10-21,Organic,0
+1752,Customer_1752,M,33,Mumbai,Maharashtra,2025-10-20,Instagram Ads,0
+1753,Customer_1753,M,30,Kolkata,West Bengal,2025-04-10,Instagram Ads,0
+1754,Customer_1754,F,30,Bengaluru,Karnataka,2025-07-31,Google Ads,0
+1755,Customer_1755,F,34,Hyderabad,Telangana,2025-04-25,Organic,1
+1756,Customer_1756,F,28,Mumbai,Maharashtra,2025-07-19,Google Ads,0
+1757,Customer_1757,M,31,Jaipur,Rajasthan,2026-04-20,Influencer,1
+1758,Customer_1758,F,45,Bengaluru,Karnataka,2025-04-29,Organic,0
+1759,Customer_1759,M,32,Pune,Maharashtra,2025-09-25,Organic,0
+1760,Customer_1760,F,32,Mumbai,Maharashtra,2025-06-22,Instagram Ads,0
+1761,Customer_1761,M,20,Mumbai,Maharashtra,2025-03-09,Organic,0
+1762,Customer_1762,M,28,Hyderabad,Telangana,2025-10-21,Organic,0
+1763,Customer_1763,F,22,Chennai,Tamil Nadu,2025-07-30,Instagram Ads,0
+1764,Customer_1764,F,30,Jaipur,Rajasthan,2026-03-11,Google Ads,0
+1765,Customer_1765,M,39,Pune,Maharashtra,2025-08-14,Organic,1
+1766,Customer_1766,F,24,Mumbai,Maharashtra,2025-01-21,Organic,0
+1767,Customer_1767,M,37,Delhi,Delhi,2026-05-08,Instagram Ads,0
+1768,Customer_1768,F,27,Bengaluru,Karnataka,2026-01-22,Instagram Ads,1
+1769,Customer_1769,F,27,Hyderabad,Telangana,2026-01-24,Google Ads,0
+1770,Customer_1770,O,33,Delhi,Delhi,2025-08-05,Instagram Ads,1
+1771,Customer_1771,F,24,Delhi,Delhi,2026-06-06,Instagram Ads,0
+1772,Customer_1772,M,33,Bengaluru,Karnataka,2025-08-27,Organic,0
+1773,Customer_1773,M,22,Ahmedabad,Gujarat,2026-02-22,Influencer,0
+1774,Customer_1774,M,29,Bengaluru,Karnataka,2026-07-07,Referral,1
+1775,Customer_1775,F,40,Pune,Maharashtra,2025-07-24,Google Ads,0
+1776,Customer_1776,F,23,Mumbai,Maharashtra,2026-04-10,Organic,0
+1777,Customer_1777,F,37,Mumbai,Maharashtra,2025-04-13,Organic,0
+1778,Customer_1778,M,37,Delhi,Delhi,2025-05-22,Organic,1
+1779,Customer_1779,F,41,Bengaluru,Karnataka,2025-04-29,Organic,0
+1780,Customer_1780,F,34,Mumbai,Maharashtra,2026-03-01,Referral,0
+1781,Customer_1781,F,25,Kolkata,West Bengal,2026-01-05,Instagram Ads,0
+1782,Customer_1782,F,46,Kolkata,West Bengal,2025-04-17,Organic,0
+1783,Customer_1783,F,23,Chennai,Tamil Nadu,2026-04-12,Influencer,0
+1784,Customer_1784,F,31,Bengaluru,Karnataka,2025-03-21,Google Ads,1
+1785,Customer_1785,M,19,Hyderabad,Telangana,2025-12-04,Organic,1
+1786,Customer_1786,F,27,Pune,Maharashtra,2025-08-13,Organic,0
+1787,Customer_1787,F,40,Pune,Maharashtra,2026-05-22,Instagram Ads,0
+1788,Customer_1788,F,34,Kolkata,West Bengal,2026-06-10,Referral,1
+1789,Customer_1789,F,21,Pune,Maharashtra,2025-05-03,Influencer,0
+1790,Customer_1790,F,24,Kolkata,West Bengal,2026-01-12,Referral,0
+1791,Customer_1791,F,21,Mumbai,Maharashtra,2026-08-19,Influencer,0
+1792,Customer_1792,F,21,Pune,Maharashtra,2025-05-27,Organic,1
+1793,Customer_1793,F,28,Bengaluru,Karnataka,2026-02-08,Organic,0
+1794,Customer_1794,F,37,Bengaluru,Karnataka,2025-03-06,Instagram Ads,0
+1795,Customer_1795,F,25,Bengaluru,Karnataka,2025-08-31,Google Ads,0
+1796,Customer_1796,M,47,Delhi,Delhi,2026-07-12,Influencer,0
+1797,Customer_1797,F,34,Chennai,Tamil Nadu,2025-04-14,Google Ads,0
+1798,Customer_1798,M,39,Mumbai,Maharashtra,2025-12-19,Instagram Ads,0
+1799,Customer_1799,M,34,Mumbai,Maharashtra,2026-04-09,Referral,0
+1800,Customer_1800,M,26,Bengaluru,Karnataka,2026-05-15,Organic,0
+1801,Customer_1801,M,26,Bengaluru,Karnataka,2026-02-12,Referral,0
+1802,Customer_1802,F,32,Ahmedabad,Gujarat,2025-08-28,Google Ads,0
+1803,Customer_1803,M,18,Chennai,Tamil Nadu,2025-01-16,Organic,1
+1804,Customer_1804,F,27,Kolkata,West Bengal,2025-04-09,Organic,0
+1805,Customer_1805,M,30,Mumbai,Maharashtra,2026-07-15,Instagram Ads,1
+1806,Customer_1806,M,36,Mumbai,Maharashtra,2025-03-15,Referral,0
+1807,Customer_1807,F,32,Chennai,Tamil Nadu,2026-08-16,Organic,0
+1808,Customer_1808,F,26,Mumbai,Maharashtra,2025-06-21,Instagram Ads,0
+1809,Customer_1809,F,24,Chennai,Tamil Nadu,2026-05-09,Instagram Ads,0
+1810,Customer_1810,M,40,Bengaluru,Karnataka,2025-03-23,Organic,0
+1811,Customer_1811,M,30,Kolkata,West Bengal,2025-12-28,Organic,1
+1812,Customer_1812,M,26,Kolkata,West Bengal,2025-05-16,Organic,1
+1813,Customer_1813,M,29,Delhi,Delhi,2026-01-04,Instagram Ads,0
+1814,Customer_1814,M,32,Delhi,Delhi,2026-08-18,Instagram Ads,0
+1815,Customer_1815,F,31,Bengaluru,Karnataka,2025-08-31,Google Ads,0
+1816,Customer_1816,F,39,Jaipur,Rajasthan,2026-03-13,Google Ads,0
+1817,Customer_1817,M,31,Mumbai,Maharashtra,2026-01-27,Google Ads,0
+1818,Customer_1818,F,22,Kolkata,West Bengal,2025-06-11,Instagram Ads,0
+1819,Customer_1819,M,32,Bengaluru,Karnataka,2025-03-31,Google Ads,0
+1820,Customer_1820,M,27,Kolkata,West Bengal,2025-12-31,Google Ads,0
+1821,Customer_1821,M,30,Delhi,Delhi,2025-05-24,Instagram Ads,1
+1822,Customer_1822,F,30,Delhi,Delhi,2026-04-24,Organic,0
+1823,Customer_1823,M,37,Mumbai,Maharashtra,2026-08-17,Instagram Ads,0
+1824,Customer_1824,M,34,Jaipur,Rajasthan,2025-07-24,Instagram Ads,1
+1825,Customer_1825,F,26,Chennai,Tamil Nadu,2025-10-09,Instagram Ads,0
+1826,Customer_1826,M,25,Nagpur,Maharashtra,2025-07-09,Google Ads,1
+1827,Customer_1827,M,41,Hyderabad,Telangana,2025-05-13,Google Ads,0
+1828,Customer_1828,F,29,Nagpur,Maharashtra,2025-09-06,Referral,0
+1829,Customer_1829,M,48,Chennai,Tamil Nadu,2025-11-01,Influencer,0
+1830,Customer_1830,F,42,Hyderabad,Telangana,2025-01-19,Instagram Ads,0
+1831,Customer_1831,F,31,Kolkata,West Bengal,2025-05-04,Instagram Ads,0
+1832,Customer_1832,F,41,Hyderabad,Telangana,2025-02-20,Influencer,0
+1833,Customer_1833,O,18,Pune,Maharashtra,2025-01-11,Influencer,0
+1834,Customer_1834,F,37,Kolkata,West Bengal,2025-01-19,Instagram Ads,0
+1835,Customer_1835,F,24,Kolkata,West Bengal,2025-04-13,Influencer,1
+1836,Customer_1836,F,28,Hyderabad,Telangana,2025-10-11,Influencer,0
+1837,Customer_1837,F,33,Kolkata,West Bengal,2026-07-03,Organic,0
+1838,Customer_1838,F,35,Hyderabad,Telangana,2026-01-21,Instagram Ads,0
+1839,Customer_1839,M,36,Pune,Maharashtra,2025-11-14,Google Ads,0
+1840,Customer_1840,F,38,Kolkata,West Bengal,2026-06-13,Organic,1
+1841,Customer_1841,F,21,Jaipur,Rajasthan,2025-09-26,Organic,0
+1842,Customer_1842,M,28,Chennai,Tamil Nadu,2026-02-28,Influencer,1
+1843,Customer_1843,M,26,Jaipur,Rajasthan,2026-03-02,Instagram Ads,0
+1844,Customer_1844,M,32,Mumbai,Maharashtra,2025-03-11,Google Ads,0
+1845,Customer_1845,M,40,Kolkata,West Bengal,2026-08-10,Referral,1
+1846,Customer_1846,M,29,Delhi,Delhi,2025-12-16,Organic,0
+1847,Customer_1847,F,51,Hyderabad,Telangana,2026-05-11,Referral,0
+1848,Customer_1848,M,39,Delhi,Delhi,2025-03-27,Google Ads,0
+1849,Customer_1849,M,33,Hyderabad,Telangana,2026-02-10,Instagram Ads,0
+1850,Customer_1850,M,33,Kolkata,West Bengal,2025-08-16,Instagram Ads,0
+1851,Customer_1851,M,32,Bengaluru,Karnataka,2025-06-20,Organic,0
+1852,Customer_1852,F,27,Mumbai,Maharashtra,2025-03-18,Google Ads,0
+1853,Customer_1853,M,28,Ahmedabad,Gujarat,2025-10-16,Influencer,0
+1854,Customer_1854,M,33,Mumbai,Maharashtra,2026-07-24,Google Ads,0
+1855,Customer_1855,M,39,Delhi,Delhi,2025-09-09,Influencer,1
+1856,Customer_1856,F,22,Delhi,Delhi,2025-02-27,Instagram Ads,1
+1857,Customer_1857,F,33,Kolkata,West Bengal,2025-09-25,Organic,0
+1858,Customer_1858,F,20,Kolkata,West Bengal,2025-09-26,Google Ads,0
+1859,Customer_1859,M,26,Chennai,Tamil Nadu,2025-11-21,Organic,1
+1860,Customer_1860,M,24,Hyderabad,Telangana,2026-03-26,Instagram Ads,0
+1861,Customer_1861,F,32,Bengaluru,Karnataka,2026-04-22,Organic,0
+1862,Customer_1862,M,23,Jaipur,Rajasthan,2026-03-11,Google Ads,0
+1863,Customer_1863,F,42,Bengaluru,Karnataka,2026-07-08,Influencer,0
+1864,Customer_1864,F,26,Bengaluru,Karnataka,2025-09-01,Instagram Ads,0
+1865,Customer_1865,M,26,Chennai,Tamil Nadu,2025-12-25,Referral,0
+1866,Customer_1866,F,22,Nagpur,Maharashtra,2025-09-17,Instagram Ads,0
+1867,Customer_1867,M,18,Bengaluru,Karnataka,2025-12-11,Organic,0
+1868,Customer_1868,F,20,Kolkata,West Bengal,2026-08-19,Referral,0
+1869,Customer_1869,F,18,Delhi,Delhi,2026-08-19,Instagram Ads,0
+1870,Customer_1870,M,22,Jaipur,Rajasthan,2026-08-08,Organic,0
+1871,Customer_1871,F,20,Pune,Maharashtra,2025-02-16,Instagram Ads,0
+1872,Customer_1872,F,24,Chennai,Tamil Nadu,2026-01-15,Instagram Ads,1
+1873,Customer_1873,F,30,Delhi,Delhi,2025-03-05,Organic,1
+1874,Customer_1874,M,30,Kolkata,West Bengal,2025-02-07,Instagram Ads,0
+1875,Customer_1875,M,38,Pune,Maharashtra,2025-10-17,Google Ads,0
+1876,Customer_1876,F,22,Ahmedabad,Gujarat,2025-07-21,Instagram Ads,0
+1877,Customer_1877,M,37,Pune,Maharashtra,2025-01-22,Instagram Ads,0
+1878,Customer_1878,F,30,Chennai,Tamil Nadu,2026-04-28,Instagram Ads,1
+1879,Customer_1879,F,39,Jaipur,Rajasthan,2026-05-25,Referral,0
+1880,Customer_1880,M,19,Hyderabad,Telangana,2026-06-13,Organic,0
+1881,Customer_1881,M,20,Mumbai,Maharashtra,2025-04-29,Google Ads,1
+1882,Customer_1882,F,39,Nagpur,Maharashtra,2025-05-07,Organic,0
+1883,Customer_1883,M,40,Kolkata,West Bengal,2025-02-02,Referral,0
+1884,Customer_1884,F,28,Mumbai,Maharashtra,2025-06-22,Instagram Ads,1
+1885,Customer_1885,F,27,Bengaluru,Karnataka,2025-07-03,Instagram Ads,0
+1886,Customer_1886,M,22,Delhi,Delhi,2025-05-13,Google Ads,0
+1887,Customer_1887,M,29,Nagpur,Maharashtra,2025-04-09,Organic,0
+1888,Customer_1888,M,23,Ahmedabad,Gujarat,2025-12-23,Instagram Ads,0
+1889,Customer_1889,M,29,Chennai,Tamil Nadu,2026-08-16,Instagram Ads,0
+1890,Customer_1890,M,32,Kolkata,West Bengal,2026-01-27,Instagram Ads,0
+1891,Customer_1891,F,30,Mumbai,Maharashtra,2025-04-18,Instagram Ads,0
+1892,Customer_1892,M,32,Mumbai,Maharashtra,2025-03-14,Organic,0
+1893,Customer_1893,F,29,Kolkata,West Bengal,2025-04-15,Influencer,0
+1894,Customer_1894,F,36,Pune,Maharashtra,2025-05-28,Google Ads,0
+1895,Customer_1895,M,31,Hyderabad,Telangana,2026-01-23,Organic,0
+1896,Customer_1896,M,36,Mumbai,Maharashtra,2025-09-25,Organic,0
+1897,Customer_1897,M,22,Kolkata,West Bengal,2025-01-09,Instagram Ads,0
+1898,Customer_1898,F,33,Delhi,Delhi,2026-06-27,Instagram Ads,1
+1899,Customer_1899,M,39,Mumbai,Maharashtra,2025-05-13,Organic,0
+1900,Customer_1900,M,39,Hyderabad,Telangana,2025-01-28,Google Ads,1
+1901,Customer_1901,F,30,Chennai,Tamil Nadu,2025-06-08,Organic,0
+1902,Customer_1902,M,30,Pune,Maharashtra,2025-03-29,Organic,0
+1903,Customer_1903,F,26,Bengaluru,Karnataka,2026-05-15,Google Ads,1
+1904,Customer_1904,F,32,Bengaluru,Karnataka,2026-01-03,Referral,0
+1905,Customer_1905,M,32,Mumbai,Maharashtra,2025-07-22,Referral,1
+1906,Customer_1906,F,30,Ahmedabad,Gujarat,2026-04-24,Google Ads,0
+1907,Customer_1907,F,23,Bengaluru,Karnataka,2025-06-15,Instagram Ads,1
+1908,Customer_1908,F,38,Bengaluru,Karnataka,2026-04-23,Organic,1
+1909,Customer_1909,F,41,Kolkata,West Bengal,2026-02-05,Organic,0
+1910,Customer_1910,F,32,Hyderabad,Telangana,2025-11-28,Instagram Ads,0
+1911,Customer_1911,M,35,Hyderabad,Telangana,2026-03-06,Google Ads,1
+1912,Customer_1912,M,20,Mumbai,Maharashtra,2025-11-18,Instagram Ads,0
+1913,Customer_1913,M,32,Mumbai,Maharashtra,2025-10-20,Organic,0
+1914,Customer_1914,M,18,Pune,Maharashtra,2026-06-02,Instagram Ads,0
+1915,Customer_1915,M,28,Ahmedabad,Gujarat,2026-08-31,Instagram Ads,0
+1916,Customer_1916,F,39,Bengaluru,Karnataka,2026-04-06,Referral,0
+1917,Customer_1917,M,27,Bengaluru,Karnataka,2025-05-01,Organic,0
+1918,Customer_1918,F,37,Hyderabad,Telangana,2025-05-29,Organic,0
+1919,Customer_1919,M,45,Kolkata,West Bengal,2025-08-12,Organic,0
+1920,Customer_1920,F,40,Delhi,Delhi,2025-01-30,Referral,0
+1921,Customer_1921,F,26,Bengaluru,Karnataka,2026-05-09,Google Ads,0
+1922,Customer_1922,M,28,Pune,Maharashtra,2026-03-05,Organic,0
+1923,Customer_1923,F,39,Kolkata,West Bengal,2025-11-02,Organic,1
+1924,Customer_1924,F,18,Chennai,Tamil Nadu,2025-09-12,Google Ads,0
+1925,Customer_1925,M,36,Chennai,Tamil Nadu,2025-07-13,Instagram Ads,1
+1926,Customer_1926,M,21,Kolkata,West Bengal,2026-04-27,Organic,0
+1927,Customer_1927,F,35,Mumbai,Maharashtra,2025-01-30,Organic,1
+1928,Customer_1928,F,31,Ahmedabad,Gujarat,2025-01-07,Organic,1
+1929,Customer_1929,O,18,Mumbai,Maharashtra,2025-04-26,Influencer,0
+1930,Customer_1930,M,24,Mumbai,Maharashtra,2025-10-27,Instagram Ads,1
+1931,Customer_1931,F,27,Mumbai,Maharashtra,2026-01-25,Instagram Ads,1
+1932,Customer_1932,M,29,Mumbai,Maharashtra,2025-06-24,Referral,0
+1933,Customer_1933,F,18,Mumbai,Maharashtra,2025-06-30,Influencer,0
+1934,Customer_1934,M,18,Pune,Maharashtra,2026-04-30,Instagram Ads,0
+1935,Customer_1935,F,32,Delhi,Delhi,2025-06-07,Organic,1
+1936,Customer_1936,M,26,Nagpur,Maharashtra,2025-08-08,Google Ads,0
+1937,Customer_1937,F,31,Mumbai,Maharashtra,2025-12-13,Organic,0
+1938,Customer_1938,F,30,Delhi,Delhi,2026-01-27,Organic,1
+1939,Customer_1939,M,30,Ahmedabad,Gujarat,2025-11-08,Google Ads,0
+1940,Customer_1940,F,34,Hyderabad,Telangana,2026-07-04,Influencer,0
+1941,Customer_1941,F,38,Mumbai,Maharashtra,2026-04-28,Google Ads,1
+1942,Customer_1942,F,30,Chennai,Tamil Nadu,2025-02-15,Influencer,0
+1943,Customer_1943,F,34,Chennai,Tamil Nadu,2026-07-25,Organic,0
+1944,Customer_1944,M,32,Nagpur,Maharashtra,2025-06-04,Organic,0
+1945,Customer_1945,M,36,Nagpur,Maharashtra,2025-08-13,Organic,0
+1946,Customer_1946,M,25,Bengaluru,Karnataka,2026-05-13,Organic,0
+1947,Customer_1947,M,30,Kolkata,West Bengal,2025-07-20,Instagram Ads,0
+1948,Customer_1948,M,36,Bengaluru,Karnataka,2025-06-26,Referral,0
+1949,Customer_1949,M,38,Kolkata,West Bengal,2025-07-26,Instagram Ads,1
+1950,Customer_1950,F,25,Mumbai,Maharashtra,2025-07-07,Organic,0
+1951,Customer_1951,F,24,Hyderabad,Telangana,2026-07-26,Instagram Ads,0
+1952,Customer_1952,F,34,Mumbai,Maharashtra,2026-03-14,Referral,0
+1953,Customer_1953,F,33,Bengaluru,Karnataka,2025-03-28,Organic,0
+1954,Customer_1954,F,18,Chennai,Tamil Nadu,2025-06-25,Referral,1
+1955,Customer_1955,F,26,Ahmedabad,Gujarat,2025-12-25,Instagram Ads,0
+1956,Customer_1956,F,27,Mumbai,Maharashtra,2026-08-17,Referral,0
+1957,Customer_1957,M,28,Mumbai,Maharashtra,2026-04-21,Google Ads,0
+1958,Customer_1958,F,37,Hyderabad,Telangana,2025-08-04,Instagram Ads,0
+1959,Customer_1959,M,31,Nagpur,Maharashtra,2026-05-09,Instagram Ads,0
+1960,Customer_1960,F,30,Mumbai,Maharashtra,2025-01-09,Organic,0
+1961,Customer_1961,F,28,Pune,Maharashtra,2026-08-17,Organic,0
+1962,Customer_1962,M,39,Delhi,Delhi,2025-12-03,Google Ads,0
+1963,Customer_1963,M,20,Chennai,Tamil Nadu,2025-11-16,Organic,0
+1964,Customer_1964,M,25,Ahmedabad,Gujarat,2025-11-23,Referral,0
+1965,Customer_1965,M,23,Mumbai,Maharashtra,2026-05-27,Google Ads,0
+1966,Customer_1966,M,34,Pune,Maharashtra,2025-02-09,Organic,0
+1967,Customer_1967,M,18,Jaipur,Rajasthan,2025-03-06,Instagram Ads,0
+1968,Customer_1968,F,51,Pune,Maharashtra,2025-08-22,Google Ads,1
+1969,Customer_1969,M,43,Ahmedabad,Gujarat,2026-06-01,Instagram Ads,0
+1970,Customer_1970,F,28,Pune,Maharashtra,2025-08-08,Instagram Ads,0
+1971,Customer_1971,M,30,Jaipur,Rajasthan,2025-09-21,Referral,1
+1972,Customer_1972,M,29,Mumbai,Maharashtra,2026-06-11,Organic,0
+1973,Customer_1973,M,22,Delhi,Delhi,2025-06-04,Google Ads,1
+1974,Customer_1974,M,30,Delhi,Delhi,2025-10-15,Organic,0
+1975,Customer_1975,M,37,Delhi,Delhi,2026-02-22,Referral,0
+1976,Customer_1976,F,18,Bengaluru,Karnataka,2025-08-02,Google Ads,0
+1977,Customer_1977,F,28,Chennai,Tamil Nadu,2025-10-28,Influencer,0
+1978,Customer_1978,F,35,Hyderabad,Telangana,2026-03-15,Organic,0
+1979,Customer_1979,M,34,Delhi,Delhi,2026-01-06,Instagram Ads,0
+1980,Customer_1980,M,18,Delhi,Delhi,2025-12-10,Influencer,0
+1981,Customer_1981,M,40,Pune,Maharashtra,2026-01-17,Organic,0
+1982,Customer_1982,M,18,Pune,Maharashtra,2025-04-15,Organic,0
+1983,Customer_1983,M,27,Kolkata,West Bengal,2025-02-05,Instagram Ads,0
+1984,Customer_1984,M,38,Bengaluru,Karnataka,2026-07-12,Referral,0
+1985,Customer_1985,M,30,Mumbai,Maharashtra,2026-01-07,Instagram Ads,1
+1986,Customer_1986,M,26,Ahmedabad,Gujarat,2025-04-16,Organic,1
+1987,Customer_1987,F,24,Ahmedabad,Gujarat,2026-01-10,Google Ads,0
+1988,Customer_1988,M,28,Mumbai,Maharashtra,2026-05-20,Organic,0
+1989,Customer_1989,F,46,Bengaluru,Karnataka,2025-12-21,Influencer,1
+1990,Customer_1990,F,26,Kolkata,West Bengal,2025-11-26,Influencer,1
+1991,Customer_1991,F,34,Pune,Maharashtra,2026-02-15,Referral,0
+1992,Customer_1992,F,37,Nagpur,Maharashtra,2025-08-26,Influencer,0
+1993,Customer_1993,M,31,Jaipur,Rajasthan,2025-06-22,Instagram Ads,0
+1994,Customer_1994,M,18,Ahmedabad,Gujarat,2026-07-25,Instagram Ads,0
+1995,Customer_1995,F,37,Delhi,Delhi,2025-08-19,Instagram Ads,0
+1996,Customer_1996,F,34,Jaipur,Rajasthan,2026-07-29,Organic,0
+1997,Customer_1997,F,32,Delhi,Delhi,2026-03-14,Instagram Ads,0
+1998,Customer_1998,M,19,Kolkata,West Bengal,2025-03-18,Influencer,1
+1999,Customer_1999,F,19,Delhi,Delhi,2025-03-17,Organic,0
+2000,Customer_2000,M,26,Chennai,Tamil Nadu,2026-03-16,Google Ads,0
