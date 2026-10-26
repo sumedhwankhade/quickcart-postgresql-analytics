@@ -98,4 +98,5 @@ Headline (Delivered orders): **8,553 orders · 1,962 customers · ₹1.11 Cr rev
 - Invest more in referral.
 
 ## 8. Author
-**Your Name** · Data Analyst · [LinkedIn](#) · [GitHub](#)
+Sumedh Wankhade (Aspiring Data Analyst)
+**Skills:** Excel | SQL | Python | Power BI 
