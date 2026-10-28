@@ -42,7 +42,6 @@ quickcart-postgresql-analytics/
 │   ├── 04_customer_analytics.sql     CLV, RFM, cohort retention
 │   └── 05_delivery_and_ops.sql       delivery vs rating, cancellations, market basket
 ├── README.md
-└── INTERVIEW_GUIDE.md
 ```
 
 ## 4. How to Run in pgAdmin 4
